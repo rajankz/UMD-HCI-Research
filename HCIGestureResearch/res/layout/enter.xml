@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:layout_marginLeft="10dp"
+              android:layout_marginRight="10dp"
+        >
+
+
+
+    <LinearLayout android:orientation="vertical"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content" >
+        <TextView android:text="@string/enterText"
+                  android:layout_height="wrap_content"
+                  android:layout_width="fill_parent"
+                  android:textSize="15dp"
+                  android:gravity="left"
+                  android:paddingTop="3dp"
+                  android:paddingBottom="3dp"
+                />
+        <EditText android:id="@+id/participantId"
+                  android:layout_height="wrap_content"
+                  android:layout_width="fill_parent"
+                  android:textSize="20dp"
+                  android:singleLine="true"
+                  android:background="#cccccc"
+                  android:gravity="left"
+                  android:padding="4dp"
+                  android:inputType="text"/>
+    </LinearLayout>
+
+    <LinearLayout android:orientation="vertical"
+                  android:layout_marginTop="15dp"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content" >
+        <TextView android:text="Choose Test Type"
+                  android:layout_height="wrap_content"
+                  android:layout_width="fill_parent"
+                  android:textSize="15dp"
+                  android:gravity="left"
+                  android:paddingTop="3dp"
+                  android:paddingBottom="3dp"
+                />
+        <RadioGroup
+                android:id="@+id/radgrpTestType"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:checkedButton="@+id/radio_practice"
+                android:onClick="onRadioClicked"
+                android:orientation="horizontal">
+            <RadioButton android:id="@+id/radio_practice"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+
+                         android:text="Practice" />
+            <RadioButton android:id="@+id/radio_test"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="Test" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <LinearLayout android:orientation="horizontal"
+                  android:layout_marginTop="15dp"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content" >
+
+        <LinearLayout android:orientation="vertical"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content" >
+            <TextView android:text="Number of Sets"
+                      android:layout_height="wrap_content"
+                      android:layout_width="wrap_content"
+                      android:textSize="15dp"
+                      android:gravity="left"
+                      android:paddingTop="3dp"
+                      android:paddingBottom="3dp"
+                    />
+
+            <TextView android:text="Number of Phrases"
+                      android:layout_height="wrap_content"
+                      android:layout_width="wrap_content"
+                      android:textSize="15dp"
+                      android:gravity="left"
+                      android:paddingTop="3dp"
+                      android:paddingBottom="3dp"
+                      android:layout_marginTop="10dp"
+                    />
+
+        </LinearLayout>
+
+        <LinearLayout android:orientation="vertical"
+                      android:layout_width="fill_parent"
+                      android:layout_height="wrap_content"
+                      android:layout_marginLeft="20dp"   >
+
+            <EditText android:id="@+id/numSets"
+                      android:inputType="number"
+                      android:text="@string/numOfSets"
+                      android:layout_height="wrap_content"
+                      android:layout_width="fill_parent"
+                      android:textSize="15dp"
+                      android:singleLine="true"
+                      android:background="#cccccc"
+                      android:gravity="left"
+                      android:padding="4dp"/>
+
+            <EditText android:id="@+id/numPhrases"
+                      android:layout_height="wrap_content"
+                      android:layout_width="fill_parent"
+                      android:textSize="15dp"
+                      android:singleLine="true"
+                      android:background="#cccccc"
+                      android:gravity="left"
+                      android:padding="4dp"
+                      android:layout_marginTop="10dp"
+                      android:text="@string/numOfPhrases"
+                      android:inputType="number"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout android:orientation="vertical"
+                  android:layout_marginTop="15dp"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content" >
+        <TextView android:text="Choose Input Set"
+                  android:layout_height="wrap_content"
+                  android:layout_width="fill_parent"
+                  android:textSize="15dp"
+                  android:gravity="left"
+                  android:paddingTop="3dp"
+                  android:paddingBottom="3dp"
+                />
+        <RadioGroup
+                android:id="@+id/rGrpInputSet"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:checkedButton="@+id/radio_normal"
+                android:onClick="onRadioClicked"
+                android:orientation="horizontal">
+            <RadioButton android:id="@+id/radio_normal"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="Normal" />
+            <RadioButton android:id="@+id/radio_mixed"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="Mixed" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <LinearLayout android:orientation="vertical"
+                  android:layout_marginTop="15dp"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content" >
+        <CheckBox android:id="@+id/cbUseGestures"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="Enable Gestures"
+                  android:onClick="onCheckboxClicked"/>
+        <CheckBox android:id="@+id/cbUseAlternateKeyboard"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="Alternate Keyboard"
+                  android:onClick="onCheckboxClicked"/>
+    </LinearLayout>
+
+    <Button android:id="@+id/startButton"
+            android:layout_marginTop="50dp"
+            android:layout_gravity="bottom"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:text="Start"
+            android:gravity="center_horizontal"
+            />
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/topLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView android:text="This is the end of current test. Please call the coordinator."
+              android:layout_height="wrap_content"
+              android:layout_width="fill_parent"
+              android:textSize="20dp"
+              android:paddingTop="20dp"
+              android:paddingBottom="20dp"
+
+            />
+	
+	<Button
+	    android:id="@+id/btnEnd"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:background="#cccccc"
+        android:onClick="btnEndClick"
+    />
+
+</LinearLayout>
+
+
+
