@@ -150,7 +150,11 @@ public class HCILogger {
     }
 
     public void logSystemEvents(String eventType, long systemTimestamp){
-        info("< "+TagName.SYSTEM+" event="+eventType+" systemTimestamp="+systemTimestamp+" />");
+        info("<"+TagName.SYSTEM+" event="+eventType+" systemTimestamp="+systemTimestamp+" />");
+    }
+
+    public void logEnteredTextFinal(String text,long systemTimestamp){
+        info("<"+TagName.SYSTEM+" event=LogEnteredText"+" text="+text+" systemTimestamp="+systemTimestamp+" />");
     }
 
     public void debug(String log){

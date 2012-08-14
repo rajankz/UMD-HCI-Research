@@ -39,10 +39,11 @@ import java.util.Random;
 
  * Things we should definitely support:
  Common/normal punctuation: ? ! ' - " &
- Symbols used on the internet: @ # /
+ Symbols used on the internet: @ #
  Math/number symbols: $ %
  *
  */
+
 public class StartActivity extends Activity implements OnClickListener, View.OnTouchListener {
     private static final String TAG = "StartActivity";
 
@@ -52,7 +53,6 @@ public class StartActivity extends Activity implements OnClickListener, View.OnT
     private SettingsValues mSettingsValues;
 
     int index = 0;
-    private static boolean firstClick = false;
     private static InputStream iStream;
     private static BufferedReader br;
     SharedPreferences sharedPrefs;
@@ -65,12 +65,11 @@ public class StartActivity extends Activity implements OnClickListener, View.OnT
     final int NUM_SETS = 2;
     final int NUM_PHRASES = 20;
 
-    enum TestType{Practice, Test};
+    enum TestType{Practice, Training, Test};
     enum InputSet{Normal, Mixed};
 
     boolean enableGestures;
     boolean enableAlternateKeyboard;
-    //boolean enableAutoCorrect;
 
     RadioGroup rGroup;
     String mTestType, mInputSet;
@@ -99,12 +98,11 @@ public class StartActivity extends Activity implements OnClickListener, View.OnT
                 return new SettingsValues(sharedPrefs, StartActivity.this);
             }
         };
-        //mSettingsValues = job.runInLocale(mResources, mSubtypeSwitcher.getCurrentSubtypeLocale());
+
         mSettingsValues = job.runInLocale(mResources, Locale.getDefault());
 
         setDefaultValues();
 
-        iStream = getResources().openRawResource(R.raw.phrases);
         br = new BufferedReader(new InputStreamReader(iStream));
 
 
@@ -146,30 +144,28 @@ public class StartActivity extends Activity implements OnClickListener, View.OnT
     private void getAllValues(){
         participantID = ((EditText)findViewById(R.id.participantId)).getText().toString();
 
-        try{
-        numOfSets =  Integer.parseInt(((EditText)findViewById(R.id.numSets)).getText().toString());
-        }catch(NumberFormatException nfe){numOfSets = NUM_SETS;}
-        catch(NullPointerException npe){numOfSets = NUM_SETS;}
-
-        try{
-        numOfPhrases =  Integer.parseInt(((EditText)findViewById(R.id.numPhrases)).getText().toString());
-        }catch(NumberFormatException nfe){numOfPhrases = NUM_PHRASES;}
-        catch(NullPointerException npe){numOfPhrases = NUM_PHRASES;}
+        numOfSets = Integer.valueOf(((EditText)findViewById(R.id.numSets)).getText().toString());
+        numOfPhrases = Integer.valueOf(((EditText)findViewById(R.id.numPhrases)).getText().toString());
 
         rGroup = (RadioGroup)findViewById(R.id.radgrpTestType);
-        if(rGroup.getCheckedRadioButtonId() == R.id.radio_practice)
+        if(rGroup.getCheckedRadioButtonId() == R.id.radio_practice)  {
             mTestType = TestType.Practice.toString();
-        else
+            iStream = getResources().openRawResource(R.raw.practice);
+        }
+        else if(rGroup.getCheckedRadioButtonId() == R.id.radio_training)  {
+            mTestType = TestType.Training.toString();
+            iStream = getResources().openRawResource(R.raw.training);
+        }
+        else if(rGroup.getCheckedRadioButtonId() == R.id.radio_test)  {
             mTestType = TestType.Test.toString();
+            iStream = getResources().openRawResource(R.raw.test);
+        }
 
         rGroup = (RadioGroup)findViewById(R.id.rGrpInputSet);
         if(rGroup.getCheckedRadioButtonId() == R.id.radio_normal)
             mInputSet = InputSet.Normal.toString();
         else
             mInputSet = InputSet.Mixed.toString();
-
-
-
     }
 
     public void onCheckboxClicked(View view){
@@ -190,22 +186,6 @@ public class StartActivity extends Activity implements OnClickListener, View.OnT
                  break;
          }
      }
-
-    public void onRadioClicked(View view){
-        //Toast.makeText(this.getApplicationContext(),""+view.toString(),10).show();
-        //Log.d(TAG,view.toString());
-
-    }
-
-    @Override
-    public boolean dispatchTouchEvent(MotionEvent ev){
-        /*
-        final int action = ev.getAction();
-        Log.i(TAG,"action="+action);
-        */
-        return super.dispatchTouchEvent(ev);
-    }
-
 
     @Override
     public void onClick(View view) {
@@ -237,22 +217,19 @@ public class StartActivity extends Activity implements OnClickListener, View.OnT
         this.setContentView(R.layout.activity_main);
         phraseText = (TextView)findViewById(R.id.phraseText);
         phraseInput = (EditText)findViewById(R.id.editText);
-        //phraseInput.setOnKeyListener(this);
+
         phraseInput.setOnEditorActionListener(new TextView.OnEditorActionListener() {
             @Override
             public boolean onEditorAction(TextView textView, int keyCode, KeyEvent keyEvent) {
-                if(keyCode == (EditorInfo.IME_ACTION_DONE)){// && keyEvent.getAction() == KeyEvent.ACTION_UP){
-                    HCILogger.getInstance().logSystemEvents("DONE_CLICK",Calendar.getInstance().getTimeInMillis());
-                    if(!phraseText.getText().equals("") && (phraseInput.getText().length() < phraseText.getText().length()/2)){
-                        return true;
-                    }
-                    loadPhrases();
+            if(keyCode == (EditorInfo.IME_ACTION_DONE)){// && keyEvent.getAction() == KeyEvent.ACTION_UP){
+                HCILogger.getInstance().logSystemEvents("DONE_CLICK",Calendar.getInstance().getTimeInMillis());
+                HCILogger.getInstance().logEnteredTextFinal(phraseInput.getText().toString(),Calendar.getInstance().getTimeInMillis());
+                if(!phraseText.getText().equals("") && (phraseInput.getText().length() < phraseText.getText().length()/2)){
+                    return true;
                 }
-                return true;
-
-                //Log.d(TAG, "onEditorAction");
-                //TODO: This is where we handle the ENTER key
-                //return false;  //To change body of implemented methods use File | Settings | File Templates.
+                loadPhrases();
+            }
+            return true;
             }
         });
         loadPhrases();
@@ -286,7 +263,6 @@ public class StartActivity extends Activity implements OnClickListener, View.OnT
             showBreakScreen();
 
         if(mInputSet.equals(InputSet.Normal.toString())){
-
             loadNoramlPhrases();
         }else{
             loadMixedPhrases();

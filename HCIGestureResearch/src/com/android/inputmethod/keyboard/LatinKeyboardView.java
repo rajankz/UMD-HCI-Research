@@ -1117,6 +1117,8 @@ public class LatinKeyboardView extends KeyboardView implements PointerTracker.Ke
                     return processMotionEvent(ev);}
                 onFirstTouchUp(ev);
                 if(mPreviousWasGesturing){
+
+                    //TODO: check prev shift status and go back
                     //processMotionEvent(ev);
                     //cancelAllMessages();
                 }

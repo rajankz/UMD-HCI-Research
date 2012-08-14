@@ -54,8 +54,11 @@
             <RadioButton android:id="@+id/radio_practice"
                          android:layout_width="wrap_content"
                          android:layout_height="wrap_content"
-
                          android:text="Practice" />
+            <RadioButton android:id="@+id/radio_training"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="Training" />
             <RadioButton android:id="@+id/radio_test"
                          android:layout_width="wrap_content"
                          android:layout_height="wrap_content"
@@ -103,6 +106,7 @@
                       android:layout_height="wrap_content"
                       android:layout_width="fill_parent"
                       android:textSize="15dp"
+                      android:digits="true"
                       android:singleLine="true"
                       android:background="#cccccc"
                       android:gravity="left"
@@ -112,6 +116,7 @@
                       android:layout_height="wrap_content"
                       android:layout_width="fill_parent"
                       android:textSize="15dp"
+                      android:digits="true"
                       android:singleLine="true"
                       android:background="#cccccc"
                       android:gravity="left"
