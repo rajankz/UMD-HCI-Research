@@ -1,0 +1,3 @@
+[submodule "HCIGestuer"]
+	path = HCIGestuer
+	url = /home/raj/dev/research/UMD-HCI-Research.git/HCIGestuer
