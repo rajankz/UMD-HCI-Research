@@ -3,6 +3,7 @@ package com.logger;
 import android.os.Environment;
 import android.util.Log;
 import android.view.MotionEvent;
+import com.android.inputmethod.keyboard.Keyboard;
 import com.google.code.microlog4android.Level;
 import com.google.code.microlog4android.Logger;
 import com.google.code.microlog4android.LoggerFactory;
@@ -126,6 +127,7 @@ public class HCILogger {
         StringBuilder sb = new StringBuilder("");
         sb.append("<"+TagName.KEY);
         sb.append(" keyCode="+keyCode);
+        sb.append(" printKey="+ Keyboard.printableCode(keyCode));
         sb.append(" systemTimestamp="+systemTimestamp);
         sb.append(" />");
         info(sb.toString());
@@ -134,6 +136,7 @@ public class HCILogger {
         StringBuilder sb = new StringBuilder("");
         sb.append("<"+TagName.KEY);
         sb.append(" keyCode="+keyCode);
+        sb.append(" printKey="+ Keyboard.printableCode(keyCode));
         sb.append(" x="+x);
         sb.append(" y="+y);
         sb.append(" systemTimestamp="+systemTimestamp);
