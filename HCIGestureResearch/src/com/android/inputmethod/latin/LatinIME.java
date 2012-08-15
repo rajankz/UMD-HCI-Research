@@ -180,6 +180,8 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
 
     private int mCorrectionMode;
 
+    private boolean gestured = false;
+
     // Keep track of the last selection range to decide if we need to show word alternatives
     private static final int NOT_A_CURSOR_POSITION = -1;
     private int mLastSelectionStart = NOT_A_CURSOR_POSITION;
@@ -1306,6 +1308,10 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
     // Implementation of {@link KeyboardActionListener}.
     @Override
     public void onCodeInput(int primaryCode, int x, int y) {
+        if(gestured){
+            gestured = false;
+            return;
+        }
         HCILogger.getInstance().logKeyXY(primaryCode,x,y,Calendar.getInstance().getTimeInMillis());
         final long when = SystemClock.uptimeMillis();
         if (primaryCode != Keyboard.CODE_DELETE || when > mLastKeyTime + QUICK_PRESS) {
@@ -2528,6 +2534,7 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
     @Override
     public void onGesturePerformed(LatinKeyboardView overlay, Gesture gesture) {
         HCILogger.getInstance().info(Calendar.getInstance().getTimeInMillis() + ": OnGesturePerformed.");
+        gestured = true;
         Prediction prediction;
 
         ArrayList<Prediction> predictions;

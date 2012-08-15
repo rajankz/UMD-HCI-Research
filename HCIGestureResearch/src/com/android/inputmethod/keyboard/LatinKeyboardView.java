@@ -195,6 +195,8 @@ public class LatinKeyboardView extends KeyboardView implements PointerTracker.Ke
     SharedPreferences sharedPrefs;
 
     private MotionEvent mFirstTouchDownEvent;
+    private Object mFirstTouchDownObject = new Object();
+
     private MotionEvent newTouchUpEvent;
     private boolean detectAsKeyPress = false;
     //private boolean inGestureMode = false;
@@ -281,10 +283,15 @@ public class LatinKeyboardView extends KeyboardView implements PointerTracker.Ke
             mGestureTagLogged = false;
         }
         mPath.rewind();
+        if(mPreviousWasGesturing){
+            detectAsGesture();
+        }
+        /*
         if((mKeyUpTimeInMS - mKeyDownTimeInMS <= GESTURE_THRESHOLD_MS && !mPreviousWasGesturing)||(mCurrentGesture==null)||(mCurrentGesture.getStrokesCount()==0))
             detectAsKeyPress(me);
         else
             detectAsGesture();
+        */
         mPath.reset();
         invalidate();
     }
@@ -1098,7 +1105,10 @@ public class LatinKeyboardView extends KeyboardView implements PointerTracker.Ke
                 currentPointerIndex = ev.findPointerIndex(pointerId);
                 HCILogger.getInstance().logTouchEvent(event,pointerId,ev.getX(currentPointerIndex),ev.getY(currentPointerIndex),ev.getEventTime(),totalPointers,Calendar.getInstance().getTimeInMillis());
                 //HCILogger.getInstance().info(Calendar.getInstance().getTimeInMillis()+": First Pointer Down. x="+ev.getX()+" y="+ev.getY());
+                //mFirstTouchDownObject =
+                //TODO: find a way to recycle this event
                 mFirstTouchDownEvent = ev;
+
                 onFirstTouchDown(ev);
                 if(!isInGestureMode()){ Log.i(TAG, "action-down"); //return super.onTouchEvent(ev);
                 return processMotionEvent(ev); }
@@ -1116,7 +1126,9 @@ public class LatinKeyboardView extends KeyboardView implements PointerTracker.Ke
                 if(!isInGestureMode()){ Log.i(TAG, "action-up"); //return super.onTouchEvent(ev);
                     return processMotionEvent(ev);}
                 onFirstTouchUp(ev);
-                if(mPreviousWasGesturing){
+                if(!mPreviousWasGesturing){
+                  //processMotionEvent(mFirstTouchDownEvent);
+                  //return processMotionEvent(ev);
 
                     //TODO: check prev shift status and go back
                     //processMotionEvent(ev);

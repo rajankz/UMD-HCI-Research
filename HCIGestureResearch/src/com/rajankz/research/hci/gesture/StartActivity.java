@@ -103,9 +103,6 @@ public class StartActivity extends Activity implements OnClickListener, View.OnT
 
         setDefaultValues();
 
-        br = new BufferedReader(new InputStreamReader(iStream));
-
-
         participantIdText = (EditText)findViewById(R.id.participantId);
         participantIdText.requestFocus();
         final Button startButton = (Button)findViewById(R.id.startButton);
@@ -161,6 +158,8 @@ public class StartActivity extends Activity implements OnClickListener, View.OnT
             iStream = getResources().openRawResource(R.raw.test);
         }
 
+        br = new BufferedReader(new InputStreamReader(iStream));
+
         rGroup = (RadioGroup)findViewById(R.id.rGrpInputSet);
         if(rGroup.getCheckedRadioButtonId() == R.id.radio_normal)
             mInputSet = InputSet.Normal.toString();
@@ -193,6 +192,7 @@ public class StartActivity extends Activity implements OnClickListener, View.OnT
             getAllValues();
             HCILogger.getInstance().setLogFolderName(participantID);
             HCILogger.getInstance().logSessionStart(participantID, enableGestures, enableAlternateKeyboard, mTestType, mInputSet,numOfSets,numOfPhrases,Calendar.getInstance().getTimeInMillis());
+
 
             fillPhraseList();
 

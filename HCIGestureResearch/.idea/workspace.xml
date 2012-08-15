@@ -12,7 +12,7 @@
     </option>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="INFO" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63a4a052-dc6a-436f-85f9-9f27ad37f18a" name="Default" comment="" />
@@ -33,7 +33,7 @@
   </component>
   <component name="DebuggerManager">
     <line_breakpoints>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/LatinKeyboardView.java" line="1118" class="com.android.inputmethod.keyboard.LatinKeyboardView" package="com.android.inputmethod.keyboard">
+      <breakpoint url="file://$PROJECT_DIR$/src/com/android/inputmethod/latin/LatinIME.java" line="1268" class="com.android.inputmethod.latin.LatinIME" package="com.android.inputmethod.latin">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -43,23 +43,10 @@
         <option name="CONDITION_ENABLED" value="false" />
         <option name="CLASS_FILTERS_ENABLED" value="false" />
         <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/android/inputmethod/latin/LatinIME.java" line="1266" class="com.android.inputmethod.latin.LatinIME" package="com.android.inputmethod.latin">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="false" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/android/inputmethod/latin/LatinIME.java" line="1308" class="com.android.inputmethod.latin.LatinIME" package="com.android.inputmethod.latin">
+      <breakpoint url="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/LatinKeyboardView.java" line="439" class="com.android.inputmethod.keyboard.LatinKeyboardView" package="com.android.inputmethod.keyboard">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -133,7 +120,7 @@
       <file leaf-file-name="LatinIME.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/latin/LatinIME.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1308" column="0" selection-start="57325" selection-end="57325" vertical-scroll-proportion="0.0">
+            <state line="1314" column="0" selection-start="57446" selection-end="57446" vertical-scroll-proportion="-8.153846">
               <folding>
                 <element signature="class#UIHandler#0;class#LatinIME#0" expanded="false" />
                 <element signature="method#onCreate#0;class#LatinIME#0" expanded="false" />
@@ -146,6 +133,7 @@
                 <element signature="method#onConfigurationChanged#0;class#LatinIME#0" expanded="false" />
                 <element signature="method#onCreateInputView#0;class#LatinIME#0" expanded="false" />
                 <element signature="method#setInputView#0;class#LatinIME#0" expanded="false" />
+                <element signature="e#28198#28230#0" expanded="true" />
                 <element signature="method#onStartInputViewInternal#0;class#LatinIME#0" expanded="false" />
                 <element signature="method#onFinishInputInternal#0;class#LatinIME#0" expanded="false" />
                 <element signature="method#onFinishInputViewInternal#0;class#LatinIME#0" expanded="false" />
@@ -167,11 +155,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LatinKeyboardView.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="LatinKeyboardView.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/LatinKeyboardView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="531" column="69" selection-start="18992" selection-end="19010" vertical-scroll-proportion="-5.076923">
+            <state line="1128" column="0" selection-start="43516" selection-end="43516" vertical-scroll-proportion="0.3316583">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MotionEvent.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/view/MotionEvent.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="124" column="6" selection-start="4857" selection-end="4857" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="class#PointerProperties#0;class#MotionEvent#0" expanded="false" />
+                <element signature="class#PointerCoords#0;class#MotionEvent#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="View.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/view/View.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="463" column="19" selection-start="23309" selection-end="23309" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewGroup.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/view/ViewGroup.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#18802#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -203,19 +223,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KeyboardLayoutSet.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/KeyboardLayoutSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="167" column="0" selection-start="6247" selection-end="6247" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KeyboardState.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="KeyboardState.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/internal/KeyboardState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="540" column="100" selection-start="22085" selection-end="22085" vertical-scroll-proportion="0.19450802">
+            <state line="540" column="100" selection-start="22085" selection-end="22085" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="method#updateAlphabetShiftState#0;class#KeyboardState#0" expanded="false" />
                 <element signature="method#onPressShift#0;class#KeyboardState#0" expanded="false" />
@@ -225,11 +236,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ModifierKeyState.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/internal/ModifierKeyState.java">
+      <file leaf-file-name="StartActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="0" selection-start="1339" selection-end="1339" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="160" column="64" selection-start="5818" selection-end="5818" vertical-scroll-proportion="-11.269231">
+              <folding>
+                <element signature="docComment;class#StartActivity#0" expanded="false" />
+                <element signature="class#3714:4231" expanded="false" />
+                <element signature="method#setDefaultValues#0;class#StartActivity#0" expanded="false" />
+                <element signature="method#onCheckboxClicked#0;class#StartActivity#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -258,11 +274,11 @@
         <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/PointerTracker.java" />
         <option value="$PROJECT_DIR$/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/res/raw/phrases.txt" />
-        <option value="$PROJECT_DIR$/src/com/android/inputmethod/latin/LatinIME.java" />
-        <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/LatinKeyboardView.java" />
         <option value="$PROJECT_DIR$/res/layout/enter.xml" />
         <option value="$PROJECT_DIR$/src/com/logger/HCILogger.java" />
         <option value="$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/LatinKeyboardView.java" />
+        <option value="$PROJECT_DIR$/src/com/android/inputmethod/latin/LatinIME.java" />
       </list>
     </option>
   </component>
@@ -531,7 +547,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="821" extended-state="0" />
+    <frame x="0" y="22" width="1440" height="821" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -620,23 +636,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/internal/KeyboardCodesSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="17" selection-start="2728" selection-end="2728" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/KeyboardView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="992" column="16" selection-start="43685" selection-end="43685" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/view/View.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="463" column="19" selection-start="23309" selection-end="23309" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/latin/WordComposer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="193" column="8" selection-start="6644" selection-end="6644" vertical-scroll-proportion="0.0" />
@@ -671,9 +670,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/KeyboardSwitcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="324" column="33" selection-start="12561" selection-end="12579" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/enter.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="42" selection-start="5198" selection-end="5198" vertical-scroll-proportion="0.8915663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/logger/HCILogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="155" column="35" selection-start="5752" selection-end="5771" vertical-scroll-proportion="0.46910754">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/internal/KeyboardState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="540" column="100" selection-start="22085" selection-end="22085" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="method#updateAlphabetShiftState#0;class#KeyboardState#0" expanded="false" />
+            <element signature="method#onPressShift#0;class#KeyboardState#0" expanded="false" />
+            <element signature="method#onReleaseShift#0;class#KeyboardState#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="160" column="64" selection-start="5818" selection-end="5818" vertical-scroll-proportion="-11.269231">
+          <folding>
+            <element signature="docComment;class#StartActivity#0" expanded="false" />
+            <element signature="class#3714:4231" expanded="false" />
+            <element signature="method#setDefaultValues#0;class#StartActivity#0" expanded="false" />
+            <element signature="method#onCheckboxClicked#0;class#StartActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/view/ViewGroup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#18802#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/view/View.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="463" column="19" selection-start="23309" selection-end="23309" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/view/MotionEvent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="6" selection-start="4857" selection-end="4857" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="class#PointerProperties#0;class#MotionEvent#0" expanded="false" />
+            <element signature="class#PointerCoords#0;class#MotionEvent#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/latin/LatinIME.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1308" column="0" selection-start="57325" selection-end="57325" vertical-scroll-proportion="0.0">
+        <state line="1314" column="0" selection-start="57446" selection-end="57446" vertical-scroll-proportion="-8.153846">
           <folding>
             <element signature="class#UIHandler#0;class#LatinIME#0" expanded="false" />
             <element signature="method#onCreate#0;class#LatinIME#0" expanded="false" />
@@ -686,6 +755,7 @@
             <element signature="method#onConfigurationChanged#0;class#LatinIME#0" expanded="false" />
             <element signature="method#onCreateInputView#0;class#LatinIME#0" expanded="false" />
             <element signature="method#setInputView#0;class#LatinIME#0" expanded="false" />
+            <element signature="e#28198#28230#0" expanded="true" />
             <element signature="method#onStartInputViewInternal#0;class#LatinIME#0" expanded="false" />
             <element signature="method#onFinishInputInternal#0;class#LatinIME#0" expanded="false" />
             <element signature="method#onFinishInputViewInternal#0;class#LatinIME#0" expanded="false" />
@@ -708,52 +778,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/LatinKeyboardView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="531" column="69" selection-start="18992" selection-end="19010" vertical-scroll-proportion="-5.076923">
+        <state line="1128" column="0" selection-start="43516" selection-end="43516" vertical-scroll-proportion="0.3316583">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/KeyboardSwitcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="324" column="33" selection-start="12561" selection-end="12579" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/enter.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="42" selection-start="5198" selection-end="5198" vertical-scroll-proportion="0.8915663">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="36" selection-start="2129" selection-end="2129" vertical-scroll-proportion="-1.2382076">
-          <folding>
-            <element signature="docComment;class#StartActivity#0" expanded="false" />
-            <element signature="class#3781:4298" expanded="false" />
-            <element signature="method#setDefaultValues#0;class#StartActivity#0" expanded="false" />
-            <element signature="method#onCheckboxClicked#0;class#StartActivity#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/logger/HCILogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="155" column="35" selection-start="5752" selection-end="5771" vertical-scroll-proportion="0.46910754">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/internal/KeyboardState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="540" column="100" selection-start="22085" selection-end="22085" vertical-scroll-proportion="0.19450802">
-          <folding>
-            <element signature="method#updateAlphabetShiftState#0;class#KeyboardState#0" expanded="false" />
-            <element signature="method#onPressShift#0;class#KeyboardState#0" expanded="false" />
-            <element signature="method#onReleaseShift#0;class#KeyboardState#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
