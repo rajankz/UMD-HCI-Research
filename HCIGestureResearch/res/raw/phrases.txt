@@ -1,23 +1,23 @@
-'peek out the window'
-'prayer in schools offends some'
-'this equation is too complicated'
-'microscopes make small things look big'
-'sprawling subdivisions are bad'
-'drugs should be avoided'
-'my fingers are very cold'
-'we must redouble our efforts'
-'life is but a dream'
-'a touchdown in the last minute'
-"the laser printer is jammed"
-"the elevator door appears to be stuck"
-"can I skate with sister today"
-"only an idiot would lie in court"
-"they love to yap about nothing"
-"shall we play a round of cards"
-"Santa Claus got stuck"
-"the treasurer must balance her books"
-"he called seven times"
-"we park in driveways"
+peek out 'the window'
+prayer in 'schools' offends some
+this 'equation' is too complicated
+microscopes make small things 'look big'
+sprawling 'subdivisions' are bad
+drugs 'should be avoided'
+my fingers are 'very cold'
+we must 'redouble' our efforts
+life is 'but a dream'
+a 'touchdown' in the last minute
+the laser printer is "jammed"
+the elevator door "appears" to be stuck
+can I skate with sister "today"
+only an idiot would "lie" in court
+they love to "yap" about nothing
+shall we play "a round of cards"
+Santa Claus "got stuck"
+the treasurer must "balance" her books
+he called "seven" times
+we park in "driveways"
 gas bills $ are sent monthly!
 I will meet you @ noon!
 go out for some pizza & beer!

@@ -1880,11 +1880,10 @@ containing a value of this type.
         public static final int gestures4=0x7f060004;
         public static final int main=0x7f060005;
         public static final int main_en=0x7f060006;
-        public static final int mixed=0x7f060007;
-        public static final int phrases=0x7f060008;
-        public static final int practice=0x7f060009;
-        public static final int test=0x7f06000a;
-        public static final int training=0x7f06000b;
+        public static final int phrases=0x7f060007;
+        public static final int practice=0x7f060008;
+        public static final int test=0x7f060009;
+        public static final int training=0x7f06000a;
     }
     public static final class string {
         /**  Title of the button to add custom style entry in the settings dialog [CHAR LIMIT=15] 

@@ -139,10 +139,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StartActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="StartActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="232" column="40" selection-start="8175" selection-end="8175" vertical-scroll-proportion="0.17371938">
+            <state line="232" column="40" selection-start="8175" selection-end="8175" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="class#3785:4302" expanded="false" />
                 <element signature="method#setDefaultValues#0;class#StartActivity#0" expanded="false" />
@@ -153,6 +153,42 @@
                 <element signature="e#7977#8840#0" expanded="true" />
                 <element signature="e#8829#8830#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phrases.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/raw/phrases.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="94" column="133" selection-start="3070" selection-end="3070" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="practice.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/raw/practice.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/raw/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="training.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/raw/training.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -191,15 +227,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KeyboardActionListener.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/KeyboardActionListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="0" selection-start="1469" selection-end="1469" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="InputView.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/latin/InputView.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -222,12 +249,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/android/inputmethod/latin/Settings.java" />
-        <option value="$PROJECT_DIR$/src/com/android/inputmethod/latin/SettingsValues.java" />
-        <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/KeyboardId.java" />
         <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/KeyboardLayoutSet.java" />
         <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/PointerTracker.java" />
-        <option value="$PROJECT_DIR$/res/raw/phrases.txt" />
         <option value="$PROJECT_DIR$/src/com/logger/HCILogger.java" />
         <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/internal/KeyboardState.java" />
         <option value="$PROJECT_DIR$/res/layout/intermission.xml" />
@@ -238,6 +261,10 @@
         <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/KeyboardSwitcher.java" />
         <option value="$PROJECT_DIR$/src/com/android/inputmethod/latin/LatinIME.java" />
         <option value="$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java" />
+        <option value="$PROJECT_DIR$/res/raw/phrases.txt" />
+        <option value="$PROJECT_DIR$/res/raw/practice.txt" />
+        <option value="$PROJECT_DIR$/res/raw/test.txt" />
+        <option value="$PROJECT_DIR$/res/raw/training.txt" />
       </list>
     </option>
   </component>
@@ -360,7 +387,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
+              <option name="myItemId" value="raw" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -607,7 +634,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21377331" sideWeight="0.68" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32" sideWeight="0.49713057" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32" sideWeight="0.49713057" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -673,45 +700,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/view/ViewGroup.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="19" selection-start="5848" selection-end="5848" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#18794#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/app/Dialog.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="19" selection-start="4101" selection-end="4101" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/view/View.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="463" column="19" selection-start="23309" selection-end="23309" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/os/MessageQueue.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#616#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/os/Looper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="16" selection-start="745" selection-end="745" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/PointerTracker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="309" column="34" selection-start="12163" selection-end="12175" vertical-scroll-proportion="0.0">
@@ -800,7 +788,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="232" column="40" selection-start="8175" selection-end="8175" vertical-scroll-proportion="0.17371938">
+        <state line="232" column="40" selection-start="8175" selection-end="8175" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="class#3785:4302" expanded="false" />
             <element signature="method#setDefaultValues#0;class#StartActivity#0" expanded="false" />
@@ -811,6 +799,34 @@
             <element signature="e#7977#8840#0" expanded="true" />
             <element signature="e#8829#8830#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw/phrases.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="133" selection-start="3070" selection-end="3070" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw/practice.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw/training.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
