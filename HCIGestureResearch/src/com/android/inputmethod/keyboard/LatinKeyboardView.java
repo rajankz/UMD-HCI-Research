@@ -123,13 +123,14 @@ public class LatinKeyboardView extends KeyboardView implements PointerTracker.Ke
     private Key mOldKey;
 
     private final KeyTimerHandler mKeyTimerHandler;
+    private int lastPressedKeyCode;
 
     /////////////
 
 
     /** CONSTANTS */
     private static final int INVALID_STATE=-1;
-    private final long GESTURE_THRESHOLD_MS = 200;
+    private final long GESTURE_THRESHOLD_MS = 400;
 
     private int inkColor =  Color.CYAN;
 
@@ -210,6 +211,8 @@ public class LatinKeyboardView extends KeyboardView implements PointerTracker.Ke
 
    ///////////
 
+    public int getLastPressedKeyCode(){return lastPressedKeyCode;}
+
     public static interface OnGesturingListener {
         void onGesturingStarted(LatinKeyboardView overlay);
 
@@ -283,8 +286,10 @@ public class LatinKeyboardView extends KeyboardView implements PointerTracker.Ke
             mGestureTagLogged = false;
         }
         mPath.rewind();
-        if(mPreviousWasGesturing){
+        if(mKeyUpTimeInMS - mKeyDownTimeInMS > GESTURE_THRESHOLD_MS && mPreviousWasGesturing){
             detectAsGesture();
+        }else{
+            detectAsKeyPress(me);
         }
         /*
         if((mKeyUpTimeInMS - mKeyDownTimeInMS <= GESTURE_THRESHOLD_MS && !mPreviousWasGesturing)||(mCurrentGesture==null)||(mCurrentGesture.getStrokesCount()==0))
@@ -906,9 +911,12 @@ public class LatinKeyboardView extends KeyboardView implements PointerTracker.Ke
 
 
     private boolean callLongPress(Key parentKey, PointerTracker tracker){
-        //rajankz: we want to display greyed out area on all keys
-        if(isGestureEnabled())
+        //rajankz: we want to display greyed out area on all keys, and exclude delete key
+        if(isGestureEnabled() && parentKey.mCode!=Keyboard.CODE_DELETE){
+            if(parentKey!=null)
+                lastPressedKeyCode = parentKey.mCode;
             return onLongPress();
+        }
         return onLongPress(parentKey, tracker);
     }
 
@@ -954,14 +962,13 @@ public class LatinKeyboardView extends KeyboardView implements PointerTracker.Ke
      * method on the base class if the subclass doesn't wish to handle the call.
      */
     protected boolean onLongPress(Key parentKey, PointerTracker tracker) {
-
-        if(isGestureEnabled()){
+        //rajankz: enable gesture on all keys except delete key
+        if(isGestureEnabled() && parentKey.mCode!=Keyboard.CODE_DELETE){
             this.inGestureMode = true;
             super.closing();
+            invalidate();
+            return true;
         }
-        invalidate();
-        return true;
-        /*
 
         if (ProductionFlag.IS_EXPERIMENTAL) {
             ResearchLogger.latinKeyboardView_onLongPress();
@@ -984,7 +991,7 @@ public class LatinKeyboardView extends KeyboardView implements PointerTracker.Ke
             }
         }
         return openMoreKeysPanel(parentKey, tracker);
-        */
+
     }
 
     protected boolean onLongPress() {
@@ -1119,12 +1126,9 @@ public class LatinKeyboardView extends KeyboardView implements PointerTracker.Ke
                 pointerId=ev.getPointerId(pointerIndex);
                 currentPointerIndex = ev.findPointerIndex(pointerId);
                 HCILogger.getInstance().logTouchEvent(event,pointerId,ev.getX(currentPointerIndex),ev.getY(currentPointerIndex),ev.getEventTime(),totalPointers,Calendar.getInstance().getTimeInMillis());
-                if(isInGestureMode()) {
-                    //cancel the down-up event
+                if(!isInGestureMode()){
+                    return processMotionEvent(ev);
                 }
-                //HCILogger.getInstance().info(Calendar.getInstance().getTimeInMillis()+": First Pointer Up. x="+ev.getX()+" y="+ev.getY());
-                if(!isInGestureMode()){ Log.i(TAG, "action-up"); //return super.onTouchEvent(ev);
-                    return processMotionEvent(ev);}
                 onFirstTouchUp(ev);
                 if(!mPreviousWasGesturing){
                   //processMotionEvent(mFirstTouchDownEvent);

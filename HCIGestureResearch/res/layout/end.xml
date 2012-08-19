@@ -5,12 +5,13 @@
     android:layout_height="fill_parent"
     android:orientation="vertical" >
 
-    <TextView android:text="This is the end of current test. Please call the coordinator."
+    <TextView android:text="This is the end of current set. Please call the coordinator."
               android:layout_height="wrap_content"
               android:layout_width="fill_parent"
               android:textSize="20dp"
               android:paddingTop="20dp"
               android:paddingBottom="20dp"
+              android:layout_margin="10dp"
 
             />
 	
@@ -19,9 +20,12 @@
 	    android:layout_width="fill_parent"
 	    android:layout_height="wrap_content"
         android:textSize="20dp"
+        android:text="Finish"
         android:background="#cccccc"
         android:onClick="btnEndClick"
+        android:layout_margin="10dp"
     />
+
 
 </LinearLayout>
 

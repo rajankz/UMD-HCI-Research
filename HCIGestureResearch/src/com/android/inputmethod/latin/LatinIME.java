@@ -1308,10 +1308,6 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
     // Implementation of {@link KeyboardActionListener}.
     @Override
     public void onCodeInput(int primaryCode, int x, int y) {
-        if(gestured){
-            gestured = false;
-            return;
-        }
         HCILogger.getInstance().logKeyXY(primaryCode,x,y,Calendar.getInstance().getTimeInMillis());
         final long when = SystemClock.uptimeMillis();
         if (primaryCode != Keyboard.CODE_DELETE || when > mLastKeyTime + QUICK_PRESS) {
@@ -2534,7 +2530,7 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
     @Override
     public void onGesturePerformed(LatinKeyboardView overlay, Gesture gesture) {
         HCILogger.getInstance().info(Calendar.getInstance().getTimeInMillis() + ": OnGesturePerformed.");
-        gestured = true;
+        //gestured = true;
         Prediction prediction;
 
         ArrayList<Prediction> predictions;
@@ -2555,6 +2551,8 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
                 addPredictedChar(prediction.name);
             }
         }
+        //if(overlay.getLastPressedKeyCode() == Keyboard.CODE_SHIFT)
+
     }
 
     private void addPredictedChar(String str){

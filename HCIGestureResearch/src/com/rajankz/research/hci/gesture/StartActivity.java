@@ -10,12 +10,14 @@ import android.os.Environment;
 import android.preference.PreferenceManager;
 import android.text.Editable;
 import android.text.TextWatcher;
+import android.text.method.KeyListener;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.inputmethod.EditorInfo;
 import android.widget.*;
+import com.android.inputmethod.keyboard.Keyboard;
 import com.android.inputmethod.latin.LocaleUtils;
 import com.android.inputmethod.latin.SettingsValues;
 import com.android.inputmethod.latin.SubtypeSwitcher;
@@ -44,11 +46,12 @@ import java.util.Random;
  *
  */
 
-public class StartActivity extends Activity implements OnClickListener, View.OnTouchListener {
+public class StartActivity extends Activity implements OnClickListener {
     private static final String TAG = "StartActivity";
 
     EditText participantIdText;
     TextView phraseText;
+    TextView txtNum;
     EditText phraseInput;
     private SettingsValues mSettingsValues;
 
@@ -216,15 +219,31 @@ public class StartActivity extends Activity implements OnClickListener, View.OnT
     private void showPhraseScreen(){
         this.setContentView(R.layout.activity_main);
         phraseText = (TextView)findViewById(R.id.phraseText);
+        txtNum = (TextView)findViewById(R.id.txtNum);
         phraseInput = (EditText)findViewById(R.id.editText);
+
+        phraseInput.setOnKeyListener(new View.OnKeyListener(){
+            @Override
+            public boolean onKey(View view, int keyCode, KeyEvent keyEvent) {
+                if(keyCode == (10) || keyCode == (EditorInfo.IME_ACTION_DONE)){// && keyEvent.getAction() == KeyEvent.ACTION_UP){
+                    HCILogger.getInstance().logSystemEvents("ENTER_DONE_CLICK",Calendar.getInstance().getTimeInMillis());
+                    HCILogger.getInstance().logEnteredTextFinal(phraseInput.getText().toString(),Calendar.getInstance().getTimeInMillis());
+                    if(!phraseText.getText().equals("") && (4*phraseInput.getText().length() < phraseText.getText().length()*3)){
+                        return true;
+                    }
+                    loadPhrases();
+                }
+                return true;
+            }
+        });
 
         phraseInput.setOnEditorActionListener(new TextView.OnEditorActionListener() {
             @Override
             public boolean onEditorAction(TextView textView, int keyCode, KeyEvent keyEvent) {
-            if(keyCode == (EditorInfo.IME_ACTION_DONE)){// && keyEvent.getAction() == KeyEvent.ACTION_UP){
-                HCILogger.getInstance().logSystemEvents("DONE_CLICK",Calendar.getInstance().getTimeInMillis());
+            if(keyCode == (10) || keyCode == (EditorInfo.IME_ACTION_DONE)){// && keyEvent.getAction() == KeyEvent.ACTION_UP){
+                HCILogger.getInstance().logSystemEvents("ENTER_DONE_CLICK",Calendar.getInstance().getTimeInMillis());
                 HCILogger.getInstance().logEnteredTextFinal(phraseInput.getText().toString(),Calendar.getInstance().getTimeInMillis());
-                if(!phraseText.getText().equals("") && (phraseInput.getText().length() < phraseText.getText().length()/2)){
+                if(!phraseText.getText().equals("") && (4*phraseInput.getText().length() < phraseText.getText().length()*3)){
                     return true;
                 }
                 loadPhrases();
@@ -255,12 +274,16 @@ public class StartActivity extends Activity implements OnClickListener, View.OnT
     public void btnEndClick(View view){
         HCILogger.getInstance().logSystemEvents("END_CLICK",Calendar.getInstance().getTimeInMillis());
         HCILogger.getInstance().setLogFolderName("");
-        this.setContentView(R.layout.enter);
+        finish();
+        System.exit(0);
     }
 
     private void loadPhrases()  {
         if(index++ == numOfPhrases)
             showBreakScreen();
+
+        String paginate = "Phrase "+index+" of "+numOfPhrases;
+        txtNum.setText(paginate);
 
         if(mInputSet.equals(InputSet.Normal.toString())){
             loadNoramlPhrases();
@@ -298,40 +321,6 @@ public class StartActivity extends Activity implements OnClickListener, View.OnT
         }
         return aPhrase.toString();
     }
-
-    /*
-    @Override
-    public boolean onTouchEvent(MotionEvent event){
-        final int action = event.getAction();
-        String actionStr;
-        switch(action & MotionEvent.ACTION_MASK){
-            case MotionEvent.ACTION_DOWN:{ actionStr = "HCI First Pointer Down"; break;}
-            case MotionEvent.ACTION_UP:{ actionStr = "HCI First Pointer Up"; break;}
-            case MotionEvent.ACTION_POINTER_DOWN:{ actionStr = "HCI Second Pointer Down"; break;}
-            case MotionEvent.ACTION_POINTER_UP:{ actionStr = "HCI Second Pointer Up"; break;}
-            default: {actionStr="ActionCode="+action;break;}
-        }
-        HCILogger.getInstance().debug(Calendar.getInstance().getTimeInMillis()+": HCI TouchEvent:"+actionStr+". x="+event.getX()+" y="+event.getY());
-        return false;
-    }
-    */
-    @Override
-    public boolean onTouch(View view, MotionEvent motionEvent) {
-
-        /*final int action = motionEvent.getAction();
-        String actionStr;
-        switch(action & MotionEvent.ACTION_MASK){
-            case MotionEvent.ACTION_DOWN:{ actionStr = "HCI First Pointer Down"; break;}
-            case MotionEvent.ACTION_UP:{ actionStr = "HCI First Pointer Up"; break;}
-            case MotionEvent.ACTION_POINTER_DOWN:{ actionStr = "HCI Second Pointer Down"; break;}
-            case MotionEvent.ACTION_POINTER_UP:{ actionStr = "HCI Second Pointer Up"; break;}
-            default: {actionStr="ActionCode="+action;break;}
-        }
-        HCILogger.getInstance().debug(Calendar.getInstance().getTimeInMillis()+": HCI TouchEvent:"+actionStr+". x="+motionEvent.getX()+" y="+motionEvent.getY());
-        */
-        return false;
-    }
-
 
     @Override
     protected void onPause(){

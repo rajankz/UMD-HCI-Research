@@ -309,7 +309,9 @@ public class KeyboardState {
             ResearchLogger.keyboardState_onPressKey(code, this);
         }
         if (code == Keyboard.CODE_SHIFT) {
-            onPressShift();
+            //rajankz: disabling the shift key
+            return;
+            //onPressShift();
         } else if (code == Keyboard.CODE_SWITCH_ALPHA_SYMBOL) {
             onPressSymbol();
         } else {
