@@ -12,7 +12,7 @@
     </option>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="DEBUG" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63a4a052-dc6a-436f-85f9-9f27ad37f18a" name="Default" comment="" />
@@ -33,7 +33,7 @@
   </component>
   <component name="DebuggerManager">
     <line_breakpoints>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java" line="227" class="com.rajankz.research.hci.gesture.StartActivity$3" package="com.rajankz.research.hci.gesture">
+      <breakpoint url="file://$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java" line="226" class="com.rajankz.research.hci.gesture.StartActivity$3" package="com.rajankz.research.hci.gesture">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -59,7 +59,20 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/LatinKeyboardView.java" line="1124" class="com.android.inputmethod.keyboard.LatinKeyboardView" package="com.android.inputmethod.keyboard">
+      <breakpoint url="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/LatinKeyboardView.java" line="1125" class="com.android.inputmethod.keyboard.LatinKeyboardView" package="com.android.inputmethod.keyboard">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/LatinKeyboardView.java" line="289" class="com.android.inputmethod.keyboard.LatinKeyboardView" package="com.android.inputmethod.keyboard">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -195,17 +208,30 @@
       <file leaf-file-name="StartActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="70" selection-start="1582" selection-end="1582" vertical-scroll-proportion="38.884617">
+            <state line="83" column="141" selection-start="2561" selection-end="2561" vertical-scroll-proportion="28.76923">
               <folding>
-                <element signature="class#3803:4320" expanded="false" />
+                <element signature="class#3691:4208" expanded="false" />
                 <element signature="method#setDefaultValues#0;class#StartActivity#0" expanded="false" />
+                <element signature="method#getAllValues#0;class#StartActivity#0" expanded="false" />
                 <element signature="method#onCheckboxClicked#0;class#StartActivity#0" expanded="false" />
-                <element signature="e#8845#9652#0" expanded="true" />
-                <element signature="e#9641#9642#0" expanded="true" />
+                <element signature="e#8733#9540#0" expanded="true" />
+                <element signature="e#9529#9530#0" expanded="true" />
                 <element signature="method#loadPhrases#0;class#StartActivity#0" expanded="false" />
                 <element signature="method#loadNoramlPhrases#0;class#StartActivity#0" expanded="false" />
                 <element signature="method#loadMixedPhrases#0;class#StartActivity#0" expanded="false" />
-                <element signature="method#getRandomPhrase#0;class#StartActivity#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="enter.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/enter.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="103" column="48" selection-start="4490" selection-end="4490" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="tag#LinearLayout#0;tag#LinearLayout#0" expanded="false" />
+                <element signature="tag#LinearLayout#1;tag#LinearLayout#0" expanded="false" />
+                <element signature="tag#LinearLayout#0;tag#LinearLayout#2;tag#LinearLayout#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -214,7 +240,7 @@
       <file leaf-file-name="LatinKeyboardView.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/LatinKeyboardView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1213" column="19" selection-start="47733" selection-end="47733" vertical-scroll-proportion="-1.9296483">
+            <state line="1125" column="0" selection-start="43152" selection-end="43152" vertical-scroll-proportion="0.3316583">
               <folding>
                 <element signature="method#onTouchMove#0;class#LatinKeyboardView#0" expanded="false" />
                 <element signature="method#onSecondTouchDown#0;class#LatinKeyboardView#0" expanded="false" />
@@ -264,15 +290,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KeyboardActionListener.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/KeyboardActionListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="0" selection-start="2346" selection-end="2346" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -293,15 +310,15 @@
         <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/KeyboardLayoutSet.java" />
         <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/PointerTracker.java" />
         <option value="$PROJECT_DIR$/res/raw/phrases.txt" />
-        <option value="$PROJECT_DIR$/res/layout/enter.xml" />
         <option value="$PROJECT_DIR$/src/com/logger/HCILogger.java" />
         <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/internal/KeyboardState.java" />
         <option value="$PROJECT_DIR$/res/layout/intermission.xml" />
         <option value="$PROJECT_DIR$/res/layout/end.xml" />
         <option value="$PROJECT_DIR$/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java" />
         <option value="$PROJECT_DIR$/src/com/android/inputmethod/latin/LatinIME.java" />
         <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/LatinKeyboardView.java" />
+        <option value="$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java" />
+        <option value="$PROJECT_DIR$/res/layout/enter.xml" />
       </list>
     </option>
   </component>
@@ -629,12 +646,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="821" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31563845" sideWeight="0.68" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31563845" sideWeight="0.6942857" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32428572" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -717,13 +734,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/layout/end.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="57" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/Keyboard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="99" column="28" selection-start="3881" selection-end="3881" vertical-scroll-proportion="0.0">
@@ -756,23 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="58" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="70" selection-start="1582" selection-end="1582" vertical-scroll-proportion="38.884617">
-          <folding>
-            <element signature="class#3803:4320" expanded="false" />
-            <element signature="method#setDefaultValues#0;class#StartActivity#0" expanded="false" />
-            <element signature="method#onCheckboxClicked#0;class#StartActivity#0" expanded="false" />
-            <element signature="e#8845#9652#0" expanded="true" />
-            <element signature="e#9641#9642#0" expanded="true" />
-            <element signature="method#loadPhrases#0;class#StartActivity#0" expanded="false" />
-            <element signature="method#loadNoramlPhrases#0;class#StartActivity#0" expanded="false" />
-            <element signature="method#loadMixedPhrases#0;class#StartActivity#0" expanded="false" />
-            <element signature="method#getRandomPhrase#0;class#StartActivity#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -862,9 +855,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="141" selection-start="2561" selection-end="2561" vertical-scroll-proportion="28.76923">
+          <folding>
+            <element signature="class#3691:4208" expanded="false" />
+            <element signature="method#setDefaultValues#0;class#StartActivity#0" expanded="false" />
+            <element signature="method#getAllValues#0;class#StartActivity#0" expanded="false" />
+            <element signature="method#onCheckboxClicked#0;class#StartActivity#0" expanded="false" />
+            <element signature="e#8733#9540#0" expanded="true" />
+            <element signature="e#9529#9530#0" expanded="true" />
+            <element signature="method#loadPhrases#0;class#StartActivity#0" expanded="false" />
+            <element signature="method#loadNoramlPhrases#0;class#StartActivity#0" expanded="false" />
+            <element signature="method#loadMixedPhrases#0;class#StartActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/enter.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="48" selection-start="4490" selection-end="4490" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="tag#LinearLayout#0;tag#LinearLayout#0" expanded="false" />
+            <element signature="tag#LinearLayout#1;tag#LinearLayout#0" expanded="false" />
+            <element signature="tag#LinearLayout#0;tag#LinearLayout#2;tag#LinearLayout#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/LatinKeyboardView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1213" column="19" selection-start="47733" selection-end="47733" vertical-scroll-proportion="-1.9296483">
+        <state line="1125" column="0" selection-start="43152" selection-end="43152" vertical-scroll-proportion="0.3316583">
           <folding>
             <element signature="method#onTouchMove#0;class#LatinKeyboardView#0" expanded="false" />
             <element signature="method#onSecondTouchDown#0;class#LatinKeyboardView#0" expanded="false" />

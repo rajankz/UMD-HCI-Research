@@ -1117,8 +1117,9 @@ public class LatinKeyboardView extends KeyboardView implements PointerTracker.Ke
                 mFirstTouchDownEvent = ev;
 
                 onFirstTouchDown(ev);
-                if(!isInGestureMode()){ Log.i(TAG, "action-down"); //return super.onTouchEvent(ev);
-                return processMotionEvent(ev); }
+                if(!isInGestureMode()){
+                    return processMotionEvent(ev);
+                }
                 break;
             }
             case MotionEvent.ACTION_UP:{
