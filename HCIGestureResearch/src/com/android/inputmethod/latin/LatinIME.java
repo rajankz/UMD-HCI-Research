@@ -86,6 +86,7 @@ import java.util.Locale;
 
 import com.android.inputmethod.keyboard.LatinKeyboardView.OnGesturePerformedListener;
 import com.logger.HCILogger;
+import com.rajankz.research.hci.gesture.StartActivity;
 
 /**
  * Input method implementation for Qwerty'ish keyboard.
@@ -1289,7 +1290,7 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
             // 16 is android.os.Build.VERSION_CODES.JELLY_BEAN but we can't write it because
             // we want to be able to compile against the Ice Cream Sandwich SDK.
             if (Keyboard.CODE_ENTER == code && mTargetApplicationInfo != null
-                    && mTargetApplicationInfo.targetSdkVersion < 16) {
+                    && mTargetApplicationInfo.targetSdkVersion <= 16) {
                 // Backward compatibility mode. Before Jelly bean, the keyboard would simulate
                 // a hardware keyboard event on pressing enter or delete. This is bad for many
                 // reasons (there are race conditions with commits) but some applications are

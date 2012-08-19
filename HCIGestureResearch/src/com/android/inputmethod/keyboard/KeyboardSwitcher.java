@@ -39,6 +39,7 @@ import com.android.inputmethod.latin.R;
 import com.android.inputmethod.latin.SettingsValues;
 import com.android.inputmethod.latin.SubtypeSwitcher;
 import com.android.inputmethod.latin.Utils;
+import com.rajankz.research.hci.gesture.StartActivity;
 
 public class KeyboardSwitcher implements KeyboardState.SwitchActions {
     private static final String TAG = KeyboardSwitcher.class.getSimpleName();
@@ -377,6 +378,7 @@ public class KeyboardSwitcher implements KeyboardState.SwitchActions {
         mKeyboardView = (LatinKeyboardView) mCurrentInputView.findViewById(R.id.keyboard_view);
         mKeyboardView.setKeyboardActionListener(mLatinIME);
         mKeyboardView.addOnGesturePerformedListener(mLatinIME);
+        //mKeyboardView.setKeyboardActionListener(StartActivity);
         if (mForceNonDistinctMultitouch) {
             mKeyboardView.setDistinctMultitouch(false);
         }
