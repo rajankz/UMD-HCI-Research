@@ -224,7 +224,7 @@ public class StartActivity extends Activity implements OnClickListener {
         phraseInput.setOnKeyListener(new View.OnKeyListener(){
             @Override
             public boolean onKey(View view, int keyCode, KeyEvent keyEvent) {
-                if(keyCode == (10) || keyCode == (EditorInfo.IME_ACTION_DONE)){// && keyEvent.getAction() == KeyEvent.ACTION_UP){
+                if(keyCode == (EditorInfo.IME_ACTION_DONE)){// && keyEvent.getAction() == KeyEvent.ACTION_UP){
                     HCILogger.getInstance().logSystemEvents("ENTER_DONE_CLICK",Calendar.getInstance().getTimeInMillis());
                     HCILogger.getInstance().logEnteredTextFinal(phraseInput.getText().toString(),Calendar.getInstance().getTimeInMillis());
                     if(!phraseText.getText().equals("") && (4*phraseInput.getText().length() < phraseText.getText().length()*3)){
@@ -239,7 +239,7 @@ public class StartActivity extends Activity implements OnClickListener {
         phraseInput.setOnEditorActionListener(new TextView.OnEditorActionListener() {
             @Override
             public boolean onEditorAction(TextView textView, int keyCode, KeyEvent keyEvent) {
-            if(keyCode == (10) || keyCode == (EditorInfo.IME_ACTION_DONE)){// && keyEvent.getAction() == KeyEvent.ACTION_UP){
+            if(keyCode == (EditorInfo.IME_ACTION_DONE)){// && keyEvent.getAction() == KeyEvent.ACTION_UP){
                 HCILogger.getInstance().logSystemEvents("ENTER_DONE_CLICK",Calendar.getInstance().getTimeInMillis());
                 HCILogger.getInstance().logEnteredTextFinal(phraseInput.getText().toString(),Calendar.getInstance().getTimeInMillis());
                 if(!phraseText.getText().equals("") && (4*phraseInput.getText().length() < phraseText.getText().length()*3)){

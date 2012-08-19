@@ -105,9 +105,8 @@
                       android:layout_height="wrap_content"
                       android:layout_width="fill_parent"
                       android:textSize="15dp"
-                      android:digits="true"
-                      android:singleLine="true"
                       android:background="#cccccc"
+                      android:text="@string/numOfSets"
                       android:gravity="left"
                       android:padding="4dp"/>
 
@@ -115,9 +114,8 @@
                       android:layout_height="wrap_content"
                       android:layout_width="fill_parent"
                       android:textSize="15dp"
-                      android:digits="true"
-                      android:singleLine="true"
                       android:background="#cccccc"
+                      android:text="@string/numOfPhrases"
                       android:gravity="left"
                       android:padding="4dp"
                       android:layout_marginTop="10dp"
