@@ -1,33 +1,20 @@
 package com.rajankz.research.hci.gesture;
 
 import android.app.Activity;
-import android.app.Dialog;
-import android.content.DialogInterface;
-import android.content.Intent;
+import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.res.Resources;
 import android.os.Bundle;
-import android.os.Environment;
 import android.preference.PreferenceManager;
 import android.text.Editable;
 import android.text.TextWatcher;
-import android.text.method.KeyListener;
-import android.util.Log;
 import android.view.KeyEvent;
-import android.view.MotionEvent;
 import android.view.View;
-import android.view.inputmethod.*;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.*;
-import com.android.inputmethod.keyboard.Keyboard;
-import com.android.inputmethod.keyboard.KeyboardActionListener;
 import com.android.inputmethod.latin.LocaleUtils;
 import com.android.inputmethod.latin.SettingsValues;
-import com.android.inputmethod.latin.SubtypeSwitcher;
-import com.google.code.microlog4android.*;
-import com.google.code.microlog4android.appender.FileAppender;
-import com.google.code.microlog4android.appender.LogCatAppender;
 import com.google.code.microlog4android.config.PropertyConfigurator;
-import com.google.code.microlog4android.repository.DefaultLoggerRepository;
 import android.view.View.OnClickListener;
 import com.logger.HCILogger;
 
@@ -58,6 +45,7 @@ public class StartActivity extends Activity implements OnClickListener{
     private SettingsValues mSettingsValues;
 
     int index = 0;
+    int dispIndex = 0;
     private static InputStream iStream;
     private static BufferedReader br;
     SharedPreferences sharedPrefs;
@@ -82,7 +70,7 @@ public class StartActivity extends Activity implements OnClickListener{
     private Resources mResources;
     private Random mRandom;
 
-    private char[] mSymbolsArray = {'@','#','$','%','&','\'',',','?','!','\"'};
+    private char[] mSymbolsArray = {'@','#','$','%','&','\'','-','?','!','\"'};
     private char[] mAlphabetsArray = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
     private ArrayList<String> phraseList = new ArrayList<String>();
 
@@ -289,33 +277,42 @@ public class StartActivity extends Activity implements OnClickListener{
 
 
     public void loadPhrases()  {
-        if(index++ == numOfPhrases)
+        if(index++ == numOfPhrases){
             showBreakScreen();
+            return;
+        }
 
         String paginate = "Phrase "+index+" of "+numOfPhrases;
         txtNum.setText(paginate);
 
         if(mInputSet.equals(InputSet.Normal.toString())){
-            loadNoramlPhrases();
+            loadPhraseFromFile();
         }else{
-            loadMixedPhrases();
+            loadCreatedMixedString();
         }
+
+        showKeyboard();
 
     }
 
-    private void loadNoramlPhrases(){
+    private void showKeyboard(){
+        ((InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE))
+                .showSoftInput(phraseInput, 0);
+    }
+
+    private void loadPhraseFromFile(){
             mRandom = new Random();
-            int randomNum = mRandom.nextInt(phraseList.size());
-            onePhrase = phraseList.get(randomNum);
-            HCILogger.getInstance().logSystemEvents("PHRASE_LOADED:"+onePhrase,Calendar.getInstance().getTimeInMillis());
+            if(mTestType.equals(TestType.Test.toString())){dispIndex =  mRandom.nextInt(phraseList.size());}
+            onePhrase = phraseList.get(dispIndex++);
+            HCILogger.getInstance().logSystemEvents("NORMAL_PHRASE_LOADED:"+onePhrase,Calendar.getInstance().getTimeInMillis());
             phraseText.setText(onePhrase);
             phraseInput.setText("");
             phraseInput.requestFocus();
     }
 
-    private void loadMixedPhrases(){
+    private void loadCreatedMixedString(){
         onePhrase = getRandomPhrase();
-        HCILogger.getInstance().logSystemEvents("PHRASE_LOADED:"+onePhrase,Calendar.getInstance().getTimeInMillis());
+        HCILogger.getInstance().logSystemEvents("MIXED_PHRASE_LOADED:"+onePhrase,Calendar.getInstance().getTimeInMillis());
         phraseText.setText(onePhrase);
         phraseInput.setText("");
         phraseInput.requestFocus();

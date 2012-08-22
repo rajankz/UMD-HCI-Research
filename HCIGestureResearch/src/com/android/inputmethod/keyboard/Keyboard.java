@@ -416,6 +416,22 @@ public class Keyboard {
         }
     }
 
+    public static int getSymbolsCode(char punctuation){
+        switch(punctuation){
+            case '!' : return 33;
+            case '@' : return 64;
+            case '#' : return 35;
+            case '$' : return 36;
+            case '%' : return 37;
+            case '&' : return 38;
+            case '-' : return 45;
+            case '?' : return 63;
+            case '\'': return 39;
+            case '\"': return 34;
+            default:return -99999;
+        }
+    }
+
    /**
      * Keyboard Building helper.
      *

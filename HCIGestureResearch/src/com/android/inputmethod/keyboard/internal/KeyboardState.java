@@ -347,7 +347,9 @@ public class KeyboardState {
             ResearchLogger.keyboardState_onReleaseKey(this, code, withSliding);
         }
         if (code == Keyboard.CODE_SHIFT) {
-            onReleaseShift(withSliding);
+            //rajankz: unhandle shift key press
+            //onReleaseShift(withSliding);
+            return;
         } else if (code == Keyboard.CODE_SWITCH_ALPHA_SYMBOL) {
             onReleaseSymbol(withSliding);
         }

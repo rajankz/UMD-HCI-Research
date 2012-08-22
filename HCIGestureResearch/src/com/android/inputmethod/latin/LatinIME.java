@@ -181,8 +181,6 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
 
     private int mCorrectionMode;
 
-    private boolean gestured = false;
-
     // Keep track of the last selection range to decide if we need to show word alternatives
     private static final int NOT_A_CURSOR_POSITION = -1;
     private int mLastSelectionStart = NOT_A_CURSOR_POSITION;
@@ -812,7 +810,6 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
             int composingSpanStart, int composingSpanEnd) {
         super.onUpdateSelection(oldSelStart, oldSelEnd, newSelStart, newSelEnd,
                 composingSpanStart, composingSpanEnd);
-
         if (DEBUG) {
             Log.i(TAG, "onUpdateSelection: oss=" + oldSelStart
                     + ", ose=" + oldSelEnd
@@ -2531,7 +2528,6 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
     @Override
     public void onGesturePerformed(LatinKeyboardView overlay, Gesture gesture) {
         HCILogger.getInstance().info(Calendar.getInstance().getTimeInMillis() + ": OnGesturePerformed.");
-        //gestured = true;
         Prediction prediction;
 
         ArrayList<Prediction> predictions;
@@ -2548,8 +2544,9 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
 
             // We want at least some confidence in the result
             if (prediction.score > 1.0) {
-                HCILogger.getInstance().info(Calendar.getInstance().getTimeInMillis() + ": Predicted Char: " + prediction.name);
+                //HCILogger.getInstance().info(Calendar.getInstance().getTimeInMillis() + ": Predicted Char: " + prediction.name);
                 addPredictedChar(prediction.name);
+                HCILogger.getInstance().logSymbol(prediction.name.charAt(0),prediction.score, Calendar.getInstance().getTimeInMillis());
             }
         }
         //if(overlay.getLastPressedKeyCode() == Keyboard.CODE_SHIFT)

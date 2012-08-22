@@ -34,6 +34,10 @@ public class PointerTrackerQueue {
         mQueue.add(tracker);
     }
 
+    public synchronized void dumpAllPointers(){
+        mQueue.clear();
+    }
+
     public synchronized void remove(PointerTracker tracker) {
         mQueue.remove(tracker);
     }

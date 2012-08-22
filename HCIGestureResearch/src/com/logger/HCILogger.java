@@ -44,7 +44,7 @@ public class HCILogger {
     long systemTimestamp, eventTimestamp;
 
     public enum PointerAction{DOWN, UP, MOVE};
-    public enum TagName{SESSION,SET,PHRASE,KEY,GESTURE,STROKE,SYSTEM,TOUCH};
+    public enum TagName{SESSION,SET,PHRASE,KEY,GESTURE,STROKE,SYSTEM,TOUCH,SYMBOL};
 
 
 
@@ -72,8 +72,6 @@ public class HCILogger {
     private void removeFileAppender(){
         rootLogger.removeAppender(fileAppender);
     }
-
-    //public void log(Calendar cal, String eventType,  )
 
     public void logSessionStart(String participantId, boolean gestureEnabled, boolean alternateKeyboardEnabled, String sessionType,
         String sessionSet, int numSets, int numPhrases, long systemTimestamp){
@@ -143,6 +141,17 @@ public class HCILogger {
         sb.append(" />");
         info(sb.toString());
     }
+    public void logSymbol(char symbol, double score, long systemTimestamp){
+        StringBuilder sb = new StringBuilder("");
+        sb.append("<"+TagName.SYMBOL);
+        sb.append(" symbol="+symbol);
+        sb.append(" symbolCode="+Keyboard.getSymbolsCode(symbol));
+        sb.append(" predictionScore="+score);
+        sb.append(" systemTimestamp="+systemTimestamp);
+        sb.append(" />");
+        info(sb.toString());
+    }
+
     private void logTag(TagName tagName, boolean tagOpening, boolean addSystemEvent, String systemEvent, long systemTimestamp){
         if(addSystemEvent)logSystemEvents(systemEvent,systemTimestamp);
         String tag = (tagOpening?"":"/")+tagName;
@@ -239,6 +248,7 @@ public class HCILogger {
             }
         logFile.setWritable(true);
         logFileName = rootFolderString+File.separator+fileName;
+
 
     }
 

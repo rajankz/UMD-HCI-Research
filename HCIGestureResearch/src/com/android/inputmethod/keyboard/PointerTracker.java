@@ -509,7 +509,9 @@ public class PointerTracker {
             if (key != null && key.isModifier()) {
                 // Before processing a down event of modifier key, all pointers already being
                 // tracked should be released.
-                queue.releaseAllPointers(eventTime);
+                //queue.releaseAllPointers(eventTime);
+                //rajankz:instead of releasing pointers on shift we will clear the queue, so that the pressed key does not show up
+                queue.dumpAllPointers();
             }
             queue.add(this);
         }
