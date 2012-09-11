@@ -12,7 +12,7 @@
     </option>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="INFO" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="DEBUG" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63a4a052-dc6a-436f-85f9-9f27ad37f18a" name="Default" comment="" />
@@ -32,125 +32,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <line_breakpoints>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/android/inputmethod/latin/LatinIME.java" line="1399" class="com.android.inputmethod.latin.LatinIME" package="com.android.inputmethod.latin">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="false" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="&#13;&#13;JAVA" />
-        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/android/inputmethod/latin/LatinIME.java" line="1077" class="com.android.inputmethod.latin.LatinIME" package="com.android.inputmethod.latin">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="false" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/android/inputmethod/latin/LatinIME.java" line="2380" class="com.android.inputmethod.latin.LatinIME" package="com.android.inputmethod.latin">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="false" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/PointerTracker.java" line="309" class="com.android.inputmethod.keyboard.PointerTracker" package="com.android.inputmethod.keyboard">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="false" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/PointerTracker.java" line="760" class="com.android.inputmethod.keyboard.PointerTracker" package="com.android.inputmethod.keyboard">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="false" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/PointerTracker.java" line="666" class="com.android.inputmethod.keyboard.PointerTracker" package="com.android.inputmethod.keyboard">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="false" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/internal/PointerTrackerQueue.java" line="70" class="com.android.inputmethod.keyboard.internal.PointerTrackerQueue" package="com.android.inputmethod.keyboard.internal">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="false" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/internal/PointerTrackerQueue.java" line="66" class="com.android.inputmethod.keyboard.internal.PointerTrackerQueue" package="com.android.inputmethod.keyboard.internal">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="false" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="&#13;&#13;JAVA" />
-        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/PointerTracker.java" line="511" class="com.android.inputmethod.keyboard.PointerTracker" package="com.android.inputmethod.keyboard">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="false" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
     <breakpoint_any>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -208,32 +89,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LatinIME.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/latin/LatinIME.java">
+      <file leaf-file-name="StartActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="217" column="0" selection-start="9348" selection-end="9348" vertical-scroll-proportion="0.0">
+            <state line="282" column="41" selection-start="10289" selection-end="10289" vertical-scroll-proportion="0.877095">
               <folding>
-                <element signature="method#onStartInputViewInternal#0;class#LatinIME#0" expanded="false" />
-                <element signature="method#onExtractedTextClicked#0;class#LatinIME#0" expanded="false" />
-                <element signature="method#hideWindow#0;class#LatinIME#0" expanded="false" />
-                <element signature="method#onDisplayCompletions#0;class#LatinIME#0" expanded="false" />
-                <element signature="method#setSuggestionStripShownInternal#0;class#LatinIME#0" expanded="false" />
-                <element signature="method#setSuggestionStripShown#0;class#LatinIME#0" expanded="false" />
-                <element signature="method#getAdjustedBackingViewHeight#0;class#LatinIME#0" expanded="false" />
-                <element signature="method#onComputeInsets#0;class#LatinIME#0" expanded="false" />
-                <element signature="method#onEvaluateFullscreenMode#0;class#LatinIME#0" expanded="false" />
-                <element signature="method#updateFullscreenMode#0;class#LatinIME#0" expanded="false" />
-                <element signature="method#getCurrentAutoCapsState#0;class#LatinIME#0" expanded="false" />
-                <element signature="method#swapSwapperAndSpaceWhileInBatchEdit#0;class#LatinIME#0" expanded="false" />
+                <element signature="e#10090#10953#0" expanded="true" />
+                <element signature="e#10942#10943#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HCILogger.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/logger/HCILogger.java">
+      <file leaf-file-name="LatinKeyboardView.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/LatinKeyboardView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="0" selection-start="2231" selection-end="2231" vertical-scroll-proportion="0.64356434">
+            <state line="1105" column="19" selection-start="42154" selection-end="42154" vertical-scroll-proportion="-28.923077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LatinIME.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/latin/LatinIME.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1324" column="0" selection-start="58082" selection-end="58082" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#28816#28848#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KeyboardSwitcher.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/KeyboardSwitcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="347" column="16" selection-start="13284" selection-end="13284" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Keyboard.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/Keyboard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="421" column="0" selection-start="16131" selection-end="16131" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoreKeysKeyboardView.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/MoreKeysKeyboardView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="22" selection-start="2126" selection-end="2126" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -242,77 +151,34 @@
       <file leaf-file-name="PointerTracker.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/PointerTracker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="512" column="130" selection-start="18762" selection-end="18762" vertical-scroll-proportion="0.0">
+            <state line="285" column="26" selection-start="11103" selection-end="11103" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Key.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/Key.java">
+      <file leaf-file-name="HCILogger.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/logger/HCILogger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="456" column="19" selection-start="20055" selection-end="20055" vertical-scroll-proportion="0.0">
+            <state line="143" column="16" selection-start="5241" selection-end="5241" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LatinKeyboardView.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/LatinKeyboardView.java">
+      <file leaf-file-name="InputMethodService.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/inputmethodservice/InputMethodService.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1353" column="0" selection-start="54098" selection-end="54098" vertical-scroll-proportion="0.0">
+            <state line="138" column="16" selection-start="6102" selection-end="6102" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="View.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/view/View.class">
+      <file leaf-file-name="key_styles_enter.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/xml/key_styles_enter.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="463" column="19" selection-start="23309" selection-end="23309" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PointerTrackerQueue.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/internal/PointerTrackerQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="23" selection-start="1278" selection-end="1278" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="method#remove#0;class#PointerTrackerQueue#0" expanded="false" />
-                <element signature="method#releaseAllPointersOlderThan#0;class#PointerTrackerQueue#0" expanded="false" />
-                <element signature="method#releaseAllPointers#0;class#PointerTrackerQueue#0" expanded="false" />
-                <element signature="method#releaseAllPointersExcept#0;class#PointerTrackerQueue#0" expanded="false" />
-                <element signature="method#isAnyInSlidingKeyInput#0;class#PointerTrackerQueue#0" expanded="false" />
-                <element signature="method#toString#0;class#PointerTrackerQueue#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Keyboard.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/Keyboard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="28" selection-start="3584" selection-end="3584" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KeyboardSwitcher.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/KeyboardSwitcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="213" column="0" selection-start="8744" selection-end="8744" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KeyboardState.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/internal/KeyboardState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="355" column="0" selection-start="13428" selection-end="13428" vertical-scroll-proportion="0.0">
+            <state line="151" column="18" selection-start="5461" selection-end="5461" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -325,35 +191,43 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="GradleLocalSettings">
+    <option name="expandStates">
+      <map>
+        <entry key="HCI Gesture Research" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/res/layout/more_suggestions.xml" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/res/layout/enter.xml" />
-        <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/LatinKeyboardView.java" />
-        <option value="$PROJECT_DIR$/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/res/raw/phrases.txt" />
         <option value="$PROJECT_DIR$/res/raw/test.txt" />
         <option value="$PROJECT_DIR$/res/raw/training.txt" />
-        <option value="$PROJECT_DIR$/res/raw/practice.txt" />
-        <option value="$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java" />
         <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/Keyboard.java" />
         <option value="$PROJECT_DIR$/src/com/android/inputmethod/accessibility/KeyCodeDescriptionMapper.java" />
         <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/internal/KeyboardState.java" />
         <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/KeyboardSwitcher.java" />
         <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/internal/PointerTrackerQueue.java" />
         <option value="$PROJECT_DIR$/src/com/android/inputmethod/keyboard/PointerTracker.java" />
-        <option value="$PROJECT_DIR$/src/com/android/inputmethod/latin/LatinIME.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/res/raw/practice.txt" />
+        <option value="$PROJECT_DIR$/res/layout/enter.xml" />
         <option value="$PROJECT_DIR$/src/com/logger/HCILogger.java" />
+        <option value="$PROJECT_DIR$/res/values-en-rGB/strings.xml" />
+        <option value="$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java" />
+        <option value="$PROJECT_DIR$/res/xml/key_styles_enter.xml" />
+        <option value="$PROJECT_DIR$/src/com/android/inputmethod/latin/LatinIME.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="43" />
     <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="821" />
+    <option name="width" value="1397" />
+    <option name="height" value="826" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -383,20 +257,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HCI Gesture Research" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HCI Gesture Research" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -415,6 +275,156 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCI Gesture Research" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCIGestureResearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCI Gesture Research" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCIGestureResearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logger" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCI Gesture Research" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCIGestureResearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCI Gesture Research" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCIGestureResearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inputmethod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="latin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCI Gesture Research" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCIGestureResearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inputmethod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCI Gesture Research" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCIGestureResearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCI Gesture Research" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCIGestureResearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope">
@@ -423,6 +433,20 @@
             <PATH_ELEMENT USER_OBJECT="Root">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCI Gesture Research" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCI Gesture Research" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -592,6 +616,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value="SHOW_PROPERTIES,SHOW_FIELDS" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="63a4a052-dc6a-436f-85f9-9f27ad37f18a" name="Default" comment="" />
@@ -621,33 +648,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="821" extended-state="0" />
+    <frame x="43" y="22" width="1397" height="826" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.68" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31532198" sideWeight="0.59574467" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32428572" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32340425" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.49714285" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40425533" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4149086" sideWeight="0.46700144" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32142857" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41428572" sideWeight="0.52797705" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32056737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4141844" sideWeight="0.52797705" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2195122" sideWeight="0.6942857" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21835677" sideWeight="0.59574467" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21162124" sideWeight="0.50285715" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32" sideWeight="0.49713057" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20799407" sideWeight="0.59574467" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31914893" sideWeight="0.49713057" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31563845" sideWeight="0.6942857" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -710,127 +737,120 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/latin/WordComposer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="16" selection-start="2899" selection-end="2899" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/inputmethodservice/InputMethodService.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="187" column="20" selection-start="8457" selection-end="8457" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/view/ViewGroup.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="291" column="16" selection-start="15545" selection-end="15545" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/view/inputmethod/InputConnection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="12" selection-start="813" selection-end="813" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/latin/LastComposedWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="16" selection-start="3247" selection-end="3247" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/internal/KeyboardCodesSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="17" selection-start="2699" selection-end="2699" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/Keyboard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="28" selection-start="3584" selection-end="3584" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/internal/KeyboardState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="355" column="0" selection-start="13428" selection-end="13428" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/KeyboardSwitcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="213" column="0" selection-start="8744" selection-end="8744" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/view/View.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="463" column="19" selection-start="23309" selection-end="23309" vertical-scroll-proportion="0.0">
+        <state line="868" column="19" selection-start="40341" selection-end="40341" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-es-rUS/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="24" selection-start="6404" selection-end="6404" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-en-rGB/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="106" selection-start="7166" selection-end="7166" vertical-scroll-proportion="-6.1538463">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/latin/InputAttributes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="48" selection-start="2634" selection-end="2634" vertical-scroll-proportion="3.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/attrs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="366" column="34" selection-start="20905" selection-end="20909" vertical-scroll-proportion="-5.1538463">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="154" column="40" selection-start="9314" selection-end="9314" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/xml/key_styles_enter.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="151" column="18" selection-start="5461" selection-end="5461" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/LatinKeyboardView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1353" column="0" selection-start="54098" selection-end="54098" vertical-scroll-proportion="0.0">
+        <state line="1105" column="19" selection-start="42154" selection-end="42154" vertical-scroll-proportion="-28.923077">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/Key.java">
+    <entry file="file://$PROJECT_DIR$/src/com/logger/HCILogger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="456" column="19" selection-start="20055" selection-end="20055" vertical-scroll-proportion="0.0">
+        <state line="143" column="16" selection-start="5241" selection-end="5241" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/internal/PointerTrackerQueue.java">
+    <entry file="jar://$PROJECT_DIR$/../../../dev/android-sdk-macosx/platforms/android-16/android.jar!/android/inputmethodservice/InputMethodService.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="23" selection-start="1278" selection-end="1278" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="method#remove#0;class#PointerTrackerQueue#0" expanded="false" />
-            <element signature="method#releaseAllPointersOlderThan#0;class#PointerTrackerQueue#0" expanded="false" />
-            <element signature="method#releaseAllPointers#0;class#PointerTrackerQueue#0" expanded="false" />
-            <element signature="method#releaseAllPointersExcept#0;class#PointerTrackerQueue#0" expanded="false" />
-            <element signature="method#isAnyInSlidingKeyInput#0;class#PointerTrackerQueue#0" expanded="false" />
-            <element signature="method#toString#0;class#PointerTrackerQueue#0" expanded="false" />
-          </folding>
+        <state line="138" column="16" selection-start="6102" selection-end="6102" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/MoreKeysKeyboardView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="22" selection-start="2126" selection-end="2126" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/PointerTracker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="512" column="130" selection-start="18762" selection-end="18762" vertical-scroll-proportion="0.0">
+        <state line="285" column="26" selection-start="11103" selection-end="11103" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/Keyboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="421" column="0" selection-start="16131" selection-end="16131" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/keyboard/KeyboardSwitcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="347" column="16" selection-start="13284" selection-end="13284" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/android/inputmethod/latin/LatinIME.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="217" column="0" selection-start="9348" selection-end="9348" vertical-scroll-proportion="0.0">
+        <state line="1324" column="0" selection-start="58082" selection-end="58082" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="method#onStartInputViewInternal#0;class#LatinIME#0" expanded="false" />
-            <element signature="method#onExtractedTextClicked#0;class#LatinIME#0" expanded="false" />
-            <element signature="method#hideWindow#0;class#LatinIME#0" expanded="false" />
-            <element signature="method#onDisplayCompletions#0;class#LatinIME#0" expanded="false" />
-            <element signature="method#setSuggestionStripShownInternal#0;class#LatinIME#0" expanded="false" />
-            <element signature="method#setSuggestionStripShown#0;class#LatinIME#0" expanded="false" />
-            <element signature="method#getAdjustedBackingViewHeight#0;class#LatinIME#0" expanded="false" />
-            <element signature="method#onComputeInsets#0;class#LatinIME#0" expanded="false" />
-            <element signature="method#onEvaluateFullscreenMode#0;class#LatinIME#0" expanded="false" />
-            <element signature="method#updateFullscreenMode#0;class#LatinIME#0" expanded="false" />
-            <element signature="method#getCurrentAutoCapsState#0;class#LatinIME#0" expanded="false" />
-            <element signature="method#swapSwapperAndSpaceWhileInBatchEdit#0;class#LatinIME#0" expanded="false" />
+            <element signature="e#28816#28848#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/logger/HCILogger.java">
+    <entry file="file://$PROJECT_DIR$/src/com/rajankz/research/hci/gesture/StartActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="0" selection-start="2231" selection-end="2231" vertical-scroll-proportion="0.64356434">
-          <folding />
+        <state line="282" column="41" selection-start="10289" selection-end="10289" vertical-scroll-proportion="0.877095">
+          <folding>
+            <element signature="e#10090#10953#0" expanded="true" />
+            <element signature="e#10942#10943#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

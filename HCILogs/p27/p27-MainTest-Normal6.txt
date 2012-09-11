@@ -1,0 +1,2 @@
+<SESSION participantId=p27 gestures=enabled alternateKeyboard=disabled type=MainTest set=Normal numOfSets=2 numOfPhrases=20 systemTimestamp=1346612927427 >
+<SYSTEM event=NORMAL_PHRASE_LOADED:we must 'redouble' our efforts systemTimestamp=1346612927466 />

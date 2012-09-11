@@ -30,10 +30,7 @@ import android.content.SharedPreferences;
 import android.content.pm.ApplicationInfo;
 import android.content.res.Configuration;
 import android.content.res.Resources;
-import android.gesture.Gesture;
-import android.gesture.GestureLibraries;
-import android.gesture.GestureLibrary;
-import android.gesture.Prediction;
+import android.gesture.*;
 import android.graphics.Rect;
 import android.inputmethodservice.InputMethodService;
 import android.media.AudioManager;
@@ -427,14 +424,32 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
 
         loadSettings();
 
-        mLibrary = GestureLibraries.fromRawResource(this, R.raw.gestures);
+        mLibrary = GestureLibraries.fromRawResource(this, R.raw.gesturesall);
         mLibrary1 = GestureLibraries.fromRawResource(this, R.raw.gestures1);
         mLibrary2 = GestureLibraries.fromRawResource(this, R.raw.gestures2);
         mLibrary3 = GestureLibraries.fromRawResource(this, R.raw.gestures3);
         mLibrary4 = GestureLibraries.fromRawResource(this, R.raw.gestures4);
-        //mLibrary.setOrientationStyle(GestureOverlayView.ORIENTATION_VERTICAL);
-        //mLibrary.setSequenceType(1);
+        /*
+        mLibrary.setSequenceType(2);
+        mLibrary1.setSequenceType(2);
+        mLibrary2.setSequenceType(2);
+        mLibrary3.setSequenceType(2);
+        mLibrary4.setSequenceType(2);
 
+        mLibrary.setOrientationStyle(2);
+        mLibrary1.setOrientationStyle(2);
+        mLibrary2.setOrientationStyle(2);
+        mLibrary3.setOrientationStyle(2);
+        mLibrary4.setOrientationStyle(2);
+        */
+        //mLibrary.setSequenceType(1);
+        /*
+        mLibrary.setOrientationStyle(2);  mLibrary.setSequenceType(1);
+        mLibrary1.setOrientationStyle(2); mLibrary1.setSequenceType(1);
+        mLibrary2.setOrientationStyle(2); mLibrary2.setSequenceType(1);
+        mLibrary3.setOrientationStyle(2); mLibrary3.setSequenceType(1);
+        mLibrary4.setOrientationStyle(2); mLibrary4.setSequenceType(1);
+        */
         if (!mLibrary.load()) {
             stopSelf();
         }
@@ -2532,6 +2547,7 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
 
         ArrayList<Prediction> predictions;
         HCILogger.getInstance().debug(Calendar.getInstance().getTimeInMillis()+": Total Strokes="+gesture.getStrokesCount());
+        //set orientation to be sensitive
         switch(gesture.getStrokesCount()){
             case 1: predictions = mLibrary1.recognize(gesture);break;
             case 2: predictions = mLibrary2.recognize(gesture);break;
@@ -2545,12 +2561,26 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
             // We want at least some confidence in the result
             if (prediction.score > 1.0) {
                 //HCILogger.getInstance().info(Calendar.getInstance().getTimeInMillis() + ": Predicted Char: " + prediction.name);
-                addPredictedChar(prediction.name);
+                //addPredictedChar(prediction.name);
+                addPredictedChar(prediction.name.toCharArray()[0]);
+                Log.i(TAG,prediction.name.charAt(0)+" "+prediction.score);
                 HCILogger.getInstance().logSymbol(prediction.name.charAt(0),prediction.score, Calendar.getInstance().getTimeInMillis());
             }
         }
+        if(predictions.size()>1){
+            prediction = predictions.get(1);
+            Log.i(TAG,"2="+prediction.name.charAt(0)+" "+prediction.score);
+
+        }
         //if(overlay.getLastPressedKeyCode() == Keyboard.CODE_SHIFT)
 
+    }
+
+    private void addPredictedChar(char ch){
+        //sendKeyChar(ch);
+        //sendDownUpKeyEvents(Keyboard.getSymbolsCode(ch));
+        onCodeInput(Keyboard.getSymbolsCode(ch),-1,-1);
+        //sendUpDownEnterOrBackspace();
     }
 
     private void addPredictedChar(String str){

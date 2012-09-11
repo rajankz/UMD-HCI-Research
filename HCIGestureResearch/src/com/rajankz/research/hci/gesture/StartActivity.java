@@ -7,7 +7,9 @@ import android.content.res.Resources;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.text.Editable;
+import android.text.InputType;
 import android.text.TextWatcher;
+import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
@@ -21,10 +23,7 @@ import com.logger.HCILogger;
 import com.android.inputmethod.latin.R;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.Locale;
-import java.util.Random;
+import java.util.*;
 
 /**
 
@@ -35,7 +34,7 @@ import java.util.Random;
  *
  */
 
-public class StartActivity extends Activity implements OnClickListener{
+public class StartActivity extends Activity implements OnClickListener, RadioGroup.OnCheckedChangeListener{
     private static final String TAG = "StartActivity";
 
     EditText participantIdText;
@@ -52,13 +51,21 @@ public class StartActivity extends Activity implements OnClickListener{
 
     int numOfSets;
     int numOfPhrases;
+
+    int numPracticeBlock = 1;
+    int numPracticeTrials = 20;
+    int numMainTestBlock = 2;
+    int numMainTestTrials = 20;
+
     String participantID;
     String onePhrase;
 
     final int NUM_SETS = 2;
     final int NUM_PHRASES = 20;
 
-    enum TestType{Practice, Training, Test};
+
+
+    enum TestType{Practice, MainTest};
     enum InputSet{Normal, Mixed};
 
     boolean enableGestures;
@@ -73,6 +80,11 @@ public class StartActivity extends Activity implements OnClickListener{
     private char[] mSymbolsArray = {'@','#','$','%','&','\'','-','?','!','\"'};
     private char[] mAlphabetsArray = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
     private ArrayList<String> phraseList = new ArrayList<String>();
+
+    EditText etNumSets, etNumPhrases;
+    RadioButton rbPractice, rbMainTest, rbNormal, rbMixed;
+    RadioGroup rgTestType, rgInputSet;
+
 
     public void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
@@ -92,9 +104,8 @@ public class StartActivity extends Activity implements OnClickListener{
         };
 
         mSettingsValues = job.runInLocale(mResources, Locale.getDefault());
-
+        setListeners();
         setDefaultValues();
-
         participantIdText = (EditText)findViewById(R.id.participantId);
         participantIdText.requestFocus();
         final Button startButton = (Button)findViewById(R.id.startButton);
@@ -121,6 +132,44 @@ public class StartActivity extends Activity implements OnClickListener{
 
     }
 
+    private void setListeners(){
+        etNumSets = (EditText)findViewById(R.id.numSets);
+        etNumPhrases = (EditText)findViewById(R.id.numPhrases);
+        rbPractice = (RadioButton)findViewById(R.id.radio_practice);
+        rbMainTest = (RadioButton)findViewById(R.id.radio_mainTest);
+        rbNormal = (RadioButton)findViewById(R.id.radio_normal);
+        rbMixed = (RadioButton)findViewById(R.id.radio_mixed);
+
+        rgTestType = (RadioGroup)findViewById(R.id.radgrpTestType);
+        rgInputSet = (RadioGroup)findViewById(R.id.rGrpInputSet);
+        rgInputSet.setOnCheckedChangeListener(this);
+        rgTestType.setOnCheckedChangeListener(this);
+    }
+
+    @Override
+    public void onCheckedChanged(RadioGroup radioGroup, int checkedId) {
+        Log.i(TAG,"radio changed"+checkedId);
+        switch(checkedId){
+            case R.id.radio_practice:
+                etNumSets.setText(""+numPracticeBlock);
+                etNumPhrases.setText(""+numPracticeTrials);
+                etNumSets.setEnabled(false);
+                etNumPhrases.setEnabled(false);
+                rgInputSet.check(rbNormal.getId());
+                rbNormal.setEnabled(false);
+                rbMixed.setEnabled(false);
+                break;
+            case R.id.radio_mainTest:
+                etNumSets.setText(""+numMainTestBlock);
+                etNumPhrases.setText(""+numMainTestTrials);
+                etNumSets.setEnabled(true);
+                etNumPhrases.setEnabled(true);
+                rbNormal.setEnabled(true);
+                rbMixed.setEnabled(true);
+                break;
+        }
+    }
+
     private void setDefaultValues(){
         enableAlternateKeyboard =  mSettingsValues.mAlternateKeyboardEnabled;
         enableGestures = mSettingsValues.mGestureEnabled;
@@ -144,12 +193,8 @@ public class StartActivity extends Activity implements OnClickListener{
             mTestType = TestType.Practice.toString();
             iStream = getResources().openRawResource(R.raw.practice);
         }
-        else if(rGroup.getCheckedRadioButtonId() == R.id.radio_training)  {
-            mTestType = TestType.Training.toString();
-            iStream = getResources().openRawResource(R.raw.training);
-        }
-        else if(rGroup.getCheckedRadioButtonId() == R.id.radio_test)  {
-            mTestType = TestType.Test.toString();
+        else if(rGroup.getCheckedRadioButtonId() == R.id.radio_mainTest)  {
+            mTestType = TestType.MainTest.toString();
             iStream = getResources().openRawResource(R.raw.test);
         }
 
@@ -185,14 +230,19 @@ public class StartActivity extends Activity implements OnClickListener{
     public void onClick(View view) {
         if(view.getId() == R.id.startButton){
             getAllValues();
-            HCILogger.getInstance().setLogFolderName(participantID);
+            String testType = rgTestType.getCheckedRadioButtonId()==R.id.radio_practice?TestType.Practice.toString():TestType.MainTest.toString();
+            String inputSet = rgInputSet.getCheckedRadioButtonId()==R.id.radio_normal?InputSet.Normal.toString():InputSet.Mixed.toString();
+            if(testType.equalsIgnoreCase(TestType.Practice.toString()))
+                inputSet = "";
+            HCILogger.getInstance().setLogFolderName(participantID, testType, inputSet);
             HCILogger.getInstance().logSessionStart(participantID, enableGestures, enableAlternateKeyboard, mTestType, mInputSet,numOfSets,numOfPhrases,Calendar.getInstance().getTimeInMillis());
-
 
             fillPhraseList();
 
             showPhraseScreen();
         }
+
+
 
     }
 
@@ -200,12 +250,13 @@ public class StartActivity extends Activity implements OnClickListener{
         String text;
         try{
         while((text = br.readLine())!=null){
-            phraseList.add(text);
+            phraseList.add(text.toLowerCase());
         }
         }catch(IOException ioe){
             HCILogger.getInstance().error("Cannot Read from Phrases File");
             phraseText.setText("ERROR::Please contact the coordinator.");
         }
+        Collections.shuffle(phraseList, new Random());
     }
 
     private void showPhraseScreen(){
@@ -214,6 +265,17 @@ public class StartActivity extends Activity implements OnClickListener{
         txtNum = (TextView)findViewById(R.id.txtNum);
 
         phraseInput = (EditText)findViewById(R.id.editText);
+        //phraseInput.setInputType(InputType.);
+        //if mixed words then do not show suggestions
+        if(mInputSet.equals(InputSet.Mixed.toString())){
+            phraseInput.setInputType(InputType.TYPE_TEXT_FLAG_NO_SUGGESTIONS);
+            //phraseInput.setInputType(InputType.TYPE_TEXT_FLAG_MULTI_LINE);
+            //phraseInput.setInputType(InputType.TYPE_TEXT_FLAG_IME_MULTI_LINE);
+        }/* else{
+            phraseInput.setInputType(InputType.TYPE_TEXT_FLAG_AUTO_CORRECT);
+        }   */
+
+
         phraseInput.setOnEditorActionListener(new TextView.OnEditorActionListener() {
             @Override
             public boolean onEditorAction(TextView textView, int keyCode, KeyEvent keyEvent) {
@@ -233,20 +295,6 @@ public class StartActivity extends Activity implements OnClickListener{
         loadPhrases();
     }
 
-    /*
-    @Override
-    public boolean onEditorAction(TextView textView, int keyCode, KeyEvent keyEvent) {
-        if(keyCode == (EditorInfo.IME_ACTION_DONE)){// && keyEvent.getAction() == KeyEvent.ACTION_UP){
-            HCILogger.getInstance().logSystemEvents("ENTER_DONE_CLICK",Calendar.getInstance().getTimeInMillis());
-            HCILogger.getInstance().logEnteredTextFinal(phraseInput.getText().toString(),Calendar.getInstance().getTimeInMillis());
-            if(!phraseText.getText().equals("") && (4*phraseInput.getText().length() < phraseText.getText().length()*3)){
-                return true;
-            }
-            loadPhrases();
-        }
-        return true;
-    }
-    */
     private void showBreakScreen(){
         index = 0;
         if(--numOfSets == 0){
@@ -269,10 +317,6 @@ public class StartActivity extends Activity implements OnClickListener{
         HCILogger.getInstance().setLogFolderName("");
         finish();
         System.exit(0);
-    }
-
-    public StartActivity getStartActivity(){
-        return this;
     }
 
 
@@ -301,8 +345,8 @@ public class StartActivity extends Activity implements OnClickListener{
     }
 
     private void loadPhraseFromFile(){
-            mRandom = new Random();
-            if(mTestType.equals(TestType.Test.toString())){dispIndex =  mRandom.nextInt(phraseList.size());}
+            //mRandom = new Random();
+            //if(mTestType.equals(TestType.MainTest.toString())){dispIndex =  mRandom.nextInt(phraseList.size());}
             onePhrase = phraseList.get(dispIndex++);
             HCILogger.getInstance().logSystemEvents("NORMAL_PHRASE_LOADED:"+onePhrase,Calendar.getInstance().getTimeInMillis());
             phraseText.setText(onePhrase);

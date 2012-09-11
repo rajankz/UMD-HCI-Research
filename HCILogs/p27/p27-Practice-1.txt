@@ -1,0 +1,1211 @@
+<SESSION participantId=p27 gestures=disabled alternateKeyboard=enabled type=Practice set=Normal numOfSets=1 numOfPhrases=20 systemTimestamp=1346610566029 >
+<SYSTEM event=NORMAL_PHRASE_LOADED:# # # # # systemTimestamp=1346610566058 />
+<TOUCH event=down pointerId=0 x=17.975035 y=346.12097 eventTimestamp=240775314 totalPointers=1 systemTimestamp=1346610570452 />
+<TOUCH event=up pointerId=0 x=17.975035 y=346.12097 eventTimestamp=240775423 totalPointers=1 systemTimestamp=1346610570597 />
+<KEY keyCode=-2 printKey=symbol x=17 y=346 systemTimestamp=1346610570599 />
+<TOUCH event=down pointerId=0 x=105.85298 y=151.2732 eventTimestamp=240776813 totalPointers=1 systemTimestamp=1346610571952 />
+<TOUCH event=up pointerId=0 x=105.85298 y=151.2732 eventTimestamp=240776951 totalPointers=1 systemTimestamp=1346610572089 />
+<KEY keyCode=35 printKey='#' x=105 y=151 systemTimestamp=1346610572091 />
+<TOUCH event=down pointerId=0 x=393.45355 y=332.13196 eventTimestamp=240777007 totalPointers=1 systemTimestamp=1346610572146 />
+<TOUCH event=up pointerId=0 x=393.45355 y=332.13196 eventTimestamp=240777127 totalPointers=1 systemTimestamp=1346610572266 />
+<KEY keyCode=32 printKey=' ' x=393 y=332 systemTimestamp=1346610572268 />
+<TOUCH event=down pointerId=0 x=19.972261 y=371.10144 eventTimestamp=240777572 totalPointers=1 systemTimestamp=1346610572721 />
+<TOUCH event=up pointerId=0 x=20.970875 y=371.10144 eventTimestamp=240777701 totalPointers=1 systemTimestamp=1346610572839 />
+<KEY keyCode=-2 printKey=symbol x=19 y=371 systemTimestamp=1346610572841 />
+<TOUCH event=down pointerId=0 x=120.832184 y=161.26544 eventTimestamp=240778026 totalPointers=1 systemTimestamp=1346610573165 />
+<TOUCH event=up pointerId=0 x=120.832184 y=161.26544 eventTimestamp=240778108 totalPointers=1 systemTimestamp=1346610573246 />
+<KEY keyCode=35 printKey='#' x=120 y=161 systemTimestamp=1346610573248 />
+<TOUCH event=down pointerId=0 x=400.44385 y=319.1421 eventTimestamp=240778201 totalPointers=1 systemTimestamp=1346610573344 />
+<TOUCH event=up pointerId=0 x=395.91605 y=313.34558 eventTimestamp=240778283 totalPointers=1 systemTimestamp=1346610573421 />
+<KEY keyCode=32 printKey=' ' x=400 y=319 systemTimestamp=1346610573423 />
+<TOUCH event=down pointerId=0 x=34.951458 y=356.11316 eventTimestamp=240778488 totalPointers=1 systemTimestamp=1346610573636 />
+<TOUCH event=up pointerId=0 x=34.951458 y=356.11316 eventTimestamp=240778543 totalPointers=1 systemTimestamp=1346610573701 />
+<KEY keyCode=-2 printKey=symbol x=34 y=356 systemTimestamp=1346610573703 />
+<TOUCH event=down pointerId=0 x=123.82802 y=156.26935 eventTimestamp=240778803 totalPointers=1 systemTimestamp=1346610573942 />
+<TOUCH event=up pointerId=0 x=123.82802 y=156.26935 eventTimestamp=240778904 totalPointers=1 systemTimestamp=1346610574042 />
+<KEY keyCode=35 printKey='#' x=123 y=156 systemTimestamp=1346610574044 />
+<TOUCH event=down pointerId=0 x=392.45493 y=309.1499 eventTimestamp=240778951 totalPointers=1 systemTimestamp=1346610574089 />
+<TOUCH event=up pointerId=0 x=393.45355 y=313.14673 eventTimestamp=240779052 totalPointers=1 systemTimestamp=1346610574191 />
+<KEY keyCode=32 printKey=' ' x=392 y=309 systemTimestamp=1346610574193 />
+<TOUCH event=down pointerId=0 x=55.922333 y=349.11865 eventTimestamp=240779219 totalPointers=1 systemTimestamp=1346610574364 />
+<TOUCH event=up pointerId=0 x=60.77928 y=352.97937 eventTimestamp=240779302 totalPointers=1 systemTimestamp=1346610574440 />
+<KEY keyCode=-2 printKey=symbol x=55 y=349 systemTimestamp=1346610574441 />
+<TOUCH event=down pointerId=0 x=120.832184 y=145.2779 eventTimestamp=240779479 totalPointers=1 systemTimestamp=1346610574619 />
+<TOUCH event=up pointerId=0 x=120.832184 y=143.27948 eventTimestamp=240779589 totalPointers=1 systemTimestamp=1346610574728 />
+<KEY keyCode=35 printKey='#' x=120 y=145 systemTimestamp=1346610574730 />
+<TOUCH event=down pointerId=0 x=386.46326 y=324.13818 eventTimestamp=240779664 totalPointers=1 systemTimestamp=1346610574804 />
+<TOUCH event=up pointerId=0 x=386.46326 y=324.13818 eventTimestamp=240779774 totalPointers=1 systemTimestamp=1346610574912 />
+<KEY keyCode=32 printKey=' ' x=386 y=324 systemTimestamp=1346610574915 />
+<TOUCH event=down pointerId=0 x=64.90985 y=345.12183 eventTimestamp=240779950 totalPointers=1 systemTimestamp=1346610575094 />
+<TOUCH event=up pointerId=0 x=65.90846 y=347.12024 eventTimestamp=240780005 totalPointers=1 systemTimestamp=1346610575174 />
+<KEY keyCode=-2 printKey=symbol x=64 y=345 systemTimestamp=1346610575176 />
+<TOUCH event=down pointerId=0 x=110.84605 y=180.25061 eventTimestamp=240780219 totalPointers=1 systemTimestamp=1346610575358 />
+<TOUCH event=up pointerId=0 x=110.84605 y=180.25061 eventTimestamp=240780320 totalPointers=1 systemTimestamp=1346610575458 />
+<KEY keyCode=35 printKey='#' x=110 y=180 systemTimestamp=1346610575460 />
+<TOUCH event=down pointerId=0 x=394.45215 y=319.1421 eventTimestamp=240780377 totalPointers=1 systemTimestamp=1346610575515 />
+<TOUCH event=up pointerId=0 x=394.45215 y=319.1421 eventTimestamp=240780459 totalPointers=1 systemTimestamp=1346610575598 />
+<KEY keyCode=32 printKey=' ' x=394 y=319 systemTimestamp=1346610575600 />
+<TOUCH event=down pointerId=0 x=707.01807 y=207.22949 eventTimestamp=240781469 totalPointers=1 systemTimestamp=1346610576607 />
+<KEY keyCode=-4 printKey=delete x=618 y=209 systemTimestamp=1346610576611 />
+<TOUCH event=up pointerId=0 x=703.7024 y=210.54718 eventTimestamp=240781542 totalPointers=1 systemTimestamp=1346610576688 />
+<TOUCH event=down pointerId=0 x=674.06384 y=365.1062 eventTimestamp=240785404 totalPointers=1 systemTimestamp=1346610580543 />
+<TOUCH event=up pointerId=0 x=676.06104 y=365.1062 eventTimestamp=240785471 totalPointers=1 systemTimestamp=1346610580611 />
+<KEY keyCode=10 printKey=enter x=674 y=365 systemTimestamp=1346610580613 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610580615 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610580618 />
+<SYSTEM event=LogEnteredText text=# # # # # systemTimestamp=1346610580620 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:! ! ! ! ! systemTimestamp=1346610580621 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610580657 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610580658 />
+<TOUCH event=down pointerId=0 x=25.96394 y=386.08972 eventTimestamp=240786426 totalPointers=1 systemTimestamp=1346610581571 />
+<TOUCH event=up pointerId=0 x=25.96394 y=388.1433 eventTimestamp=240786561 totalPointers=1 systemTimestamp=1346610581699 />
+<KEY keyCode=-2 printKey=symbol x=25 y=386 systemTimestamp=1346610581701 />
+<TOUCH event=down pointerId=0 x=123.82802 y=238.20532 eventTimestamp=240787146 totalPointers=1 systemTimestamp=1346610582285 />
+<TOUCH event=up pointerId=0 x=123.82802 y=238.20532 eventTimestamp=240787225 totalPointers=1 systemTimestamp=1346610582364 />
+<KEY keyCode=33 printKey='!' x=123 y=238 systemTimestamp=1346610582367 />
+<TOUCH event=down pointerId=0 x=412.4272 y=347.12024 eventTimestamp=240787269 totalPointers=1 systemTimestamp=1346610582408 />
+<TOUCH event=up pointerId=0 x=412.4272 y=347.12024 eventTimestamp=240787348 totalPointers=1 systemTimestamp=1346610582487 />
+<KEY keyCode=32 printKey=' ' x=412 y=347 systemTimestamp=1346610582489 />
+<TOUCH event=down pointerId=0 x=34.951458 y=331.1327 eventTimestamp=240787415 totalPointers=1 systemTimestamp=1346610582561 />
+<TOUCH event=up pointerId=0 x=34.951458 y=331.1327 eventTimestamp=240787483 totalPointers=1 systemTimestamp=1346610582627 />
+<KEY keyCode=-2 printKey=symbol x=34 y=331 systemTimestamp=1346610582628 />
+<TOUCH event=down pointerId=0 x=128.82109 y=235.20764 eventTimestamp=240787641 totalPointers=1 systemTimestamp=1346610582780 />
+<TOUCH event=up pointerId=0 x=128.82109 y=235.20764 eventTimestamp=240787697 totalPointers=1 systemTimestamp=1346610582835 />
+<KEY keyCode=33 printKey='!' x=128 y=235 systemTimestamp=1346610582837 />
+<TOUCH event=down pointerId=0 x=422.41333 y=335.12964 eventTimestamp=240787786 totalPointers=1 systemTimestamp=1346610582933 />
+<TOUCH event=up pointerId=0 x=422.41333 y=335.12964 eventTimestamp=240787854 totalPointers=1 systemTimestamp=1346610582992 />
+<KEY keyCode=32 printKey=' ' x=422 y=335 systemTimestamp=1346610582994 />
+<TOUCH event=down pointerId=0 x=19.972261 y=348.1194 eventTimestamp=240788011 totalPointers=1 systemTimestamp=1346610583149 />
+<TOUCH event=up pointerId=0 x=19.972261 y=348.1194 eventTimestamp=240788067 totalPointers=1 systemTimestamp=1346610583207 />
+<KEY keyCode=-2 printKey=symbol x=19 y=348 systemTimestamp=1346610583208 />
+<TOUCH event=down pointerId=0 x=130.81831 y=240.20374 eventTimestamp=240788439 totalPointers=1 systemTimestamp=1346610583578 />
+<TOUCH event=up pointerId=0 x=130.81831 y=240.20374 eventTimestamp=240788518 totalPointers=1 systemTimestamp=1346610583656 />
+<KEY keyCode=33 printKey='!' x=130 y=240 systemTimestamp=1346610583658 />
+<TOUCH event=down pointerId=0 x=414.4244 y=333.1311 eventTimestamp=240788573 totalPointers=1 systemTimestamp=1346610583711 />
+<TOUCH event=up pointerId=0 x=414.4244 y=333.1311 eventTimestamp=240788652 totalPointers=1 systemTimestamp=1346610583791 />
+<KEY keyCode=32 printKey=' ' x=414 y=333 systemTimestamp=1346610583792 />
+<TOUCH event=down pointerId=0 x=47.933426 y=332.13196 eventTimestamp=240788798 totalPointers=1 systemTimestamp=1346610583943 />
+<TOUCH event=up pointerId=0 x=47.933426 y=332.13196 eventTimestamp=240788866 totalPointers=1 systemTimestamp=1346610584004 />
+<KEY keyCode=-2 printKey=symbol x=47 y=332 systemTimestamp=1346610584005 />
+<TOUCH event=down pointerId=0 x=131.81693 y=238.20532 eventTimestamp=240789024 totalPointers=1 systemTimestamp=1346610584162 />
+<TOUCH event=up pointerId=0 x=131.81693 y=238.20532 eventTimestamp=240789091 totalPointers=1 systemTimestamp=1346610584229 />
+<KEY keyCode=33 printKey='!' x=131 y=238 systemTimestamp=1346610584231 />
+<TOUCH event=down pointerId=0 x=412.4272 y=335.12964 eventTimestamp=240789191 totalPointers=1 systemTimestamp=1346610584330 />
+<TOUCH event=up pointerId=0 x=412.4272 y=335.12964 eventTimestamp=240789248 totalPointers=1 systemTimestamp=1346610584386 />
+<KEY keyCode=32 printKey=' ' x=412 y=335 systemTimestamp=1346610584388 />
+<TOUCH event=down pointerId=0 x=47.933426 y=345.12183 eventTimestamp=240789405 totalPointers=1 systemTimestamp=1346610584547 />
+<TOUCH event=up pointerId=0 x=47.933426 y=345.12183 eventTimestamp=240789439 totalPointers=1 systemTimestamp=1346610584611 />
+<KEY keyCode=-2 printKey=symbol x=47 y=345 systemTimestamp=1346610584613 />
+<TOUCH event=down pointerId=0 x=129.8197 y=249.19678 eventTimestamp=240789608 totalPointers=1 systemTimestamp=1346610584747 />
+<TOUCH event=up pointerId=0 x=129.8197 y=249.19678 eventTimestamp=240789641 totalPointers=1 systemTimestamp=1346610584780 />
+<KEY keyCode=33 printKey='!' x=129 y=249 systemTimestamp=1346610584783 />
+<TOUCH event=down pointerId=0 x=408.43274 y=344.12256 eventTimestamp=240789709 totalPointers=1 systemTimestamp=1346610584847 />
+<TOUCH event=up pointerId=0 x=408.43274 y=344.12256 eventTimestamp=240789754 totalPointers=1 systemTimestamp=1346610584892 />
+<KEY keyCode=32 printKey=' ' x=408 y=344 systemTimestamp=1346610584894 />
+<TOUCH event=down pointerId=0 x=699.0291 y=335.12964 eventTimestamp=240790709 totalPointers=1 systemTimestamp=1346610585848 />
+<TOUCH event=up pointerId=0 x=699.0291 y=335.12964 eventTimestamp=240790766 totalPointers=1 systemTimestamp=1346610585910 />
+<KEY keyCode=10 printKey=enter x=699 y=335 systemTimestamp=1346610585912 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610585913 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610585918 />
+<SYSTEM event=LogEnteredText text=! ! ! ! !  systemTimestamp=1346610585919 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:' ' ' ' ' systemTimestamp=1346610585920 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610585926 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610585927 />
+<TOUCH event=down pointerId=0 x=40.943134 y=355.114 eventTimestamp=240791688 totalPointers=1 systemTimestamp=1346610586827 />
+<TOUCH event=up pointerId=0 x=40.943134 y=355.114 eventTimestamp=240791744 totalPointers=1 systemTimestamp=1346610586897 />
+<KEY keyCode=-2 printKey=symbol x=40 y=355 systemTimestamp=1346610586899 />
+<TOUCH event=down pointerId=0 x=273.61996 y=236.20685 eventTimestamp=240792464 totalPointers=1 systemTimestamp=1346610587603 />
+<TOUCH event=up pointerId=0 x=407.57867 y=325.2821 eventTimestamp=240792677 totalPointers=1 systemTimestamp=1346610587817 />
+<KEY keyCode=32 printKey=' ' x=381 y=305 systemTimestamp=1346610587818 />
+<TOUCH event=down pointerId=0 x=272.62137 y=235.20764 eventTimestamp=240794533 totalPointers=1 systemTimestamp=1346610589672 />
+<TOUCH event=up pointerId=0 x=272.62137 y=235.20764 eventTimestamp=240794600 totalPointers=1 systemTimestamp=1346610589738 />
+<KEY keyCode=39 printKey=''' x=272 y=235 systemTimestamp=1346610589740 />
+<TOUCH event=down pointerId=0 x=387.46185 y=330.13354 eventTimestamp=240795038 totalPointers=1 systemTimestamp=1346610590177 />
+<TOUCH event=up pointerId=0 x=387.46185 y=330.13354 eventTimestamp=240795117 totalPointers=1 systemTimestamp=1346610590255 />
+<KEY keyCode=32 printKey=' ' x=387 y=330 systemTimestamp=1346610590258 />
+<TOUCH event=down pointerId=0 x=25.96394 y=353.11548 eventTimestamp=240795251 totalPointers=1 systemTimestamp=1346610590400 />
+<TOUCH event=up pointerId=0 x=25.96394 y=353.11548 eventTimestamp=240795286 totalPointers=1 systemTimestamp=1346610590425 />
+<KEY keyCode=-2 printKey=symbol x=25 y=353 systemTimestamp=1346610590426 />
+<TOUCH event=down pointerId=0 x=671.068 y=256.19128 eventTimestamp=240795893 totalPointers=1 systemTimestamp=1346610591032 />
+<KEY keyCode=-4 printKey=delete x=618 y=209 systemTimestamp=1346610591045 />
+<TOUCH event=up pointerId=0 x=671.068 y=256.19128 eventTimestamp=240795949 totalPointers=1 systemTimestamp=1346610591088 />
+<TOUCH event=down pointerId=0 x=680.0555 y=267.18262 eventTimestamp=240796039 totalPointers=1 systemTimestamp=1346610591178 />
+<KEY keyCode=-4 printKey=delete x=618 y=209 systemTimestamp=1346610591181 />
+<TOUCH event=up pointerId=0 x=680.0555 y=267.18262 eventTimestamp=240796107 totalPointers=1 systemTimestamp=1346610591246 />
+<TOUCH event=down pointerId=0 x=680.0555 y=270.1803 eventTimestamp=240796197 totalPointers=1 systemTimestamp=1346610591335 />
+<KEY keyCode=-4 printKey=delete x=618 y=209 systemTimestamp=1346610591338 />
+<TOUCH event=up pointerId=0 x=688.05396 y=265.511 eventTimestamp=240796264 totalPointers=1 systemTimestamp=1346610591402 />
+<TOUCH event=down pointerId=0 x=34.951458 y=351.11707 eventTimestamp=240796624 totalPointers=1 systemTimestamp=1346610591763 />
+<TOUCH event=up pointerId=0 x=34.951458 y=351.11707 eventTimestamp=240796691 totalPointers=1 systemTimestamp=1346610591842 />
+<KEY keyCode=-2 printKey=symbol x=34 y=351 systemTimestamp=1346610591844 />
+<TOUCH event=down pointerId=0 x=38.945908 y=351.11707 eventTimestamp=240796960 totalPointers=1 systemTimestamp=1346610592101 />
+<TOUCH event=up pointerId=0 x=38.945908 y=351.11707 eventTimestamp=240797017 totalPointers=1 systemTimestamp=1346610592170 />
+<KEY keyCode=-2 printKey=symbol x=38 y=351 systemTimestamp=1346610592172 />
+<TOUCH event=down pointerId=0 x=263.63385 y=238.20532 eventTimestamp=240797511 totalPointers=1 systemTimestamp=1346610592651 />
+<TOUCH event=up pointerId=0 x=263.63385 y=238.20532 eventTimestamp=240797534 totalPointers=1 systemTimestamp=1346610592692 />
+<KEY keyCode=39 printKey=''' x=263 y=238 systemTimestamp=1346610592693 />
+<TOUCH event=down pointerId=0 x=399.44522 y=367.1046 eventTimestamp=240797704 totalPointers=1 systemTimestamp=1346610592842 />
+<TOUCH event=up pointerId=0 x=399.44522 y=367.1046 eventTimestamp=240797771 totalPointers=1 systemTimestamp=1346610592909 />
+<KEY keyCode=32 printKey=' ' x=399 y=367 systemTimestamp=1346610592911 />
+<TOUCH event=down pointerId=0 x=81.88627 y=337.12805 eventTimestamp=240798389 totalPointers=1 systemTimestamp=1346610593527 />
+<TOUCH event=up pointerId=0 x=81.88627 y=337.12805 eventTimestamp=240798423 totalPointers=1 systemTimestamp=1346610593564 />
+<KEY keyCode=-2 printKey=symbol x=81 y=337 systemTimestamp=1346610593571 />
+<TOUCH event=down pointerId=0 x=285.60333 y=227.21387 eventTimestamp=240798828 totalPointers=1 systemTimestamp=1346610593967 />
+<TOUCH event=up pointerId=0 x=285.60333 y=227.21387 eventTimestamp=240798884 totalPointers=1 systemTimestamp=1346610594022 />
+<KEY keyCode=39 printKey=''' x=285 y=227 systemTimestamp=1346610594024 />
+<TOUCH event=down pointerId=0 x=411.4286 y=338.1272 eventTimestamp=240798996 totalPointers=1 systemTimestamp=1346610594134 />
+<TOUCH event=up pointerId=0 x=411.4286 y=338.1272 eventTimestamp=240799109 totalPointers=1 systemTimestamp=1346610594248 />
+<KEY keyCode=32 printKey=' ' x=411 y=338 systemTimestamp=1346610594250 />
+<TOUCH event=down pointerId=0 x=44.937588 y=345.12183 eventTimestamp=240799288 totalPointers=1 systemTimestamp=1346610594427 />
+<TOUCH event=up pointerId=0 x=44.937588 y=345.12183 eventTimestamp=240799345 totalPointers=1 systemTimestamp=1346610594502 />
+<KEY keyCode=-2 printKey=symbol x=44 y=345 systemTimestamp=1346610594503 />
+<TOUCH event=down pointerId=0 x=275.61722 y=234.20844 eventTimestamp=240799648 totalPointers=1 systemTimestamp=1346610594787 />
+<TOUCH event=up pointerId=0 x=275.61722 y=234.20844 eventTimestamp=240799694 totalPointers=1 systemTimestamp=1346610594832 />
+<KEY keyCode=39 printKey=''' x=275 y=234 systemTimestamp=1346610594834 />
+<TOUCH event=down pointerId=0 x=406.43552 y=348.1194 eventTimestamp=240799806 totalPointers=1 systemTimestamp=1346610594944 />
+<TOUCH event=up pointerId=0 x=406.43552 y=348.1194 eventTimestamp=240799862 totalPointers=1 systemTimestamp=1346610595000 />
+<KEY keyCode=32 printKey=' ' x=406 y=348 systemTimestamp=1346610595002 />
+<TOUCH event=down pointerId=0 x=87.87795 y=336.12878 eventTimestamp=240800503 totalPointers=1 systemTimestamp=1346610595645 />
+<TOUCH event=up pointerId=0 x=87.87795 y=336.12878 eventTimestamp=240800582 totalPointers=1 systemTimestamp=1346610595724 />
+<KEY keyCode=-2 printKey=symbol x=87 y=336 systemTimestamp=1346610595726 />
+<TOUCH event=down pointerId=0 x=282.60748 y=222.21777 eventTimestamp=240800863 totalPointers=1 systemTimestamp=1346610596002 />
+<TOUCH event=up pointerId=0 x=282.60748 y=222.21777 eventTimestamp=240800908 totalPointers=1 systemTimestamp=1346610596046 />
+<KEY keyCode=39 printKey=''' x=282 y=222 systemTimestamp=1346610596054 />
+<TOUCH event=down pointerId=0 x=401.44244 y=337.12805 eventTimestamp=240801043 totalPointers=1 systemTimestamp=1346610596182 />
+<TOUCH event=up pointerId=0 x=401.44244 y=337.12805 eventTimestamp=240801111 totalPointers=1 systemTimestamp=1346610596249 />
+<KEY keyCode=32 printKey=' ' x=401 y=337 systemTimestamp=1346610596250 />
+<TOUCH event=down pointerId=0 x=61.91401 y=346.12097 eventTimestamp=240801324 totalPointers=1 systemTimestamp=1346610596463 />
+<TOUCH event=up pointerId=0 x=61.91401 y=346.12097 eventTimestamp=240801392 totalPointers=1 systemTimestamp=1346610596530 />
+<KEY keyCode=-2 printKey=symbol x=61 y=346 systemTimestamp=1346610596532 />
+<TOUCH event=down pointerId=0 x=300.58252 y=221.21857 eventTimestamp=240801988 totalPointers=1 systemTimestamp=1346610597127 />
+<TOUCH event=up pointerId=0 x=298.57104 y=223.23132 eventTimestamp=240802078 totalPointers=1 systemTimestamp=1346610597216 />
+<KEY keyCode=39 printKey=''' x=300 y=221 systemTimestamp=1346610597217 />
+<TOUCH event=down pointerId=0 x=695.03467 y=356.11316 eventTimestamp=240802392 totalPointers=1 systemTimestamp=1346610597531 />
+<TOUCH event=up pointerId=0 x=695.03467 y=356.11316 eventTimestamp=240802449 totalPointers=1 systemTimestamp=1346610597587 />
+<KEY keyCode=10 printKey=enter x=695 y=356 systemTimestamp=1346610597589 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610597590 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610597621 />
+<SYSTEM event=LogEnteredText text=' ' ' ' ' systemTimestamp=1346610597622 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:$ $ $ $ $ systemTimestamp=1346610597624 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610597630 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610597631 />
+<TOUCH event=down pointerId=0 x=25.96394 y=362.10852 eventTimestamp=240803336 totalPointers=1 systemTimestamp=1346610598476 />
+<TOUCH event=up pointerId=0 x=25.96394 y=362.10852 eventTimestamp=240803438 totalPointers=1 systemTimestamp=1346610598576 />
+<KEY keyCode=-2 printKey=symbol x=25 y=362 systemTimestamp=1346610598577 />
+<TOUCH event=down pointerId=0 x=189.73648 y=135.2857 eventTimestamp=240804046 totalPointers=1 systemTimestamp=1346610599185 />
+<TOUCH event=up pointerId=0 x=189.73648 y=135.2857 eventTimestamp=240804147 totalPointers=1 systemTimestamp=1346610599286 />
+<KEY keyCode=36 printKey='$' x=189 y=135 systemTimestamp=1346610599288 />
+<TOUCH event=down pointerId=0 x=410.42996 y=324.13818 eventTimestamp=240804327 totalPointers=1 systemTimestamp=1346610599466 />
+<TOUCH event=up pointerId=0 x=410.42996 y=324.13818 eventTimestamp=240804440 totalPointers=1 systemTimestamp=1346610599578 />
+<KEY keyCode=32 printKey=' ' x=410 y=324 systemTimestamp=1346610599580 />
+<TOUCH event=down pointerId=0 x=32.95423 y=352.11633 eventTimestamp=240804742 totalPointers=1 systemTimestamp=1346610599884 />
+<TOUCH event=up pointerId=0 x=32.95423 y=352.11633 eventTimestamp=240804810 totalPointers=1 systemTimestamp=1346610599962 />
+<KEY keyCode=-2 printKey=symbol x=32 y=352 systemTimestamp=1346610599964 />
+<TOUCH event=down pointerId=0 x=181.74757 y=152.27246 eventTimestamp=240805080 totalPointers=1 systemTimestamp=1346610600219 />
+<TOUCH event=up pointerId=0 x=181.74757 y=152.27246 eventTimestamp=240805148 totalPointers=1 systemTimestamp=1346610600286 />
+<KEY keyCode=36 printKey='$' x=181 y=152 systemTimestamp=1346610600288 />
+<TOUCH event=down pointerId=0 x=402.44107 y=338.1272 eventTimestamp=240805203 totalPointers=1 systemTimestamp=1346610600341 />
+<TOUCH event=up pointerId=0 x=402.44107 y=338.1272 eventTimestamp=240805271 totalPointers=1 systemTimestamp=1346610600410 />
+<KEY keyCode=32 printKey=' ' x=402 y=338 systemTimestamp=1346610600412 />
+<TOUCH event=down pointerId=0 x=31.955618 y=348.1194 eventTimestamp=240805507 totalPointers=1 systemTimestamp=1346610600645 />
+<TOUCH event=up pointerId=0 x=31.955618 y=348.1194 eventTimestamp=240805563 totalPointers=1 systemTimestamp=1346610600712 />
+<KEY keyCode=-2 printKey=symbol x=31 y=348 systemTimestamp=1346610600713 />
+<TOUCH event=down pointerId=0 x=180.74896 y=162.26465 eventTimestamp=240805912 totalPointers=1 systemTimestamp=1346610601052 />
+<TOUCH event=up pointerId=0 x=180.74896 y=162.26465 eventTimestamp=240806003 totalPointers=1 systemTimestamp=1346610601141 />
+<KEY keyCode=36 printKey='$' x=180 y=162 systemTimestamp=1346610601143 />
+<TOUCH event=down pointerId=0 x=411.4286 y=319.1421 eventTimestamp=240806103 totalPointers=1 systemTimestamp=1346610601251 />
+<TOUCH event=up pointerId=0 x=416.15018 y=315.41687 eventTimestamp=240806193 totalPointers=1 systemTimestamp=1346610601331 />
+<KEY keyCode=32 printKey=' ' x=411 y=319 systemTimestamp=1346610601333 />
+<TOUCH event=down pointerId=0 x=55.922333 y=337.12805 eventTimestamp=240806530 totalPointers=1 systemTimestamp=1346610601670 />
+<TOUCH event=up pointerId=0 x=55.922333 y=337.12805 eventTimestamp=240806609 totalPointers=1 systemTimestamp=1346610601782 />
+<KEY keyCode=-2 printKey=symbol x=55 y=337 systemTimestamp=1346610601802 />
+<TOUCH event=down pointerId=0 x=187.73926 y=150.27399 eventTimestamp=240806981 totalPointers=1 systemTimestamp=1346610602120 />
+<TOUCH event=up pointerId=0 x=187.73926 y=150.27399 eventTimestamp=240807059 totalPointers=1 systemTimestamp=1346610602198 />
+<KEY keyCode=36 printKey='$' x=187 y=150 systemTimestamp=1346610602200 />
+<TOUCH event=down pointerId=0 x=391.45633 y=343.1233 eventTimestamp=240807813 totalPointers=1 systemTimestamp=1346610602952 />
+<TOUCH event=up pointerId=0 x=391.45633 y=343.1233 eventTimestamp=240807892 totalPointers=1 systemTimestamp=1346610603030 />
+<KEY keyCode=32 printKey=' ' x=391 y=343 systemTimestamp=1346610603032 />
+<TOUCH event=down pointerId=0 x=32.95423 y=363.10767 eventTimestamp=240808273 totalPointers=1 systemTimestamp=1346610603411 />
+<TOUCH event=up pointerId=0 x=32.95423 y=363.10767 eventTimestamp=240808364 totalPointers=1 systemTimestamp=1346610603502 />
+<KEY keyCode=-2 printKey=symbol x=32 y=363 systemTimestamp=1346610603504 />
+<TOUCH event=down pointerId=0 x=180.74896 y=144.27869 eventTimestamp=240808735 totalPointers=1 systemTimestamp=1346610603874 />
+<TOUCH event=up pointerId=0 x=180.74896 y=144.27869 eventTimestamp=240808803 totalPointers=1 systemTimestamp=1346610603941 />
+<KEY keyCode=36 printKey='$' x=180 y=144 systemTimestamp=1346610603943 />
+<TOUCH event=down pointerId=0 x=697.0319 y=372.1007 eventTimestamp=240810770 totalPointers=1 systemTimestamp=1346610605910 />
+<TOUCH event=up pointerId=0 x=697.0319 y=372.1007 eventTimestamp=240810827 totalPointers=1 systemTimestamp=1346610605965 />
+<KEY keyCode=10 printKey=enter x=697 y=372 systemTimestamp=1346610605967 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610605968 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610605999 />
+<SYSTEM event=LogEnteredText text=$ $ $ $ $ systemTimestamp=1346610606001 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:% % % % % systemTimestamp=1346610606002 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610606008 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610606009 />
+<TOUCH event=down pointerId=0 x=19.972261 y=331.1327 eventTimestamp=240811917 totalPointers=1 systemTimestamp=1346610607056 />
+<TOUCH event=up pointerId=0 x=23.966713 y=337.8418 eventTimestamp=240812109 totalPointers=1 systemTimestamp=1346610607248 />
+<KEY keyCode=-2 printKey=symbol x=19 y=331 systemTimestamp=1346610607250 />
+<TOUCH event=down pointerId=0 x=247.65604 y=142.28027 eventTimestamp=240812728 totalPointers=1 systemTimestamp=1346610607867 />
+<TOUCH event=up pointerId=0 x=247.65604 y=142.28027 eventTimestamp=240812840 totalPointers=1 systemTimestamp=1346610607978 />
+<KEY keyCode=37 printKey='%' x=247 y=142 systemTimestamp=1346610607980 />
+<TOUCH event=down pointerId=0 x=432.39944 y=338.1272 eventTimestamp=240812919 totalPointers=1 systemTimestamp=1346610608057 />
+<TOUCH event=up pointerId=0 x=432.39944 y=338.1272 eventTimestamp=240812998 totalPointers=1 systemTimestamp=1346610608136 />
+<KEY keyCode=32 printKey=' ' x=432 y=338 systemTimestamp=1346610608138 />
+<TOUCH event=down pointerId=0 x=12.98197 y=348.1194 eventTimestamp=240813267 totalPointers=1 systemTimestamp=1346610608411 />
+<TOUCH event=up pointerId=0 x=12.98197 y=348.1194 eventTimestamp=240813369 totalPointers=1 systemTimestamp=1346610608507 />
+<KEY keyCode=-2 printKey=symbol x=12 y=348 systemTimestamp=1346610608509 />
+<TOUCH event=down pointerId=0 x=240.66574 y=149.27478 eventTimestamp=240813807 totalPointers=1 systemTimestamp=1346610608946 />
+<TOUCH event=up pointerId=0 x=240.66574 y=149.27478 eventTimestamp=240813908 totalPointers=1 systemTimestamp=1346610609047 />
+<KEY keyCode=37 printKey='%' x=240 y=149 systemTimestamp=1346610609049 />
+<TOUCH event=down pointerId=0 x=53.925106 y=331.1327 eventTimestamp=240814246 totalPointers=1 systemTimestamp=1346610609385 />
+<TOUCH event=up pointerId=0 x=53.925106 y=331.1327 eventTimestamp=240814302 totalPointers=1 systemTimestamp=1346610609488 />
+<KEY keyCode=-2 printKey=symbol x=53 y=331 systemTimestamp=1346610609490 />
+<TOUCH event=down pointerId=0 x=419.41748 y=333.1311 eventTimestamp=240814830 totalPointers=1 systemTimestamp=1346610609971 />
+<TOUCH event=up pointerId=0 x=419.41748 y=333.1311 eventTimestamp=240814887 totalPointers=1 systemTimestamp=1346610610025 />
+<KEY keyCode=32 printKey=' ' x=419 y=333 systemTimestamp=1346610610027 />
+<TOUCH event=down pointerId=0 x=34.951458 y=345.12183 eventTimestamp=240815201 totalPointers=1 systemTimestamp=1346610610343 />
+<TOUCH event=up pointerId=0 x=34.951458 y=345.12183 eventTimestamp=240815258 totalPointers=1 systemTimestamp=1346610610417 />
+<KEY keyCode=-2 printKey=symbol x=34 y=345 systemTimestamp=1346610610419 />
+<TOUCH event=down pointerId=0 x=241.66437 y=134.2865 eventTimestamp=240815731 totalPointers=1 systemTimestamp=1346610610870 />
+<TOUCH event=up pointerId=0 x=241.66437 y=134.2865 eventTimestamp=240815832 totalPointers=1 systemTimestamp=1346610610971 />
+<KEY keyCode=37 printKey='%' x=241 y=134 systemTimestamp=1346610610972 />
+<TOUCH event=down pointerId=0 x=411.4286 y=339.12646 eventTimestamp=240815978 totalPointers=1 systemTimestamp=1346610611116 />
+<TOUCH event=up pointerId=0 x=411.4286 y=339.12646 eventTimestamp=240816069 totalPointers=1 systemTimestamp=1346610611207 />
+<KEY keyCode=32 printKey=' ' x=411 y=339 systemTimestamp=1346610611209 />
+<TOUCH event=down pointerId=0 x=12.98197 y=355.114 eventTimestamp=240816326 totalPointers=1 systemTimestamp=1346610611464 />
+<TOUCH event=up pointerId=0 x=12.98197 y=355.114 eventTimestamp=240816405 totalPointers=1 systemTimestamp=1346610611543 />
+<KEY keyCode=-2 printKey=symbol x=12 y=355 systemTimestamp=1346610611545 />
+<TOUCH event=down pointerId=0 x=255.64494 y=123.295105 eventTimestamp=240816833 totalPointers=1 systemTimestamp=1346610611972 />
+<TOUCH event=up pointerId=0 x=255.64494 y=123.295105 eventTimestamp=240816901 totalPointers=1 systemTimestamp=1346610612039 />
+<KEY keyCode=37 printKey='%' x=255 y=123 systemTimestamp=1346610612040 />
+<TOUCH event=down pointerId=0 x=396.44937 y=344.12256 eventTimestamp=240817103 totalPointers=1 systemTimestamp=1346610612242 />
+<TOUCH event=up pointerId=0 x=396.44937 y=344.12256 eventTimestamp=240817171 totalPointers=1 systemTimestamp=1346610612310 />
+<KEY keyCode=32 printKey=' ' x=396 y=344 systemTimestamp=1346610612312 />
+<TOUCH event=down pointerId=0 x=27.961166 y=347.12024 eventTimestamp=240817462 totalPointers=1 systemTimestamp=1346610612600 />
+<TOUCH event=up pointerId=0 x=27.961166 y=347.12024 eventTimestamp=240817508 totalPointers=1 systemTimestamp=1346610612680 />
+<KEY keyCode=-2 printKey=symbol x=27 y=347 systemTimestamp=1346610612682 />
+<TOUCH event=down pointerId=0 x=241.66437 y=138.28339 eventTimestamp=240817924 totalPointers=1 systemTimestamp=1346610613063 />
+<TOUCH event=up pointerId=0 x=240.5462 y=139.40222 eventTimestamp=240818014 totalPointers=1 systemTimestamp=1346610613152 />
+<KEY keyCode=37 printKey='%' x=241 y=138 systemTimestamp=1346610613154 />
+<TOUCH event=down pointerId=0 x=695.03467 y=346.12097 eventTimestamp=240818351 totalPointers=1 systemTimestamp=1346610613490 />
+<TOUCH event=up pointerId=0 x=695.03467 y=346.12097 eventTimestamp=240818419 totalPointers=1 systemTimestamp=1346610613557 />
+<KEY keyCode=10 printKey=enter x=695 y=346 systemTimestamp=1346610613559 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610613560 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610613590 />
+<SYSTEM event=LogEnteredText text=% % % % % systemTimestamp=1346610613591 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:" " " " " systemTimestamp=1346610613593 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610613599 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610613600 />
+<TOUCH event=down pointerId=0 x=10.984744 y=354.11475 eventTimestamp=240819520 totalPointers=1 systemTimestamp=1346610614668 />
+<TOUCH event=up pointerId=0 x=10.984744 y=354.11475 eventTimestamp=240819611 totalPointers=1 systemTimestamp=1346610614753 />
+<KEY keyCode=-2 printKey=symbol x=10 y=354 systemTimestamp=1346610614755 />
+<TOUCH event=down pointerId=0 x=207.71152 y=240.20374 eventTimestamp=240820657 totalPointers=1 systemTimestamp=1346610615796 />
+<TOUCH event=up pointerId=0 x=207.71152 y=240.20374 eventTimestamp=240820736 totalPointers=1 systemTimestamp=1346610615874 />
+<KEY keyCode=34 printKey='"' x=207 y=240 systemTimestamp=1346610615876 />
+<TOUCH event=down pointerId=0 x=412.4272 y=343.1233 eventTimestamp=240820815 totalPointers=1 systemTimestamp=1346610615953 />
+<TOUCH event=up pointerId=0 x=412.4272 y=343.1233 eventTimestamp=240820905 totalPointers=1 systemTimestamp=1346610616044 />
+<KEY keyCode=32 printKey=' ' x=412 y=343 systemTimestamp=1346610616046 />
+<TOUCH event=down pointerId=0 x=25.96394 y=374.09912 eventTimestamp=240821095 totalPointers=1 systemTimestamp=1346610616243 />
+<TOUCH event=up pointerId=0 x=25.96394 y=374.09912 eventTimestamp=240821152 totalPointers=1 systemTimestamp=1346610616304 />
+<KEY keyCode=-2 printKey=symbol x=25 y=374 systemTimestamp=1346610616305 />
+<TOUCH event=down pointerId=0 x=230.67961 y=241.20294 eventTimestamp=240821411 totalPointers=1 systemTimestamp=1346610616550 />
+<TOUCH event=up pointerId=0 x=230.67961 y=241.20294 eventTimestamp=240821467 totalPointers=1 systemTimestamp=1346610616606 />
+<KEY keyCode=34 printKey='"' x=230 y=241 systemTimestamp=1346610616607 />
+<TOUCH event=down pointerId=0 x=410.42996 y=351.11707 eventTimestamp=240821546 totalPointers=1 systemTimestamp=1346610616684 />
+<TOUCH event=up pointerId=0 x=410.42996 y=351.11707 eventTimestamp=240821636 totalPointers=1 systemTimestamp=1346610616775 />
+<KEY keyCode=32 printKey=' ' x=410 y=351 systemTimestamp=1346610616776 />
+<TOUCH event=down pointerId=0 x=17.975035 y=367.1046 eventTimestamp=240821916 totalPointers=1 systemTimestamp=1346610617058 />
+<TOUCH event=up pointerId=0 x=17.975035 y=367.1046 eventTimestamp=240821950 totalPointers=1 systemTimestamp=1346610617134 />
+<KEY keyCode=-2 printKey=symbol x=17 y=367 systemTimestamp=1346610617135 />
+<TOUCH event=down pointerId=0 x=222.69072 y=236.20685 eventTimestamp=240822435 totalPointers=1 systemTimestamp=1346610617575 />
+<TOUCH event=up pointerId=0 x=222.69072 y=236.20685 eventTimestamp=240822524 totalPointers=1 systemTimestamp=1346610617662 />
+<KEY keyCode=34 printKey='"' x=222 y=236 systemTimestamp=1346610617664 />
+<TOUCH event=down pointerId=0 x=399.44522 y=346.12097 eventTimestamp=240822604 totalPointers=1 systemTimestamp=1346610617743 />
+<TOUCH event=up pointerId=0 x=399.44522 y=346.12097 eventTimestamp=240822660 totalPointers=1 systemTimestamp=1346610617798 />
+<KEY keyCode=32 printKey=' ' x=399 y=346 systemTimestamp=1346610617800 />
+<TOUCH event=down pointerId=0 x=46.934814 y=338.1272 eventTimestamp=240823289 totalPointers=1 systemTimestamp=1346610618433 />
+<TOUCH event=up pointerId=0 x=46.934814 y=338.1272 eventTimestamp=240823368 totalPointers=1 systemTimestamp=1346610618512 />
+<KEY keyCode=-2 printKey=symbol x=46 y=338 systemTimestamp=1346610618514 />
+<TOUCH event=down pointerId=0 x=218.69626 y=243.20142 eventTimestamp=240823672 totalPointers=1 systemTimestamp=1346610618812 />
+<TOUCH event=up pointerId=0 x=218.69626 y=243.20142 eventTimestamp=240823751 totalPointers=1 systemTimestamp=1346610618889 />
+<KEY keyCode=34 printKey='"' x=218 y=243 systemTimestamp=1346610618891 />
+<TOUCH event=down pointerId=0 x=400.44385 y=355.114 eventTimestamp=240823818 totalPointers=1 systemTimestamp=1346610618956 />
+<TOUCH event=up pointerId=0 x=400.44385 y=355.114 eventTimestamp=240823931 totalPointers=1 systemTimestamp=1346610619070 />
+<KEY keyCode=32 printKey=' ' x=400 y=355 systemTimestamp=1346610619072 />
+<TOUCH event=down pointerId=0 x=31.955618 y=348.1194 eventTimestamp=240824335 totalPointers=1 systemTimestamp=1346610619484 />
+<TOUCH event=up pointerId=0 x=31.955618 y=348.1194 eventTimestamp=240824380 totalPointers=1 systemTimestamp=1346610619557 />
+<KEY keyCode=-2 printKey=symbol x=31 y=348 systemTimestamp=1346610619559 />
+<TOUCH event=down pointerId=0 x=211.70596 y=239.20453 eventTimestamp=240824730 totalPointers=1 systemTimestamp=1346610619868 />
+<TOUCH event=up pointerId=0 x=211.70596 y=239.20453 eventTimestamp=240824785 totalPointers=1 systemTimestamp=1346610619923 />
+<KEY keyCode=34 printKey='"' x=211 y=239 systemTimestamp=1346610619925 />
+<TOUCH event=down pointerId=0 x=706.0194 y=376.09753 eventTimestamp=240825325 totalPointers=1 systemTimestamp=1346610620464 />
+<TOUCH event=up pointerId=0 x=706.0194 y=376.09753 eventTimestamp=240825348 totalPointers=1 systemTimestamp=1346610620486 />
+<KEY keyCode=10 printKey=enter x=706 y=376 systemTimestamp=1346610620489 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610620490 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610620532 />
+<SYSTEM event=LogEnteredText text=" " " " " systemTimestamp=1346610620534 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:@ @ @ @ @ systemTimestamp=1346610620536 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610620593 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610620594 />
+<TOUCH event=down pointerId=0 x=44.937588 y=354.11475 eventTimestamp=240826168 totalPointers=1 systemTimestamp=1346610621315 />
+<TOUCH event=up pointerId=0 x=44.937588 y=354.11475 eventTimestamp=240826248 totalPointers=1 systemTimestamp=1346610621386 />
+<KEY keyCode=-2 printKey=symbol x=44 y=354 systemTimestamp=1346610621388 />
+<TOUCH event=down pointerId=0 x=32.95423 y=163.26385 eventTimestamp=240826923 totalPointers=1 systemTimestamp=1346610622062 />
+<TOUCH event=up pointerId=0 x=30.957005 y=165.26227 eventTimestamp=240827024 totalPointers=1 systemTimestamp=1346610622163 />
+<KEY keyCode=64 printKey='@' x=32 y=163 systemTimestamp=1346610622164 />
+<TOUCH event=down pointerId=0 x=417.42026 y=325.13745 eventTimestamp=240827114 totalPointers=1 systemTimestamp=1346610622253 />
+<TOUCH event=up pointerId=0 x=417.42026 y=325.13745 eventTimestamp=240827171 totalPointers=1 systemTimestamp=1346610622309 />
+<KEY keyCode=32 printKey=' ' x=417 y=325 systemTimestamp=1346610622310 />
+<TOUCH event=down pointerId=0 x=12.98197 y=329.13428 eventTimestamp=240827327 totalPointers=1 systemTimestamp=1346610622465 />
+<TOUCH event=up pointerId=0 x=10.984744 y=329.13428 eventTimestamp=240827384 totalPointers=1 systemTimestamp=1346610622543 />
+<KEY keyCode=-2 printKey=symbol x=12 y=329 systemTimestamp=1346610622545 />
+<TOUCH event=down pointerId=0 x=6.9902916 y=147.27637 eventTimestamp=240827699 totalPointers=1 systemTimestamp=1346610622838 />
+<TOUCH event=up pointerId=0 x=6.9902916 y=147.27637 eventTimestamp=240827755 totalPointers=1 systemTimestamp=1346610622894 />
+<KEY keyCode=64 printKey='@' x=6 y=147 systemTimestamp=1346610622896 />
+<TOUCH event=down pointerId=0 x=419.41748 y=317.14368 eventTimestamp=240827867 totalPointers=1 systemTimestamp=1346610623006 />
+<TOUCH event=up pointerId=0 x=419.41748 y=317.14368 eventTimestamp=240827947 totalPointers=1 systemTimestamp=1346610623086 />
+<KEY keyCode=32 printKey=' ' x=419 y=317 systemTimestamp=1346610623088 />
+<TOUCH event=down pointerId=0 x=4.9930654 y=302.1554 eventTimestamp=240828216 totalPointers=1 systemTimestamp=1346610623365 />
+<TOUCH event=up pointerId=0 x=4.9930654 y=302.1554 eventTimestamp=240828284 totalPointers=1 systemTimestamp=1346610623443 />
+<KEY keyCode=-2 printKey=symbol x=4 y=302 systemTimestamp=1346610623444 />
+<TOUCH event=down pointerId=0 x=416.42163 y=327.13586 eventTimestamp=240828779 totalPointers=1 systemTimestamp=1346610623918 />
+<TOUCH event=up pointerId=0 x=416.42163 y=327.13586 eventTimestamp=240828859 totalPointers=1 systemTimestamp=1346610623997 />
+<KEY keyCode=32 printKey=' ' x=416 y=327 systemTimestamp=1346610623999 />
+<TOUCH event=down pointerId=0 x=697.0319 y=246.1991 eventTimestamp=240829634 totalPointers=1 systemTimestamp=1346610624774 />
+<KEY keyCode=-4 printKey=delete x=618 y=209 systemTimestamp=1346610624777 />
+<TOUCH event=up pointerId=0 x=697.0319 y=246.1991 eventTimestamp=240829714 totalPointers=1 systemTimestamp=1346610624852 />
+<TOUCH event=down pointerId=0 x=17.975035 y=120.297424 eventTimestamp=240830062 totalPointers=1 systemTimestamp=1346610625201 />
+<TOUCH event=up pointerId=0 x=17.975035 y=120.297424 eventTimestamp=240830118 totalPointers=1 systemTimestamp=1346610625256 />
+<KEY keyCode=64 printKey='@' x=17 y=120 systemTimestamp=1346610625258 />
+<TOUCH event=down pointerId=0 x=426.40778 y=341.12488 eventTimestamp=240830388 totalPointers=1 systemTimestamp=1346610625527 />
+<TOUCH event=up pointerId=0 x=426.40778 y=341.12488 eventTimestamp=240830444 totalPointers=1 systemTimestamp=1346610625583 />
+<KEY keyCode=32 printKey=' ' x=426 y=341 systemTimestamp=1346610625584 />
+<TOUCH event=down pointerId=0 x=40.943134 y=318.14282 eventTimestamp=240830871 totalPointers=1 systemTimestamp=1346610626012 />
+<TOUCH event=up pointerId=0 x=40.943134 y=318.14282 eventTimestamp=240830973 totalPointers=1 systemTimestamp=1346610626111 />
+<KEY keyCode=-2 printKey=symbol x=40 y=318 systemTimestamp=1346610626113 />
+<TOUCH event=down pointerId=0 x=21.969488 y=141.281 eventTimestamp=240831536 totalPointers=1 systemTimestamp=1346610626675 />
+<TOUCH event=up pointerId=0 x=19.81771 y=141.281 eventTimestamp=240831625 totalPointers=1 systemTimestamp=1346610626763 />
+<KEY keyCode=64 printKey='@' x=21 y=141 systemTimestamp=1346610626765 />
+<TOUCH event=down pointerId=0 x=440.38837 y=310.14905 eventTimestamp=240831727 totalPointers=1 systemTimestamp=1346610626873 />
+<TOUCH event=up pointerId=0 x=440.38837 y=310.14905 eventTimestamp=240831828 totalPointers=1 systemTimestamp=1346610626967 />
+<KEY keyCode=32 printKey=' ' x=440 y=310 systemTimestamp=1346610626969 />
+<TOUCH event=down pointerId=0 x=38.945908 y=316.1444 eventTimestamp=240832007 totalPointers=1 systemTimestamp=1346610627152 />
+<TOUCH event=up pointerId=0 x=38.945908 y=316.1444 eventTimestamp=240832087 totalPointers=1 systemTimestamp=1346610627225 />
+<KEY keyCode=-2 printKey=symbol x=38 y=316 systemTimestamp=1346610627226 />
+<TOUCH event=down pointerId=0 x=17.975035 y=173.25604 eventTimestamp=240832356 totalPointers=1 systemTimestamp=1346610627495 />
+<TOUCH event=up pointerId=0 x=13.980583 y=171.25763 eventTimestamp=240832436 totalPointers=1 systemTimestamp=1346610627574 />
+<KEY keyCode=64 printKey='@' x=17 y=173 systemTimestamp=1346610627576 />
+<TOUCH event=down pointerId=0 x=714.00836 y=342.12415 eventTimestamp=240832829 totalPointers=1 systemTimestamp=1346610627969 />
+<TOUCH event=up pointerId=0 x=714.00836 y=342.12415 eventTimestamp=240832874 totalPointers=1 systemTimestamp=1346610628012 />
+<KEY keyCode=10 printKey=enter x=714 y=342 systemTimestamp=1346610628014 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610628015 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610628047 />
+<SYSTEM event=LogEnteredText text=@ @ @ @ @ systemTimestamp=1346610628048 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:? ? ? ? ? systemTimestamp=1346610628050 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610628056 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610628057 />
+<TOUCH event=down pointerId=0 x=34.951458 y=349.11865 eventTimestamp=240833706 totalPointers=1 systemTimestamp=1346610628845 />
+<TOUCH event=up pointerId=0 x=34.951458 y=349.11865 eventTimestamp=240833786 totalPointers=1 systemTimestamp=1346610628924 />
+<KEY keyCode=-2 printKey=symbol x=34 y=349 systemTimestamp=1346610628926 />
+<TOUCH event=down pointerId=0 x=573.2039 y=282.1709 eventTimestamp=240834506 totalPointers=1 systemTimestamp=1346610629647 />
+<TOUCH event=up pointerId=0 x=573.2039 y=282.1709 eventTimestamp=240834653 totalPointers=1 systemTimestamp=1346610629791 />
+<KEY keyCode=63 printKey='?' x=573 y=282 systemTimestamp=1346610629793 />
+<TOUCH event=down pointerId=0 x=294.59085 y=330.13354 eventTimestamp=240834844 totalPointers=1 systemTimestamp=1346610629983 />
+<TOUCH event=up pointerId=0 x=294.59085 y=330.13354 eventTimestamp=240834923 totalPointers=1 systemTimestamp=1346610630062 />
+<KEY keyCode=32 printKey=' ' x=294 y=330 systemTimestamp=1346610630063 />
+<TOUCH event=down pointerId=0 x=32.95423 y=336.12878 eventTimestamp=240835191 totalPointers=1 systemTimestamp=1346610630335 />
+<TOUCH event=up pointerId=0 x=30.945255 y=336.12878 eventTimestamp=240835293 totalPointers=1 systemTimestamp=1346610630431 />
+<KEY keyCode=-2 printKey=symbol x=32 y=336 systemTimestamp=1346610630432 />
+<TOUCH event=down pointerId=0 x=571.20667 y=270.1803 eventTimestamp=240835462 totalPointers=1 systemTimestamp=1346610630601 />
+<TOUCH event=up pointerId=0 x=571.20667 y=270.1803 eventTimestamp=240835518 totalPointers=1 systemTimestamp=1346610630656 />
+<KEY keyCode=63 printKey='?' x=571 y=270 systemTimestamp=1346610630658 />
+<TOUCH event=down pointerId=0 x=299.58392 y=344.12256 eventTimestamp=240835789 totalPointers=1 systemTimestamp=1346610630928 />
+<TOUCH event=up pointerId=0 x=299.58392 y=344.12256 eventTimestamp=240835834 totalPointers=1 systemTimestamp=1346610630972 />
+<KEY keyCode=32 printKey=' ' x=299 y=344 systemTimestamp=1346610630974 />
+<TOUCH event=down pointerId=0 x=42.94036 y=349.11865 eventTimestamp=240836103 totalPointers=1 systemTimestamp=1346610631250 />
+<TOUCH event=up pointerId=0 x=42.94036 y=349.11865 eventTimestamp=240836159 totalPointers=1 systemTimestamp=1346610631313 />
+<KEY keyCode=-2 printKey=symbol x=42 y=349 systemTimestamp=1346610631315 />
+<TOUCH event=down pointerId=0 x=596.172 y=260.1881 eventTimestamp=240836385 totalPointers=1 systemTimestamp=1346610631524 />
+<TOUCH event=up pointerId=0 x=596.172 y=260.1881 eventTimestamp=240836441 totalPointers=1 systemTimestamp=1346610631579 />
+<KEY keyCode=63 printKey='?' x=596 y=260 systemTimestamp=1346610631581 />
+<TOUCH event=down pointerId=0 x=281.6089 y=335.12964 eventTimestamp=240836575 totalPointers=1 systemTimestamp=1346610631714 />
+<TOUCH event=up pointerId=0 x=281.6089 y=335.12964 eventTimestamp=240836621 totalPointers=1 systemTimestamp=1346610631759 />
+<KEY keyCode=32 printKey=' ' x=281 y=335 systemTimestamp=1346610631761 />
+<TOUCH event=down pointerId=0 x=55.922333 y=352.11633 eventTimestamp=240836857 totalPointers=1 systemTimestamp=1346610631997 />
+<TOUCH event=up pointerId=0 x=55.922333 y=352.11633 eventTimestamp=240836948 totalPointers=1 systemTimestamp=1346610632086 />
+<KEY keyCode=-2 printKey=symbol x=55 y=352 systemTimestamp=1346610632088 />
+<TOUCH event=down pointerId=0 x=575.2011 y=286.16785 eventTimestamp=240837060 totalPointers=1 systemTimestamp=1346610632199 />
+<TOUCH event=up pointerId=0 x=575.2011 y=286.16785 eventTimestamp=240837127 totalPointers=1 systemTimestamp=1346610632265 />
+<KEY keyCode=63 printKey='?' x=575 y=286 systemTimestamp=1346610632267 />
+<TOUCH event=down pointerId=0 x=264.63245 y=320.14124 eventTimestamp=240837465 totalPointers=1 systemTimestamp=1346610632604 />
+<TOUCH event=up pointerId=0 x=264.63245 y=320.14124 eventTimestamp=240837521 totalPointers=1 systemTimestamp=1346610632659 />
+<KEY keyCode=32 printKey=' ' x=264 y=320 systemTimestamp=1346610632661 />
+<TOUCH event=down pointerId=0 x=68.904305 y=341.12488 eventTimestamp=240837757 totalPointers=1 systemTimestamp=1346610632895 />
+<TOUCH event=up pointerId=0 x=68.904305 y=341.12488 eventTimestamp=240837836 totalPointers=1 systemTimestamp=1346610632974 />
+<KEY keyCode=-2 printKey=symbol x=68 y=341 systemTimestamp=1346610632975 />
+<TOUCH event=down pointerId=0 x=579.19556 y=289.16553 eventTimestamp=240837915 totalPointers=1 systemTimestamp=1346610633055 />
+<TOUCH event=up pointerId=0 x=579.19556 y=289.16553 eventTimestamp=240837983 totalPointers=1 systemTimestamp=1346610633121 />
+<KEY keyCode=63 printKey='?' x=579 y=289 systemTimestamp=1346610633123 />
+<TOUCH event=down pointerId=0 x=693.0375 y=368.10388 eventTimestamp=240838477 totalPointers=1 systemTimestamp=1346610633616 />
+<TOUCH event=up pointerId=0 x=693.0375 y=368.10388 eventTimestamp=240838545 totalPointers=1 systemTimestamp=1346610633683 />
+<KEY keyCode=10 printKey=enter x=693 y=368 systemTimestamp=1346610633685 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610633686 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610633715 />
+<SYSTEM event=LogEnteredText text=? ? ? ? ? systemTimestamp=1346610633717 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:& & & & & systemTimestamp=1346610633718 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610633725 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610633726 />
+<TOUCH event=down pointerId=0 x=42.94036 y=367.1046 eventTimestamp=240839433 totalPointers=1 systemTimestamp=1346610634573 />
+<TOUCH event=up pointerId=0 x=42.94036 y=367.1046 eventTimestamp=240839524 totalPointers=1 systemTimestamp=1346610634663 />
+<KEY keyCode=-2 printKey=symbol x=42 y=367 systemTimestamp=1346610634665 />
+<TOUCH event=down pointerId=0 x=325.54785 y=140.2818 eventTimestamp=240840649 totalPointers=1 systemTimestamp=1346610635788 />
+<TOUCH event=up pointerId=0 x=324.51144 y=142.35596 eventTimestamp=240840728 totalPointers=1 systemTimestamp=1346610635867 />
+<KEY keyCode=38 printKey='&' x=325 y=140 systemTimestamp=1346610635881 />
+<TOUCH event=down pointerId=0 x=422.41333 y=323.13892 eventTimestamp=240840931 totalPointers=1 systemTimestamp=1346610636070 />
+<TOUCH event=up pointerId=0 x=422.41333 y=323.13892 eventTimestamp=240840964 totalPointers=1 systemTimestamp=1346610636103 />
+<KEY keyCode=32 printKey=' ' x=422 y=323 systemTimestamp=1346610636105 />
+<TOUCH event=down pointerId=0 x=46.934814 y=360.1101 eventTimestamp=240841155 totalPointers=1 systemTimestamp=1346610636299 />
+<TOUCH event=up pointerId=0 x=46.934814 y=360.1101 eventTimestamp=240841257 totalPointers=1 systemTimestamp=1346610636395 />
+<KEY keyCode=-2 printKey=symbol x=46 y=360 systemTimestamp=1346610636397 />
+<TOUCH event=down pointerId=0 x=330.54092 y=130.28961 eventTimestamp=240841560 totalPointers=1 systemTimestamp=1346610636699 />
+<TOUCH event=up pointerId=0 x=330.54092 y=130.28961 eventTimestamp=240841594 totalPointers=1 systemTimestamp=1346610636732 />
+<KEY keyCode=38 printKey='&' x=330 y=130 systemTimestamp=1346610636735 />
+<TOUCH event=down pointerId=0 x=429.40363 y=330.13354 eventTimestamp=240842000 totalPointers=1 systemTimestamp=1346610637140 />
+<TOUCH event=up pointerId=0 x=429.40363 y=330.13354 eventTimestamp=240842045 totalPointers=1 systemTimestamp=1346610637183 />
+<KEY keyCode=32 printKey=' ' x=429 y=330 systemTimestamp=1346610637185 />
+<TOUCH event=down pointerId=0 x=29.958391 y=357.11243 eventTimestamp=240842235 totalPointers=1 systemTimestamp=1346610637373 />
+<TOUCH event=up pointerId=0 x=29.958391 y=357.11243 eventTimestamp=240842314 totalPointers=1 systemTimestamp=1346610637452 />
+<KEY keyCode=-2 printKey=symbol x=29 y=357 systemTimestamp=1346610637454 />
+<TOUCH event=down pointerId=0 x=313.5645 y=144.27869 eventTimestamp=240842551 totalPointers=1 systemTimestamp=1346610637690 />
+<TOUCH event=up pointerId=0 x=313.5645 y=144.27869 eventTimestamp=240842584 totalPointers=1 systemTimestamp=1346610637727 />
+<KEY keyCode=38 printKey='&' x=313 y=144 systemTimestamp=1346610637729 />
+<TOUCH event=down pointerId=0 x=375.47852 y=333.1311 eventTimestamp=240842810 totalPointers=1 systemTimestamp=1346610637949 />
+<TOUCH event=up pointerId=0 x=375.47852 y=333.1311 eventTimestamp=240842866 totalPointers=1 systemTimestamp=1346610638004 />
+<KEY keyCode=32 printKey=' ' x=375 y=333 systemTimestamp=1346610638006 />
+<TOUCH event=down pointerId=0 x=23.966713 y=367.1046 eventTimestamp=240843034 totalPointers=1 systemTimestamp=1346610638174 />
+<TOUCH event=up pointerId=0 x=23.966713 y=367.1046 eventTimestamp=240843137 totalPointers=1 systemTimestamp=1346610638276 />
+<KEY keyCode=-2 printKey=symbol x=23 y=367 systemTimestamp=1346610638278 />
+<TOUCH event=down pointerId=0 x=320.55478 y=167.26074 eventTimestamp=240843541 totalPointers=1 systemTimestamp=1346610638680 />
+<TOUCH event=up pointerId=0 x=320.55478 y=167.26074 eventTimestamp=240843586 totalPointers=1 systemTimestamp=1346610638724 />
+<KEY keyCode=38 printKey='&' x=320 y=167 systemTimestamp=1346610638726 />
+<TOUCH event=down pointerId=0 x=419.41748 y=336.12878 eventTimestamp=240843710 totalPointers=1 systemTimestamp=1346610638848 />
+<TOUCH event=up pointerId=0 x=419.41748 y=336.12878 eventTimestamp=240843744 totalPointers=1 systemTimestamp=1346610638882 />
+<KEY keyCode=32 printKey=' ' x=419 y=336 systemTimestamp=1346610638884 />
+<TOUCH event=down pointerId=0 x=17.975035 y=340.12573 eventTimestamp=240844002 totalPointers=1 systemTimestamp=1346610639152 />
+<TOUCH event=up pointerId=0 x=17.975035 y=340.12573 eventTimestamp=240844070 totalPointers=1 systemTimestamp=1346610639220 />
+<KEY keyCode=-2 printKey=symbol x=17 y=340 systemTimestamp=1346610639221 />
+<TOUCH event=down pointerId=0 x=320.55478 y=161.26544 eventTimestamp=240844363 totalPointers=1 systemTimestamp=1346610639502 />
+<TOUCH event=up pointerId=0 x=320.55478 y=161.26544 eventTimestamp=240844430 totalPointers=1 systemTimestamp=1346610639568 />
+<KEY keyCode=38 printKey='&' x=320 y=161 systemTimestamp=1346610639570 />
+<TOUCH event=down pointerId=0 x=661.08185 y=338.1272 eventTimestamp=240846163 totalPointers=1 systemTimestamp=1346610641302 />
+<TOUCH event=up pointerId=0 x=663.0791 y=338.1272 eventTimestamp=240846253 totalPointers=1 systemTimestamp=1346610641392 />
+<KEY keyCode=10 printKey=enter x=661 y=338 systemTimestamp=1346610641394 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610641395 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610641425 />
+<SYSTEM event=LogEnteredText text=& & & & & systemTimestamp=1346610641427 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:- - - - - systemTimestamp=1346610641428 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610641484 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610641486 />
+<TOUCH event=down pointerId=0 x=0.99861306 y=333.1311 eventTimestamp=240847490 totalPointers=1 systemTimestamp=1346610642628 />
+<TOUCH event=up pointerId=0 x=0.99861306 y=333.1311 eventTimestamp=240847581 totalPointers=1 systemTimestamp=1346610642719 />
+<KEY keyCode=-2 printKey=symbol x=0 y=333 systemTimestamp=1346610642720 />
+<TOUCH event=down pointerId=0 x=466.3523 y=143.27948 eventTimestamp=240848268 totalPointers=1 systemTimestamp=1346610643407 />
+<TOUCH event=up pointerId=0 x=466.3523 y=143.27948 eventTimestamp=240848358 totalPointers=1 systemTimestamp=1346610643497 />
+<KEY keyCode=45 printKey='-' x=466 y=143 systemTimestamp=1346610643499 />
+<TOUCH event=down pointerId=0 x=414.4244 y=365.1062 eventTimestamp=240848538 totalPointers=1 systemTimestamp=1346610643677 />
+<TOUCH event=up pointerId=0 x=414.4244 y=365.1062 eventTimestamp=240848628 totalPointers=1 systemTimestamp=1346610643766 />
+<KEY keyCode=32 printKey=' ' x=414 y=365 systemTimestamp=1346610643768 />
+<TOUCH event=down pointerId=0 x=0.99861306 y=342.12415 eventTimestamp=240848987 totalPointers=1 systemTimestamp=1346610644136 />
+<TOUCH event=up pointerId=0 x=0.99861306 y=342.12415 eventTimestamp=240849032 totalPointers=1 systemTimestamp=1346610644206 />
+<KEY keyCode=-2 printKey=symbol x=0 y=342 systemTimestamp=1346610644208 />
+<TOUCH event=down pointerId=0 x=454.36893 y=153.27167 eventTimestamp=240849326 totalPointers=1 systemTimestamp=1346610644465 />
+<TOUCH event=up pointerId=0 x=454.36893 y=153.27167 eventTimestamp=240849393 totalPointers=1 systemTimestamp=1346610644531 />
+<KEY keyCode=45 printKey='-' x=454 y=153 systemTimestamp=1346610644533 />
+<TOUCH event=down pointerId=0 x=427.4064 y=346.12097 eventTimestamp=240849584 totalPointers=1 systemTimestamp=1346610644723 />
+<TOUCH event=up pointerId=0 x=427.4064 y=346.12097 eventTimestamp=240849663 totalPointers=1 systemTimestamp=1346610644801 />
+<KEY keyCode=32 printKey=' ' x=427 y=346 systemTimestamp=1346610644803 />
+<TOUCH event=down pointerId=0 x=10.984744 y=344.12256 eventTimestamp=240849786 totalPointers=1 systemTimestamp=1346610644953 />
+<TOUCH event=up pointerId=0 x=13.184431 y=344.12256 eventTimestamp=240849911 totalPointers=1 systemTimestamp=1346610645049 />
+<KEY keyCode=-2 printKey=symbol x=10 y=344 systemTimestamp=1346610645063 />
+<TOUCH event=down pointerId=0 x=461.35922 y=179.25134 eventTimestamp=240850136 totalPointers=1 systemTimestamp=1346610645275 />
+<TOUCH event=up pointerId=0 x=461.35922 y=179.25134 eventTimestamp=240850180 totalPointers=1 systemTimestamp=1346610645318 />
+<KEY keyCode=45 printKey='-' x=461 y=179 systemTimestamp=1346610645321 />
+<TOUCH event=down pointerId=0 x=2.995839 y=347.12024 eventTimestamp=240850428 totalPointers=1 systemTimestamp=1346610645568 />
+<TOUCH event=up pointerId=0 x=2.995839 y=347.12024 eventTimestamp=240850473 totalPointers=1 systemTimestamp=1346610645651 />
+<KEY keyCode=-2 printKey=symbol x=2 y=347 systemTimestamp=1346610645653 />
+<TOUCH event=down pointerId=0 x=436.39392 y=343.1233 eventTimestamp=240850607 totalPointers=1 systemTimestamp=1346610645747 />
+<TOUCH event=up pointerId=0 x=436.39392 y=343.1233 eventTimestamp=240850698 totalPointers=1 systemTimestamp=1346610645837 />
+<KEY keyCode=32 printKey=' ' x=436 y=343 systemTimestamp=1346610645839 />
+<TOUCH event=down pointerId=0 x=0.99861306 y=353.11548 eventTimestamp=240850889 totalPointers=1 systemTimestamp=1346610646037 />
+<TOUCH event=up pointerId=0 x=0.99861306 y=353.11548 eventTimestamp=240850968 totalPointers=1 systemTimestamp=1346610646106 />
+<KEY keyCode=-2 printKey=symbol x=0 y=353 systemTimestamp=1346610646108 />
+<TOUCH event=down pointerId=0 x=466.3523 y=154.27087 eventTimestamp=240851362 totalPointers=1 systemTimestamp=1346610646501 />
+<TOUCH event=up pointerId=0 x=466.3523 y=154.27087 eventTimestamp=240851419 totalPointers=1 systemTimestamp=1346610646557 />
+<KEY keyCode=45 printKey='-' x=466 y=154 systemTimestamp=1346610646558 />
+<TOUCH event=down pointerId=0 x=429.40363 y=353.11548 eventTimestamp=240851666 totalPointers=1 systemTimestamp=1346610646805 />
+<TOUCH event=up pointerId=0 x=429.40363 y=353.11548 eventTimestamp=240851745 totalPointers=1 systemTimestamp=1346610646884 />
+<KEY keyCode=32 printKey=' ' x=429 y=353 systemTimestamp=1346610646886 />
+<TOUCH event=down pointerId=0 x=16.976421 y=339.12646 eventTimestamp=240851879 totalPointers=1 systemTimestamp=1346610647033 />
+<TOUCH event=up pointerId=0 x=14.979196 y=341.12488 eventTimestamp=240851981 totalPointers=1 systemTimestamp=1346610647120 />
+<KEY keyCode=-2 printKey=symbol x=16 y=339 systemTimestamp=1346610647121 />
+<TOUCH event=down pointerId=0 x=468.34952 y=166.26154 eventTimestamp=240852184 totalPointers=1 systemTimestamp=1346610647323 />
+<TOUCH event=up pointerId=0 x=468.34952 y=166.26154 eventTimestamp=240852262 totalPointers=1 systemTimestamp=1346610647400 />
+<KEY keyCode=45 printKey='-' x=468 y=166 systemTimestamp=1346610647402 />
+<TOUCH event=down pointerId=0 x=424.41055 y=350.11792 eventTimestamp=240852566 totalPointers=1 systemTimestamp=1346610647705 />
+<TOUCH event=up pointerId=0 x=424.41055 y=350.11792 eventTimestamp=240852645 totalPointers=1 systemTimestamp=1346610647784 />
+<KEY keyCode=32 printKey=' ' x=424 y=350 systemTimestamp=1346610647787 />
+<TOUCH event=down pointerId=0 x=656.0888 y=247.19824 eventTimestamp=240853410 totalPointers=1 systemTimestamp=1346610648549 />
+<KEY keyCode=-4 printKey=delete x=618 y=209 systemTimestamp=1346610648553 />
+<TOUCH event=up pointerId=0 x=661.6934 y=244.89386 eventTimestamp=240853500 totalPointers=1 systemTimestamp=1346610648646 />
+<TOUCH event=down pointerId=0 x=684.0499 y=326.1366 eventTimestamp=240853736 totalPointers=1 systemTimestamp=1346610648883 />
+<TOUCH event=up pointerId=0 x=684.0499 y=326.1366 eventTimestamp=240853804 totalPointers=1 systemTimestamp=1346610648951 />
+<KEY keyCode=10 printKey=enter x=684 y=326 systemTimestamp=1346610648952 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610648958 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610648962 />
+<SYSTEM event=LogEnteredText text=- - - - - systemTimestamp=1346610648963 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:? ! % $ ' systemTimestamp=1346610648964 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610648996 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610648997 />
+<TOUCH event=down pointerId=0 x=0.99861306 y=371.10144 eventTimestamp=240855762 totalPointers=1 systemTimestamp=1346610650902 />
+<TOUCH event=up pointerId=0 x=0.99861306 y=371.10144 eventTimestamp=240855807 totalPointers=1 systemTimestamp=1346610650961 />
+<KEY keyCode=-2 printKey=symbol x=0 y=371 systemTimestamp=1346610650962 />
+<TOUCH event=down pointerId=0 x=572.20526 y=243.20142 eventTimestamp=240856460 totalPointers=1 systemTimestamp=1346610651599 />
+<TOUCH event=up pointerId=0 x=572.20526 y=243.20142 eventTimestamp=240856540 totalPointers=1 systemTimestamp=1346610651678 />
+<KEY keyCode=63 printKey='?' x=572 y=243 systemTimestamp=1346610651680 />
+<TOUCH event=down pointerId=0 x=390.4577 y=371.10144 eventTimestamp=240857451 totalPointers=1 systemTimestamp=1346610652590 />
+<TOUCH event=up pointerId=0 x=390.4577 y=371.10144 eventTimestamp=240857541 totalPointers=1 systemTimestamp=1346610652680 />
+<KEY keyCode=32 printKey=' ' x=390 y=371 systemTimestamp=1346610652682 />
+<TOUCH event=down pointerId=0 x=12.98197 y=345.12183 eventTimestamp=240857946 totalPointers=1 systemTimestamp=1346610653088 />
+<TOUCH event=up pointerId=0 x=12.98197 y=345.12183 eventTimestamp=240858036 totalPointers=1 systemTimestamp=1346610653178 />
+<KEY keyCode=-2 printKey=symbol x=12 y=345 systemTimestamp=1346610653180 />
+<TOUCH event=down pointerId=0 x=129.8197 y=255.19202 eventTimestamp=240858183 totalPointers=1 systemTimestamp=1346610653322 />
+<TOUCH event=up pointerId=0 x=129.8197 y=255.19202 eventTimestamp=240858272 totalPointers=1 systemTimestamp=1346610653410 />
+<KEY keyCode=33 printKey='!' x=129 y=255 systemTimestamp=1346610653412 />
+<TOUCH event=down pointerId=0 x=407.43414 y=381.09363 eventTimestamp=240858396 totalPointers=1 systemTimestamp=1346610653534 />
+<TOUCH event=up pointerId=0 x=407.43414 y=381.09363 eventTimestamp=240858453 totalPointers=1 systemTimestamp=1346610653591 />
+<KEY keyCode=32 printKey=' ' x=407 y=381 systemTimestamp=1346610653593 />
+<TOUCH event=down pointerId=0 x=1.9972261 y=322.13977 eventTimestamp=240859420 totalPointers=1 systemTimestamp=1346610654563 />
+<TOUCH event=up pointerId=0 x=1.9972261 y=322.13977 eventTimestamp=240859465 totalPointers=1 systemTimestamp=1346610654643 />
+<KEY keyCode=-2 printKey=symbol x=1 y=322 systemTimestamp=1346610654645 />
+<TOUCH event=down pointerId=0 x=259.6394 y=129.2904 eventTimestamp=240860344 totalPointers=1 systemTimestamp=1346610655483 />
+<TOUCH event=up pointerId=0 x=259.6394 y=129.2904 eventTimestamp=240860434 totalPointers=1 systemTimestamp=1346610655572 />
+<KEY keyCode=37 printKey='%' x=259 y=129 systemTimestamp=1346610655574 />
+<TOUCH event=down pointerId=0 x=358.50208 y=340.12573 eventTimestamp=240860737 totalPointers=1 systemTimestamp=1346610655877 />
+<TOUCH event=up pointerId=0 x=358.50208 y=346.1438 eventTimestamp=240860828 totalPointers=1 systemTimestamp=1346610655965 />
+<KEY keyCode=32 printKey=' ' x=358 y=340 systemTimestamp=1346610655967 />
+<TOUCH event=down pointerId=0 x=1.9972261 y=294.16162 eventTimestamp=240860984 totalPointers=1 systemTimestamp=1346610656125 />
+<TOUCH event=up pointerId=0 x=1.9972261 y=294.16162 eventTimestamp=240861120 totalPointers=1 systemTimestamp=1346610656258 />
+<KEY keyCode=-1 printKey=shift x=1 y=294 systemTimestamp=1346610656260 />
+<TOUCH event=down pointerId=0 x=16.976421 y=334.13037 eventTimestamp=240862482 totalPointers=1 systemTimestamp=1346610657621 />
+<TOUCH event=up pointerId=0 x=16.976421 y=334.13037 eventTimestamp=240862538 totalPointers=1 systemTimestamp=1346610657679 />
+<KEY keyCode=-2 printKey=symbol x=16 y=334 systemTimestamp=1346610657681 />
+<TOUCH event=down pointerId=0 x=191.7337 y=125.29352 eventTimestamp=240864553 totalPointers=1 systemTimestamp=1346610659692 />
+<TOUCH event=up pointerId=0 x=191.7337 y=125.29352 eventTimestamp=240864643 totalPointers=1 systemTimestamp=1346610659781 />
+<KEY keyCode=36 printKey='$' x=191 y=125 systemTimestamp=1346610659783 />
+<TOUCH event=down pointerId=0 x=361.49792 y=361.10925 eventTimestamp=240864913 totalPointers=1 systemTimestamp=1346610660051 />
+<TOUCH event=up pointerId=0 x=361.49792 y=361.10925 eventTimestamp=240865015 totalPointers=1 systemTimestamp=1346610660153 />
+<KEY keyCode=32 printKey=' ' x=361 y=361 systemTimestamp=1346610660155 />
+<TOUCH event=down pointerId=0 x=19.972261 y=348.1194 eventTimestamp=240865217 totalPointers=1 systemTimestamp=1346610660361 />
+<TOUCH event=up pointerId=0 x=19.972261 y=348.1194 eventTimestamp=240865307 totalPointers=1 systemTimestamp=1346610660446 />
+<KEY keyCode=-2 printKey=symbol x=19 y=348 systemTimestamp=1346610660447 />
+<TOUCH event=down pointerId=0 x=288.59918 y=235.20764 eventTimestamp=240866005 totalPointers=1 systemTimestamp=1346610661144 />
+<TOUCH event=up pointerId=0 x=288.59918 y=235.20764 eventTimestamp=240866050 totalPointers=1 systemTimestamp=1346610661188 />
+<KEY keyCode=39 printKey=''' x=288 y=235 systemTimestamp=1346610661190 />
+<TOUCH event=down pointerId=0 x=682.05273 y=361.10925 eventTimestamp=240867075 totalPointers=1 systemTimestamp=1346610662214 />
+<TOUCH event=up pointerId=0 x=682.05273 y=361.10925 eventTimestamp=240867153 totalPointers=1 systemTimestamp=1346610662291 />
+<KEY keyCode=10 printKey=enter x=682 y=361 systemTimestamp=1346610662293 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610662295 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610662323 />
+<SYSTEM event=LogEnteredText text=? ! % $ ' systemTimestamp=1346610662325 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:" @ - & # systemTimestamp=1346610662326 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610662333 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610662334 />
+<TOUCH event=down pointerId=0 x=12.98197 y=321.1405 eventTimestamp=240868054 totalPointers=1 systemTimestamp=1346610663194 />
+<TOUCH event=up pointerId=0 x=12.98197 y=321.1405 eventTimestamp=240868189 totalPointers=1 systemTimestamp=1346610663328 />
+<KEY keyCode=-2 printKey=symbol x=12 y=321 systemTimestamp=1346610663330 />
+<TOUCH event=down pointerId=0 x=223.68933 y=206.23029 eventTimestamp=240868650 totalPointers=1 systemTimestamp=1346610663790 />
+<TOUCH event=up pointerId=0 x=223.68933 y=208.46606 eventTimestamp=240868740 totalPointers=1 systemTimestamp=1346610663878 />
+<KEY keyCode=34 printKey='"' x=223 y=206 systemTimestamp=1346610663880 />
+<TOUCH event=down pointerId=0 x=400.44385 y=363.10767 eventTimestamp=240868830 totalPointers=1 systemTimestamp=1346610663981 />
+<TOUCH event=up pointerId=0 x=400.44385 y=363.10767 eventTimestamp=240868875 totalPointers=1 systemTimestamp=1346610664014 />
+<KEY keyCode=32 printKey=' ' x=400 y=363 systemTimestamp=1346610664015 />
+<TOUCH event=down pointerId=0 x=8.987517 y=349.11865 eventTimestamp=240869269 totalPointers=1 systemTimestamp=1346610664415 />
+<TOUCH event=up pointerId=0 x=6.9902916 y=349.11865 eventTimestamp=240869360 totalPointers=1 systemTimestamp=1346610664499 />
+<KEY keyCode=-2 printKey=symbol x=8 y=349 systemTimestamp=1346610664501 />
+<TOUCH event=down pointerId=0 x=27.961166 y=142.28027 eventTimestamp=240869832 totalPointers=1 systemTimestamp=1346610664971 />
+<TOUCH event=up pointerId=0 x=22.9681 y=140.2818 eventTimestamp=240869900 totalPointers=1 systemTimestamp=1346610665049 />
+<KEY keyCode=64 printKey='@' x=27 y=142 systemTimestamp=1346610665051 />
+<TOUCH event=down pointerId=0 x=396.44937 y=330.13354 eventTimestamp=240869944 totalPointers=1 systemTimestamp=1346610665086 />
+<TOUCH event=up pointerId=0 x=396.44937 y=330.13354 eventTimestamp=240870046 totalPointers=1 systemTimestamp=1346610665184 />
+<KEY keyCode=32 printKey=' ' x=396 y=330 systemTimestamp=1346610665186 />
+<TOUCH event=down pointerId=0 x=0.99861306 y=349.11865 eventTimestamp=240870676 totalPointers=1 systemTimestamp=1346610665822 />
+<TOUCH event=up pointerId=0 x=0.99861306 y=349.11865 eventTimestamp=240870767 totalPointers=1 systemTimestamp=1346610665905 />
+<KEY keyCode=-2 printKey=symbol x=0 y=349 systemTimestamp=1346610665906 />
+<TOUCH event=down pointerId=0 x=469.34814 y=172.25684 eventTimestamp=240871284 totalPointers=1 systemTimestamp=1346610666423 />
+<TOUCH event=up pointerId=0 x=469.34814 y=172.25684 eventTimestamp=240871386 totalPointers=1 systemTimestamp=1346610666524 />
+<KEY keyCode=45 printKey='-' x=469 y=172 systemTimestamp=1346610666526 />
+<TOUCH event=down pointerId=0 x=4.9930654 y=345.12183 eventTimestamp=240871464 totalPointers=1 systemTimestamp=1346610666602 />
+<TOUCH event=up pointerId=0 x=4.9930654 y=345.12183 eventTimestamp=240871566 totalPointers=1 systemTimestamp=1346610666715 />
+<KEY keyCode=-2 printKey=symbol x=4 y=345 systemTimestamp=1346610666717 />
+<TOUCH event=down pointerId=0 x=402.44107 y=368.10388 eventTimestamp=240871757 totalPointers=1 systemTimestamp=1346610666896 />
+<TOUCH event=up pointerId=0 x=402.44107 y=368.10388 eventTimestamp=240871859 totalPointers=1 systemTimestamp=1346610666998 />
+<KEY keyCode=32 printKey=' ' x=402 y=368 systemTimestamp=1346610667000 />
+<TOUCH event=down pointerId=0 x=16.976421 y=339.12646 eventTimestamp=240872218 totalPointers=1 systemTimestamp=1346610667365 />
+<TOUCH event=up pointerId=0 x=16.976421 y=339.12646 eventTimestamp=240872309 totalPointers=1 systemTimestamp=1346610667447 />
+<KEY keyCode=-2 printKey=symbol x=16 y=339 systemTimestamp=1346610667449 />
+<TOUCH event=down pointerId=0 x=306.57422 y=113.30286 eventTimestamp=240872872 totalPointers=1 systemTimestamp=1346610668011 />
+<TOUCH event=up pointerId=0 x=306.57422 y=113.30286 eventTimestamp=240872929 totalPointers=1 systemTimestamp=1346610668067 />
+<KEY keyCode=38 printKey='&' x=306 y=113 systemTimestamp=1346610668068 />
+<TOUCH event=down pointerId=0 x=409.43137 y=336.12878 eventTimestamp=240872973 totalPointers=1 systemTimestamp=1346610668111 />
+<TOUCH event=up pointerId=0 x=409.43137 y=336.12878 eventTimestamp=240873052 totalPointers=1 systemTimestamp=1346610668190 />
+<KEY keyCode=32 printKey=' ' x=409 y=336 systemTimestamp=1346610668192 />
+<TOUCH event=down pointerId=0 x=36.948685 y=335.12964 eventTimestamp=240873355 totalPointers=1 systemTimestamp=1346610668501 />
+<TOUCH event=up pointerId=0 x=34.951458 y=337.12805 eventTimestamp=240873435 totalPointers=1 systemTimestamp=1346610668574 />
+<KEY keyCode=-2 printKey=symbol x=36 y=335 systemTimestamp=1346610668575 />
+<TOUCH event=down pointerId=0 x=121.830795 y=162.26465 eventTimestamp=240874110 totalPointers=1 systemTimestamp=1346610669248 />
+<TOUCH event=up pointerId=0 x=106.8516 y=172.25684 eventTimestamp=240874212 totalPointers=1 systemTimestamp=1346610669350 />
+<KEY keyCode=35 printKey='#' x=121 y=162 systemTimestamp=1346610669352 />
+<TOUCH event=down pointerId=0 x=712.0111 y=319.1421 eventTimestamp=240874527 totalPointers=1 systemTimestamp=1346610669665 />
+<TOUCH event=up pointerId=0 x=712.0111 y=319.1421 eventTimestamp=240874594 totalPointers=1 systemTimestamp=1346610669733 />
+<KEY keyCode=10 printKey=enter x=712 y=319 systemTimestamp=1346610669734 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610669736 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610669764 />
+<SYSTEM event=LogEnteredText text=" @ - & # systemTimestamp=1346610669766 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:? @ % & ' systemTimestamp=1346610669767 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610669773 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610669774 />
+<TOUCH event=down pointerId=0 x=19.972261 y=347.12024 eventTimestamp=240875450 totalPointers=1 systemTimestamp=1346610670589 />
+<TOUCH event=up pointerId=0 x=19.972261 y=347.12024 eventTimestamp=240875528 totalPointers=1 systemTimestamp=1346610670677 />
+<KEY keyCode=-2 printKey=symbol x=19 y=347 systemTimestamp=1346610670679 />
+<TOUCH event=down pointerId=0 x=571.20667 y=271.17957 eventTimestamp=240876035 totalPointers=1 systemTimestamp=1346610671174 />
+<TOUCH event=up pointerId=0 x=571.20667 y=271.17957 eventTimestamp=240876125 totalPointers=1 systemTimestamp=1346610671264 />
+<KEY keyCode=63 printKey='?' x=571 y=271 systemTimestamp=1346610671265 />
+<TOUCH event=down pointerId=0 x=437.39252 y=348.1194 eventTimestamp=240876462 totalPointers=1 systemTimestamp=1346610671601 />
+<TOUCH event=up pointerId=0 x=437.39252 y=348.1194 eventTimestamp=240876542 totalPointers=1 systemTimestamp=1346610671680 />
+<KEY keyCode=32 printKey=' ' x=437 y=348 systemTimestamp=1346610671681 />
+<TOUCH event=down pointerId=0 x=21.969488 y=325.13745 eventTimestamp=240877036 totalPointers=1 systemTimestamp=1346610672180 />
+<TOUCH event=up pointerId=0 x=21.969488 y=325.13745 eventTimestamp=240877104 totalPointers=1 systemTimestamp=1346610672249 />
+<KEY keyCode=-2 printKey=symbol x=21 y=325 systemTimestamp=1346610672250 />
+<TOUCH event=down pointerId=0 x=19.972261 y=125.29352 eventTimestamp=240877386 totalPointers=1 systemTimestamp=1346610672525 />
+<TOUCH event=up pointerId=0 x=19.972261 y=125.29352 eventTimestamp=240877465 totalPointers=1 systemTimestamp=1346610672603 />
+<KEY keyCode=64 printKey='@' x=19 y=125 systemTimestamp=1346610672605 />
+<TOUCH event=down pointerId=0 x=452.3717 y=343.1233 eventTimestamp=240878006 totalPointers=1 systemTimestamp=1346610673145 />
+<TOUCH event=up pointerId=0 x=452.3717 y=343.1233 eventTimestamp=240878107 totalPointers=1 systemTimestamp=1346610673245 />
+<KEY keyCode=32 printKey=' ' x=452 y=343 systemTimestamp=1346610673247 />
+<TOUCH event=down pointerId=0 x=23.966713 y=335.12964 eventTimestamp=240878140 totalPointers=1 systemTimestamp=1346610673282 />
+<TOUCH event=up pointerId=0 x=21.766401 y=335.12964 eventTimestamp=240878242 totalPointers=1 systemTimestamp=1346610673389 />
+<KEY keyCode=-2 printKey=symbol x=23 y=335 systemTimestamp=1346610673391 />
+<TOUCH event=down pointerId=0 x=236.6713 y=157.26855 eventTimestamp=240879379 totalPointers=1 systemTimestamp=1346610674518 />
+<TOUCH event=up pointerId=0 x=236.6713 y=157.26855 eventTimestamp=240879412 totalPointers=1 systemTimestamp=1346610674551 />
+<KEY keyCode=37 printKey='%' x=236 y=157 systemTimestamp=1346610674553 />
+<TOUCH event=down pointerId=0 x=311.56726 y=344.12256 eventTimestamp=240879807 totalPointers=1 systemTimestamp=1346610674946 />
+<TOUCH event=up pointerId=0 x=311.56726 y=344.12256 eventTimestamp=240879920 totalPointers=1 systemTimestamp=1346610675059 />
+<KEY keyCode=32 printKey=' ' x=311 y=344 systemTimestamp=1346610675060 />
+<TOUCH event=down pointerId=0 x=32.95423 y=329.13428 eventTimestamp=240880065 totalPointers=1 systemTimestamp=1346610675208 />
+<TOUCH event=up pointerId=0 x=30.924301 y=329.13428 eventTimestamp=240880155 totalPointers=1 systemTimestamp=1346610675293 />
+<KEY keyCode=-2 printKey=symbol x=32 y=329 systemTimestamp=1346610675294 />
+<TOUCH event=down pointerId=0 x=313.5645 y=138.28339 eventTimestamp=240880741 totalPointers=1 systemTimestamp=1346610675881 />
+<TOUCH event=up pointerId=0 x=313.5645 y=140.2818 eventTimestamp=240880809 totalPointers=1 systemTimestamp=1346610675961 />
+<KEY keyCode=38 printKey='&' x=313 y=138 systemTimestamp=1346610675963 />
+<TOUCH event=down pointerId=0 x=332.53815 y=354.11475 eventTimestamp=240881023 totalPointers=1 systemTimestamp=1346610676162 />
+<TOUCH event=up pointerId=0 x=332.53815 y=354.11475 eventTimestamp=240881090 totalPointers=1 systemTimestamp=1346610676228 />
+<KEY keyCode=32 printKey=' ' x=332 y=354 systemTimestamp=1346610676230 />
+<TOUCH event=down pointerId=0 x=28.959778 y=326.1366 eventTimestamp=240881292 totalPointers=1 systemTimestamp=1346610676435 />
+<TOUCH event=up pointerId=0 x=24.021124 y=322.4303 eventTimestamp=240881383 totalPointers=1 systemTimestamp=1346610676521 />
+<KEY keyCode=-2 printKey=symbol x=28 y=326 systemTimestamp=1346610676522 />
+<TOUCH event=down pointerId=0 x=293.59225 y=222.21777 eventTimestamp=240882137 totalPointers=1 systemTimestamp=1346610677276 />
+<TOUCH event=up pointerId=0 x=293.59225 y=225.42822 eventTimestamp=240882205 totalPointers=1 systemTimestamp=1346610677343 />
+<KEY keyCode=39 printKey=''' x=293 y=222 systemTimestamp=1346610677344 />
+<TOUCH event=down pointerId=0 x=702.02496 y=363.10767 eventTimestamp=240882407 totalPointers=1 systemTimestamp=1346610677546 />
+<TOUCH event=up pointerId=0 x=702.02496 y=363.10767 eventTimestamp=240882464 totalPointers=1 systemTimestamp=1346610677602 />
+<KEY keyCode=10 printKey=enter x=702 y=363 systemTimestamp=1346610677604 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610677605 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610677636 />
+<SYSTEM event=LogEnteredText text=? @ % & ' systemTimestamp=1346610677637 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:" ! - $ # systemTimestamp=1346610677639 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610677667 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610677669 />
+<TOUCH event=down pointerId=0 x=0.99861306 y=337.12805 eventTimestamp=240883218 totalPointers=1 systemTimestamp=1346610678357 />
+<TOUCH event=up pointerId=0 x=0.99861306 y=337.12805 eventTimestamp=240883263 totalPointers=1 systemTimestamp=1346610678434 />
+<KEY keyCode=-2 printKey=symbol x=0 y=337 systemTimestamp=1346610678436 />
+<TOUCH event=down pointerId=0 x=203.71707 y=225.21545 eventTimestamp=240884265 totalPointers=1 systemTimestamp=1346610679404 />
+<TOUCH event=up pointerId=0 x=207.71152 y=225.21545 eventTimestamp=240884333 totalPointers=1 systemTimestamp=1346610679471 />
+<KEY keyCode=34 printKey='"' x=203 y=225 systemTimestamp=1346610679473 />
+<TOUCH event=down pointerId=0 x=288.59918 y=336.12878 eventTimestamp=240884603 totalPointers=1 systemTimestamp=1346610679742 />
+<TOUCH event=up pointerId=0 x=290.65897 y=338.18982 eventTimestamp=240884682 totalPointers=1 systemTimestamp=1346610679820 />
+<KEY keyCode=32 printKey=' ' x=288 y=336 systemTimestamp=1346610679822 />
+<TOUCH event=down pointerId=0 x=25.96394 y=329.13428 eventTimestamp=240884862 totalPointers=1 systemTimestamp=1346610680000 />
+<TOUCH event=up pointerId=0 x=25.96394 y=329.13428 eventTimestamp=240884974 totalPointers=1 systemTimestamp=1346610680112 />
+<KEY keyCode=-2 printKey=symbol x=25 y=329 systemTimestamp=1346610680113 />
+<TOUCH event=down pointerId=0 x=136.80998 y=269.18115 eventTimestamp=240885289 totalPointers=1 systemTimestamp=1346610680428 />
+<TOUCH event=up pointerId=0 x=136.80998 y=269.18115 eventTimestamp=240885323 totalPointers=1 systemTimestamp=1346610680468 />
+<KEY keyCode=33 printKey='!' x=136 y=269 systemTimestamp=1346610680471 />
+<TOUCH event=down pointerId=0 x=370.48544 y=341.12488 eventTimestamp=240885447 totalPointers=1 systemTimestamp=1346610680586 />
+<TOUCH event=up pointerId=0 x=370.48544 y=341.12488 eventTimestamp=240885526 totalPointers=1 systemTimestamp=1346610680665 />
+<KEY keyCode=32 printKey=' ' x=370 y=341 systemTimestamp=1346610680667 />
+<TOUCH event=down pointerId=0 x=14.979196 y=332.13196 eventTimestamp=240885762 totalPointers=1 systemTimestamp=1346610680901 />
+<TOUCH event=up pointerId=0 x=14.979196 y=332.13196 eventTimestamp=240885841 totalPointers=1 systemTimestamp=1346610680980 />
+<KEY keyCode=-2 printKey=symbol x=14 y=332 systemTimestamp=1346610680982 />
+<TOUCH event=down pointerId=0 x=468.34952 y=151.2732 eventTimestamp=240886304 totalPointers=1 systemTimestamp=1346610681443 />
+<TOUCH event=up pointerId=0 x=468.34952 y=151.2732 eventTimestamp=240886371 totalPointers=1 systemTimestamp=1346610681509 />
+<KEY keyCode=45 printKey='-' x=468 y=151 systemTimestamp=1346610681511 />
+<TOUCH event=down pointerId=0 x=400.44385 y=349.11865 eventTimestamp=240886585 totalPointers=1 systemTimestamp=1346610681724 />
+<TOUCH event=up pointerId=0 x=400.44385 y=349.11865 eventTimestamp=240886630 totalPointers=1 systemTimestamp=1346610681768 />
+<KEY keyCode=32 printKey=' ' x=400 y=349 systemTimestamp=1346610681770 />
+<TOUCH event=down pointerId=0 x=17.975035 y=333.1311 eventTimestamp=240886798 totalPointers=1 systemTimestamp=1346610681947 />
+<TOUCH event=up pointerId=0 x=17.975035 y=333.1311 eventTimestamp=240886888 totalPointers=1 systemTimestamp=1346610682026 />
+<KEY keyCode=-2 printKey=symbol x=17 y=333 systemTimestamp=1346610682028 />
+<TOUCH event=down pointerId=0 x=183.7448 y=168.25995 eventTimestamp=240887869 totalPointers=1 systemTimestamp=1346610683007 />
+<TOUCH event=up pointerId=0 x=183.7448 y=168.25995 eventTimestamp=240887948 totalPointers=1 systemTimestamp=1346610683087 />
+<KEY keyCode=36 printKey='$' x=183 y=168 systemTimestamp=1346610683088 />
+<TOUCH event=down pointerId=0 x=425.40915 y=361.10925 eventTimestamp=240888105 totalPointers=1 systemTimestamp=1346610683243 />
+<TOUCH event=up pointerId=0 x=425.40915 y=361.10925 eventTimestamp=240888172 totalPointers=1 systemTimestamp=1346610683311 />
+<KEY keyCode=32 printKey=' ' x=425 y=361 systemTimestamp=1346610683315 />
+<TOUCH event=down pointerId=0 x=40.943134 y=327.13586 eventTimestamp=240888554 totalPointers=1 systemTimestamp=1346610683693 />
+<TOUCH event=up pointerId=0 x=40.943134 y=327.13586 eventTimestamp=240888656 totalPointers=1 systemTimestamp=1346610683794 />
+<KEY keyCode=-2 printKey=symbol x=40 y=327 systemTimestamp=1346610683796 />
+<TOUCH event=down pointerId=0 x=123.82802 y=178.25214 eventTimestamp=240889230 totalPointers=1 systemTimestamp=1346610684369 />
+<TOUCH event=up pointerId=0 x=123.82802 y=178.25214 eventTimestamp=240889287 totalPointers=1 systemTimestamp=1346610684425 />
+<KEY keyCode=35 printKey='#' x=123 y=178 systemTimestamp=1346610684428 />
+<TOUCH event=down pointerId=0 x=712.0111 y=353.11548 eventTimestamp=240889625 totalPointers=1 systemTimestamp=1346610684764 />
+<TOUCH event=up pointerId=0 x=712.0111 y=353.11548 eventTimestamp=240889693 totalPointers=1 systemTimestamp=1346610684831 />
+<KEY keyCode=10 printKey=enter x=712 y=353 systemTimestamp=1346610684832 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610684834 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610684864 />
+<SYSTEM event=LogEnteredText text=" ! - $ # systemTimestamp=1346610684866 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:dog is man's best friend! systemTimestamp=1346610684867 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610684924 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610684926 />
+<TOUCH event=down pointerId=0 x=218.69626 y=162.26465 eventTimestamp=240891133 totalPointers=1 systemTimestamp=1346610686272 />
+<TOUCH event=up pointerId=0 x=218.69626 y=162.26465 eventTimestamp=240891202 totalPointers=1 systemTimestamp=1346610686340 />
+<KEY keyCode=100 printKey='d' x=218 y=162 systemTimestamp=1346610686341 />
+<TOUCH event=down pointerId=0 x=609.154 y=38.36145 eventTimestamp=240891246 totalPointers=1 systemTimestamp=1346610686388 />
+<TOUCH event=up pointerId=0 x=609.154 y=38.36145 eventTimestamp=240891314 totalPointers=1 systemTimestamp=1346610686454 />
+<KEY keyCode=111 printKey='o' x=609 y=38 systemTimestamp=1346610686455 />
+<TOUCH event=down pointerId=0 x=349.51456 y=123.295105 eventTimestamp=240891482 totalPointers=1 systemTimestamp=1346610686625 />
+<TOUCH event=up pointerId=0 x=349.51456 y=123.295105 eventTimestamp=240891528 totalPointers=1 systemTimestamp=1346610686674 />
+<KEY keyCode=103 printKey='g' x=349 y=123 systemTimestamp=1346610686675 />
+<TOUCH event=down pointerId=0 x=433.39807 y=360.1101 eventTimestamp=240891922 totalPointers=1 systemTimestamp=1346610687066 />
+<TOUCH event=up pointerId=0 x=433.39807 y=360.1101 eventTimestamp=240891990 totalPointers=1 systemTimestamp=1346610687133 />
+<KEY keyCode=32 printKey=' ' x=433 y=360 systemTimestamp=1346610687135 />
+<TOUCH event=down pointerId=0 x=522.27466 y=79.32941 eventTimestamp=240892214 totalPointers=1 systemTimestamp=1346610687353 />
+<TOUCH event=up pointerId=0 x=522.27466 y=79.32941 eventTimestamp=240892293 totalPointers=1 systemTimestamp=1346610687438 />
+<KEY keyCode=105 printKey='i' x=522 y=79 systemTimestamp=1346610687440 />
+<TOUCH event=down pointerId=0 x=127.82247 y=155.27008 eventTimestamp=240892361 totalPointers=1 systemTimestamp=1346610687506 />
+<TOUCH event=up pointerId=0 x=127.82247 y=155.27008 eventTimestamp=240892417 totalPointers=1 systemTimestamp=1346610687564 />
+<KEY keyCode=115 printKey='s' x=127 y=155 systemTimestamp=1346610687565 />
+<TOUCH event=down pointerId=0 x=420.4161 y=333.1311 eventTimestamp=240892541 totalPointers=1 systemTimestamp=1346610687704 />
+<TOUCH event=up pointerId=0 x=420.4161 y=333.1311 eventTimestamp=240892597 totalPointers=1 systemTimestamp=1346610687737 />
+<KEY keyCode=32 printKey=' ' x=420 y=333 systemTimestamp=1346610687738 />
+<TOUCH event=down pointerId=0 x=553.2316 y=238.20532 eventTimestamp=240892800 totalPointers=1 systemTimestamp=1346610687947 />
+<TOUCH event=up pointerId=0 x=553.2316 y=238.20532 eventTimestamp=240892834 totalPointers=1 systemTimestamp=1346610687975 />
+<KEY keyCode=109 printKey='m' x=553 y=238 systemTimestamp=1346610687976 />
+<TOUCH event=down pointerId=0 x=16.976421 y=138.28339 eventTimestamp=240892935 totalPointers=1 systemTimestamp=1346610688083 />
+<TOUCH event=up pointerId=0 x=16.976421 y=138.28339 eventTimestamp=240892992 totalPointers=1 systemTimestamp=1346610688135 />
+<KEY keyCode=97 printKey='a' x=16 y=138 systemTimestamp=1346610688137 />
+<TOUCH event=down pointerId=0 x=478.33566 y=244.20062 eventTimestamp=240893059 totalPointers=1 systemTimestamp=1346610688202 />
+<TOUCH event=up pointerId=0 x=478.33566 y=244.20062 eventTimestamp=240893104 totalPointers=1 systemTimestamp=1346610688244 />
+<KEY keyCode=110 printKey='n' x=478 y=244 systemTimestamp=1346610688245 />
+<TOUCH event=down pointerId=0 x=29.958391 y=293.16235 eventTimestamp=240893475 totalPointers=1 systemTimestamp=1346610688614 />
+<TOUCH event=up pointerId=0 x=29.958391 y=293.16235 eventTimestamp=240893498 totalPointers=1 systemTimestamp=1346610688644 />
+<KEY keyCode=-1 printKey=shift x=29 y=293 systemTimestamp=1346610688646 />
+<TOUCH event=down pointerId=0 x=23.966713 y=268.1819 eventTimestamp=240894196 totalPointers=1 systemTimestamp=1346610689339 />
+<TOUCH event=up pointerId=0 x=23.966713 y=268.1819 eventTimestamp=240894276 totalPointers=1 systemTimestamp=1346610689423 />
+<KEY keyCode=-1 printKey=shift x=23 y=268 systemTimestamp=1346610689424 />
+<TOUCH event=down pointerId=0 x=27.961166 y=328.135 eventTimestamp=240894421 totalPointers=1 systemTimestamp=1346610689560 />
+<TOUCH event=up pointerId=0 x=27.961166 y=328.135 eventTimestamp=240894489 totalPointers=1 systemTimestamp=1346610689627 />
+<KEY keyCode=-2 printKey=symbol x=27 y=328 systemTimestamp=1346610689628 />
+<TOUCH event=down pointerId=0 x=283.6061 y=234.20844 eventTimestamp=240895244 totalPointers=1 systemTimestamp=1346610690384 />
+<TOUCH event=up pointerId=0 x=283.6061 y=234.20844 eventTimestamp=240895312 totalPointers=1 systemTimestamp=1346610690450 />
+<KEY keyCode=39 printKey=''' x=283 y=234 systemTimestamp=1346610690452 />
+<TOUCH event=down pointerId=0 x=23.966713 y=313.14673 eventTimestamp=240895908 totalPointers=1 systemTimestamp=1346610691047 />
+<TOUCH event=up pointerId=0 x=23.966713 y=313.14673 eventTimestamp=240895953 totalPointers=1 systemTimestamp=1346610691136 />
+<KEY keyCode=-2 printKey=symbol x=23 y=313 systemTimestamp=1346610691138 />
+<TOUCH event=down pointerId=0 x=120.832184 y=127.29193 eventTimestamp=240896190 totalPointers=1 systemTimestamp=1346610691328 />
+<TOUCH event=up pointerId=0 x=120.832184 y=127.29193 eventTimestamp=240896235 totalPointers=1 systemTimestamp=1346610691409 />
+<KEY keyCode=115 printKey='s' x=120 y=127 systemTimestamp=1346610691411 />
+<TOUCH event=down pointerId=0 x=409.43137 y=345.12183 eventTimestamp=240896404 totalPointers=1 systemTimestamp=1346610691568 />
+<TOUCH event=up pointerId=0 x=409.43137 y=345.12183 eventTimestamp=240896483 totalPointers=1 systemTimestamp=1346610691625 />
+<KEY keyCode=32 printKey=' ' x=409 y=345 systemTimestamp=1346610691627 />
+<TOUCH event=down pointerId=0 x=175.7559 y=38.36145 eventTimestamp=240896955 totalPointers=1 systemTimestamp=1346610692102 />
+<TOUCH event=up pointerId=0 x=175.7559 y=38.36145 eventTimestamp=240897001 totalPointers=1 systemTimestamp=1346610692147 />
+<KEY keyCode=101 printKey='e' x=175 y=38 systemTimestamp=1346610692149 />
+<TOUCH event=down pointerId=0 x=706.0194 y=243.20142 eventTimestamp=240897383 totalPointers=1 systemTimestamp=1346610692526 />
+<KEY keyCode=-4 printKey=delete x=618 y=209 systemTimestamp=1346610692529 />
+<TOUCH event=up pointerId=0 x=706.0194 y=243.20142 eventTimestamp=240897463 totalPointers=1 systemTimestamp=1346610692601 />
+<TOUCH event=down pointerId=0 x=409.43137 y=256.19128 eventTimestamp=240897676 totalPointers=1 systemTimestamp=1346610692814 />
+<TOUCH event=up pointerId=0 x=409.43137 y=256.19128 eventTimestamp=240897732 totalPointers=1 systemTimestamp=1346610692871 />
+<KEY keyCode=98 printKey='b' x=409 y=256 systemTimestamp=1346610692873 />
+<TOUCH event=down pointerId=0 x=168.76561 y=63.34192 eventTimestamp=240897766 totalPointers=1 systemTimestamp=1346610692914 />
+<TOUCH event=up pointerId=0 x=168.76561 y=63.34192 eventTimestamp=240897811 totalPointers=1 systemTimestamp=1346610692952 />
+<KEY keyCode=101 printKey='e' x=168 y=63 systemTimestamp=1346610692953 />
+<TOUCH event=down pointerId=0 x=146.79613 y=169.25916 eventTimestamp=240897968 totalPointers=1 systemTimestamp=1346610693118 />
+<TOUCH event=up pointerId=0 x=146.79613 y=169.25916 eventTimestamp=240898037 totalPointers=1 systemTimestamp=1346610693175 />
+<KEY keyCode=115 printKey='s' x=146 y=169 systemTimestamp=1346610693177 />
+<TOUCH event=down pointerId=0 x=343.5229 y=18.377075 eventTimestamp=240898239 totalPointers=1 systemTimestamp=1346610693377 />
+<TOUCH event=up pointerId=0 x=343.5229 y=18.377075 eventTimestamp=240898273 totalPointers=1 systemTimestamp=1346610693419 />
+<KEY keyCode=116 printKey='t' x=343 y=18 systemTimestamp=1346610693420 />
+<TOUCH event=down pointerId=0 x=414.4244 y=367.1046 eventTimestamp=240898419 totalPointers=1 systemTimestamp=1346610693569 />
+<TOUCH event=up pointerId=0 x=414.4244 y=367.1046 eventTimestamp=240898488 totalPointers=1 systemTimestamp=1346610693627 />
+<KEY keyCode=32 printKey=' ' x=414 y=367 systemTimestamp=1346610693629 />
+<TOUCH event=down pointerId=0 x=250.65187 y=148.27557 eventTimestamp=240898622 totalPointers=1 systemTimestamp=1346610693777 />
+<TOUCH event=up pointerId=0 x=250.65187 y=148.27557 eventTimestamp=240898645 totalPointers=1 systemTimestamp=1346610693805 />
+<KEY keyCode=100 printKey='d' x=250 y=148 systemTimestamp=1346610693806 />
+<TOUCH event=down pointerId=0 x=241.66437 y=42.358337 eventTimestamp=240898813 totalPointers=1 systemTimestamp=1346610693954 />
+<TOUCH event=up pointerId=0 x=241.66437 y=42.358337 eventTimestamp=240898859 totalPointers=1 systemTimestamp=1346610694002 />
+<KEY keyCode=114 printKey='r' x=241 y=42 systemTimestamp=1346610694003 />
+<TOUCH event=down pointerId=0 x=523.27325 y=50.35205 eventTimestamp=240898926 totalPointers=1 systemTimestamp=1346610694068 />
+<TOUCH event=up pointerId=0 x=523.27325 y=50.35205 eventTimestamp=240898994 totalPointers=1 systemTimestamp=1346610694146 />
+<KEY keyCode=105 printKey='i' x=523 y=50 systemTimestamp=1346610694147 />
+<TOUCH event=down pointerId=0 x=162.77393 y=63.34192 eventTimestamp=240899106 totalPointers=1 systemTimestamp=1346610694255 />
+<TOUCH event=up pointerId=0 x=162.77393 y=63.34192 eventTimestamp=240899163 totalPointers=1 systemTimestamp=1346610694315 />
+<KEY keyCode=101 printKey='e' x=162 y=63 systemTimestamp=1346610694316 />
+<TOUCH event=down pointerId=0 x=481.33148 y=260.1881 eventTimestamp=240899242 totalPointers=1 systemTimestamp=1346610694380 />
+<TOUCH event=up pointerId=0 x=481.33148 y=260.1881 eventTimestamp=240899287 totalPointers=1 systemTimestamp=1346610694441 />
+<KEY keyCode=110 printKey='n' x=481 y=260 systemTimestamp=1346610694442 />
+<TOUCH event=down pointerId=0 x=197.72539 y=159.26697 eventTimestamp=240899387 totalPointers=1 systemTimestamp=1346610694529 />
+<TOUCH event=up pointerId=0 x=197.72539 y=159.26697 eventTimestamp=240899456 totalPointers=1 systemTimestamp=1346610694606 />
+<KEY keyCode=100 printKey='d' x=197 y=159 systemTimestamp=1346610694607 />
+<TOUCH event=down pointerId=0 x=23.966713 y=315.14514 eventTimestamp=240899725 totalPointers=1 systemTimestamp=1346610694865 />
+<TOUCH event=up pointerId=0 x=23.966713 y=315.14514 eventTimestamp=240899805 totalPointers=1 systemTimestamp=1346610694969 />
+<KEY keyCode=-2 printKey=symbol x=23 y=315 systemTimestamp=1346610694970 />
+<TOUCH event=down pointerId=0 x=130.81831 y=242.20221 eventTimestamp=240900289 totalPointers=1 systemTimestamp=1346610695429 />
+<TOUCH event=up pointerId=0 x=130.81831 y=242.20221 eventTimestamp=240900346 totalPointers=1 systemTimestamp=1346610695484 />
+<KEY keyCode=33 printKey='!' x=130 y=242 systemTimestamp=1346610695486 />
+<TOUCH event=down pointerId=0 x=687.0458 y=362.10852 eventTimestamp=240901348 totalPointers=1 systemTimestamp=1346610696487 />
+<TOUCH event=up pointerId=0 x=687.0458 y=362.10852 eventTimestamp=240901404 totalPointers=1 systemTimestamp=1346610696542 />
+<KEY keyCode=10 printKey=enter x=687 y=362 systemTimestamp=1346610696544 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610696545 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610696576 />
+<SYSTEM event=LogEnteredText text=dog is man's best friend! systemTimestamp=1346610696577 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:i'm allergic to bees & peanuts systemTimestamp=1346610696579 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610696586 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610696587 />
+<TOUCH event=down pointerId=0 x=535.2566 y=57.34662 eventTimestamp=240902395 totalPointers=1 systemTimestamp=1346610697533 />
+<TOUCH event=up pointerId=0 x=535.2566 y=57.34662 eventTimestamp=240902485 totalPointers=1 systemTimestamp=1346610697630 />
+<KEY keyCode=105 printKey='i' x=535 y=57 systemTimestamp=1346610697631 />
+<TOUCH event=down pointerId=0 x=64.90985 y=342.12415 eventTimestamp=240902631 totalPointers=1 systemTimestamp=1346610697770 />
+<TOUCH event=up pointerId=0 x=64.90985 y=342.12415 eventTimestamp=240902699 totalPointers=1 systemTimestamp=1346610697883 />
+<KEY keyCode=-2 printKey=symbol x=64 y=342 systemTimestamp=1346610697885 />
+<TOUCH event=down pointerId=0 x=296.58807 y=213.2248 eventTimestamp=240903443 totalPointers=1 systemTimestamp=1346610698582 />
+<TOUCH event=up pointerId=0 x=294.58698 y=215.22717 eventTimestamp=240903522 totalPointers=1 systemTimestamp=1346610698660 />
+<KEY keyCode=39 printKey=''' x=296 y=213 systemTimestamp=1346610698661 />
+<TOUCH event=down pointerId=0 x=62.912624 y=321.1405 eventTimestamp=240903701 totalPointers=1 systemTimestamp=1346610698840 />
+<TOUCH event=up pointerId=0 x=62.912624 y=321.1405 eventTimestamp=240903780 totalPointers=1 systemTimestamp=1346610698927 />
+<KEY keyCode=-2 printKey=symbol x=62 y=321 systemTimestamp=1346610698929 />
+<TOUCH event=down pointerId=0 x=570.20807 y=264.18506 eventTimestamp=240903949 totalPointers=1 systemTimestamp=1346610699087 />
+<TOUCH event=up pointerId=0 x=570.20807 y=264.18506 eventTimestamp=240904006 totalPointers=1 systemTimestamp=1346610699144 />
+<KEY keyCode=109 printKey='m' x=570 y=264 systemTimestamp=1346610699146 />
+<TOUCH event=down pointerId=0 x=419.41748 y=352.11633 eventTimestamp=240904208 totalPointers=1 systemTimestamp=1346610699347 />
+<TOUCH event=up pointerId=0 x=421.4147 y=350.11792 eventTimestamp=240904276 totalPointers=1 systemTimestamp=1346610699415 />
+<KEY keyCode=32 printKey=' ' x=419 y=352 systemTimestamp=1346610699417 />
+<TOUCH event=down pointerId=0 x=49.930653 y=150.27399 eventTimestamp=240904467 totalPointers=1 systemTimestamp=1346610699612 />
+<TOUCH event=up pointerId=0 x=49.930653 y=150.27399 eventTimestamp=240904546 totalPointers=1 systemTimestamp=1346610699687 />
+<KEY keyCode=97 printKey='a' x=49 y=150 systemTimestamp=1346610699688 />
+<TOUCH event=down pointerId=0 x=657.0874 y=154.27087 eventTimestamp=240904602 totalPointers=1 systemTimestamp=1346610699749 />
+<TOUCH event=up pointerId=0 x=657.0874 y=154.27087 eventTimestamp=240904625 totalPointers=1 systemTimestamp=1346610699782 />
+<KEY keyCode=108 printKey='l' x=657 y=154 systemTimestamp=1346610699784 />
+<TOUCH event=down pointerId=0 x=650.0971 y=147.27637 eventTimestamp=240904759 totalPointers=1 systemTimestamp=1346610699932 />
+<TOUCH event=up pointerId=0 x=650.0971 y=147.27637 eventTimestamp=240904782 totalPointers=1 systemTimestamp=1346610699935 />
+<KEY keyCode=108 printKey='l' x=650 y=147 systemTimestamp=1346610699936 />
+<TOUCH event=down pointerId=0 x=171.76144 y=57.34662 eventTimestamp=240904940 totalPointers=1 systemTimestamp=1346610700081 />
+<TOUCH event=up pointerId=0 x=171.76144 y=57.34662 eventTimestamp=240905019 totalPointers=1 systemTimestamp=1346610700158 />
+<KEY keyCode=101 printKey='e' x=171 y=57 systemTimestamp=1346610700159 />
+<TOUCH event=down pointerId=0 x=271.62274 y=23.373169 eventTimestamp=240905199 totalPointers=1 systemTimestamp=1346610700344 />
+<TOUCH event=up pointerId=0 x=273.97894 y=25.730774 eventTimestamp=240905256 totalPointers=1 systemTimestamp=1346610700393 />
+<KEY keyCode=114 printKey='r' x=271 y=23 systemTimestamp=1346610700395 />
+<TOUCH event=down pointerId=0 x=391.45633 y=131.28882 eventTimestamp=240905447 totalPointers=1 systemTimestamp=1346610700596 />
+<TOUCH event=up pointerId=0 x=391.45633 y=131.28882 eventTimestamp=240905481 totalPointers=1 systemTimestamp=1346610700632 />
+<KEY keyCode=103 printKey='g' x=391 y=131 systemTimestamp=1346610700634 />
+<TOUCH event=down pointerId=0 x=524.27185 y=41.35907 eventTimestamp=240905627 totalPointers=1 systemTimestamp=1346610700784 />
+<TOUCH event=up pointerId=0 x=524.27185 y=41.35907 eventTimestamp=240905695 totalPointers=1 systemTimestamp=1346610700836 />
+<KEY keyCode=105 printKey='i' x=524 y=41 systemTimestamp=1346610700837 />
+<TOUCH event=down pointerId=0 x=323.55063 y=247.19824 eventTimestamp=240905807 totalPointers=1 systemTimestamp=1346610700952 />
+<TOUCH event=up pointerId=0 x=323.55063 y=247.19824 eventTimestamp=240905875 totalPointers=1 systemTimestamp=1346610701013 />
+<KEY keyCode=99 printKey='c' x=323 y=247 systemTimestamp=1346610701015 />
+<TOUCH event=down pointerId=0 x=697.0319 y=249.19678 eventTimestamp=240909807 totalPointers=1 systemTimestamp=1346610704945 />
+<KEY keyCode=-4 printKey=delete x=618 y=209 systemTimestamp=1346610704949 />
+<TOUCH event=up pointerId=0 x=699.0291 y=249.19678 eventTimestamp=240909874 totalPointers=1 systemTimestamp=1346610705015 />
+<TOUCH event=down pointerId=0 x=691.0402 y=274.17725 eventTimestamp=240909952 totalPointers=1 systemTimestamp=1346610705090 />
+<KEY keyCode=-4 printKey=delete x=618 y=209 systemTimestamp=1346610705093 />
+<TOUCH event=up pointerId=0 x=691.0402 y=274.17725 eventTimestamp=240910009 totalPointers=1 systemTimestamp=1346610705158 />
+<TOUCH event=down pointerId=0 x=530.26355 y=52.350525 eventTimestamp=240910301 totalPointers=1 systemTimestamp=1346610705445 />
+<TOUCH event=up pointerId=0 x=530.26355 y=52.350525 eventTimestamp=240910358 totalPointers=1 systemTimestamp=1346610705498 />
+<KEY keyCode=105 printKey='i' x=530 y=52 systemTimestamp=1346610705499 />
+<TOUCH event=down pointerId=0 x=31.955618 y=333.1311 eventTimestamp=240910459 totalPointers=1 systemTimestamp=1346610705603 />
+<TOUCH event=up pointerId=0 x=31.955618 y=333.1311 eventTimestamp=240910527 totalPointers=1 systemTimestamp=1346610705677 />
+<KEY keyCode=-2 printKey=symbol x=31 y=333 systemTimestamp=1346610705679 />
+<TOUCH event=down pointerId=0 x=302.57974 y=254.19287 eventTimestamp=240911136 totalPointers=1 systemTimestamp=1346610706275 />
+<TOUCH event=up pointerId=0 x=302.57974 y=254.19287 eventTimestamp=240911192 totalPointers=1 systemTimestamp=1346610706330 />
+<KEY keyCode=39 printKey=''' x=302 y=254 systemTimestamp=1346610706332 />
+<TOUCH event=down pointerId=0 x=421.4147 y=335.12964 eventTimestamp=240912431 totalPointers=1 systemTimestamp=1346610707570 />
+<TOUCH event=up pointerId=0 x=421.4147 y=335.12964 eventTimestamp=240912533 totalPointers=1 systemTimestamp=1346610707672 />
+<KEY keyCode=32 printKey=' ' x=421 y=335 systemTimestamp=1346610707673 />
+<TOUCH event=down pointerId=0 x=317.55896 y=57.34662 eventTimestamp=240912948 totalPointers=1 systemTimestamp=1346610708090 />
+<TOUCH event=up pointerId=0 x=317.55896 y=57.34662 eventTimestamp=240913006 totalPointers=1 systemTimestamp=1346610708145 />
+<KEY keyCode=116 printKey='t' x=317 y=57 systemTimestamp=1346610708147 />
+<TOUCH event=down pointerId=0 x=597.1706 y=60.34424 eventTimestamp=240913050 totalPointers=1 systemTimestamp=1346610708196 />
+<TOUCH event=up pointerId=0 x=597.1706 y=60.34424 eventTimestamp=240913107 totalPointers=1 systemTimestamp=1346610708245 />
+<KEY keyCode=111 printKey='o' x=597 y=60 systemTimestamp=1346610708246 />
+<TOUCH event=down pointerId=0 x=437.39252 y=354.11475 eventTimestamp=240913298 totalPointers=1 systemTimestamp=1346610708445 />
+<TOUCH event=up pointerId=0 x=437.39252 y=354.11475 eventTimestamp=240913388 totalPointers=1 systemTimestamp=1346610708530 />
+<KEY keyCode=32 printKey=' ' x=437 y=354 systemTimestamp=1346610708532 />
+<TOUCH event=down pointerId=0 x=420.4161 y=246.1991 eventTimestamp=240913523 totalPointers=1 systemTimestamp=1346610708681 />
+<TOUCH event=up pointerId=0 x=420.4161 y=246.1991 eventTimestamp=240913580 totalPointers=1 systemTimestamp=1346610708721 />
+<KEY keyCode=98 printKey='b' x=420 y=246 systemTimestamp=1346610708722 />
+<TOUCH event=down pointerId=0 x=165.76978 y=38.36145 eventTimestamp=240913681 totalPointers=1 systemTimestamp=1346610708822 />
+<TOUCH event=up pointerId=0 x=165.76978 y=38.36145 eventTimestamp=240913737 totalPointers=1 systemTimestamp=1346610708881 />
+<KEY keyCode=101 printKey='e' x=165 y=38 systemTimestamp=1346610708883 />
+<TOUCH event=down pointerId=0 x=160.7767 y=33.365356 eventTimestamp=240913839 totalPointers=1 systemTimestamp=1346610708977 />
+<TOUCH event=up pointerId=0 x=160.7767 y=33.365356 eventTimestamp=240913895 totalPointers=1 systemTimestamp=1346610709058 />
+<KEY keyCode=101 printKey='e' x=160 y=33 systemTimestamp=1346610709060 />
+<TOUCH event=down pointerId=0 x=140.80444 y=134.2865 eventTimestamp=240914041 totalPointers=1 systemTimestamp=1346610709198 />
+<TOUCH event=up pointerId=0 x=140.80444 y=134.2865 eventTimestamp=240914086 totalPointers=1 systemTimestamp=1346610709229 />
+<KEY keyCode=115 printKey='s' x=140 y=134 systemTimestamp=1346610709230 />
+<TOUCH event=down pointerId=0 x=436.39392 y=338.1272 eventTimestamp=240914143 totalPointers=1 systemTimestamp=1346610709281 />
+<TOUCH event=up pointerId=0 x=436.39392 y=338.1272 eventTimestamp=240914244 totalPointers=1 systemTimestamp=1346610709387 />
+<KEY keyCode=32 printKey=' ' x=436 y=338 systemTimestamp=1346610709388 />
+<TOUCH event=down pointerId=0 x=51.92788 y=360.1101 eventTimestamp=240914401 totalPointers=1 systemTimestamp=1346610709548 />
+<TOUCH event=up pointerId=0 x=51.92788 y=360.1101 eventTimestamp=240914470 totalPointers=1 systemTimestamp=1346610709607 />
+<KEY keyCode=-2 printKey=symbol x=51 y=360 systemTimestamp=1346610709609 />
+<TOUCH event=down pointerId=0 x=307.5728 y=136.28491 eventTimestamp=240915742 totalPointers=1 systemTimestamp=1346610710881 />
+<TOUCH event=up pointerId=0 x=307.5728 y=136.28491 eventTimestamp=240915810 totalPointers=1 systemTimestamp=1346610710948 />
+<KEY keyCode=38 printKey='&' x=307 y=136 systemTimestamp=1346610710950 />
+<TOUCH event=down pointerId=0 x=410.42996 y=346.12097 eventTimestamp=240915878 totalPointers=1 systemTimestamp=1346610711016 />
+<TOUCH event=up pointerId=0 x=410.42996 y=346.12097 eventTimestamp=240915968 totalPointers=1 systemTimestamp=1346610711106 />
+<KEY keyCode=32 printKey=' ' x=410 y=346 systemTimestamp=1346610711108 />
+<TOUCH event=down pointerId=0 x=676.06104 y=47.35443 eventTimestamp=240916531 totalPointers=1 systemTimestamp=1346610711669 />
+<TOUCH event=up pointerId=0 x=676.06104 y=47.35443 eventTimestamp=240916621 totalPointers=1 systemTimestamp=1346610711759 />
+<KEY keyCode=112 printKey='p' x=676 y=47 systemTimestamp=1346610711761 />
+<TOUCH event=down pointerId=0 x=184.74342 y=41.35907 eventTimestamp=240916711 totalPointers=1 systemTimestamp=1346610711856 />
+<TOUCH event=up pointerId=0 x=184.74342 y=41.35907 eventTimestamp=240916756 totalPointers=1 systemTimestamp=1346610711909 />
+<KEY keyCode=101 printKey='e' x=184 y=41 systemTimestamp=1346610711912 />
+<TOUCH event=down pointerId=0 x=66.907074 y=173.25604 eventTimestamp=240916913 totalPointers=1 systemTimestamp=1346610712074 />
+<TOUCH event=up pointerId=0 x=66.907074 y=173.25604 eventTimestamp=240916993 totalPointers=1 systemTimestamp=1346610712131 />
+<KEY keyCode=97 printKey='a' x=66 y=173 systemTimestamp=1346610712133 />
+<TOUCH event=down pointerId=0 x=467.35092 y=280.1725 eventTimestamp=240917015 totalPointers=1 systemTimestamp=1346610712166 />
+<TOUCH event=up pointerId=0 x=467.35092 y=280.1725 eventTimestamp=240917072 totalPointers=1 systemTimestamp=1346610712212 />
+<KEY keyCode=98 printKey='b' x=467 y=280 systemTimestamp=1346610712213 />
+<TOUCH event=down pointerId=0 x=450.37448 y=47.35443 eventTimestamp=240917252 totalPointers=1 systemTimestamp=1346610712396 />
+<TOUCH event=up pointerId=0 x=450.37448 y=47.35443 eventTimestamp=240917320 totalPointers=1 systemTimestamp=1346610712463 />
+<KEY keyCode=117 printKey='u' x=450 y=47 systemTimestamp=1346610712465 />
+<TOUCH event=down pointerId=0 x=331.53955 y=49.352844 eventTimestamp=240917488 totalPointers=1 systemTimestamp=1346610712633 />
+<TOUCH event=up pointerId=0 x=331.53955 y=49.352844 eventTimestamp=240917568 totalPointers=1 systemTimestamp=1346610712705 />
+<KEY keyCode=116 printKey='t' x=331 y=49 systemTimestamp=1346610712708 />
+<TOUCH event=down pointerId=0 x=143.80028 y=162.26465 eventTimestamp=240917623 totalPointers=1 systemTimestamp=1346610712770 />
+<TOUCH event=up pointerId=0 x=141.80305 y=162.26465 eventTimestamp=240917748 totalPointers=1 systemTimestamp=1346610712887 />
+<KEY keyCode=115 printKey='s' x=143 y=162 systemTimestamp=1346610712888 />
+<TOUCH event=down pointerId=0 x=680.0555 y=359.11084 eventTimestamp=240921611 totalPointers=1 systemTimestamp=1346610716750 />
+<TOUCH event=up pointerId=0 x=680.0555 y=359.11084 eventTimestamp=240921702 totalPointers=1 systemTimestamp=1346610716840 />
+<KEY keyCode=10 printKey=enter x=680 y=359 systemTimestamp=1346610716842 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610716843 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610716847 />
+<SYSTEM event=LogEnteredText text=i'm allergic to bees & peanuts systemTimestamp=1346610716849 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:good @ addition & subtraction systemTimestamp=1346610716851 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610716858 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610716859 />
+<TOUCH event=down pointerId=0 x=355.50626 y=147.27637 eventTimestamp=240922851 totalPointers=1 systemTimestamp=1346610717992 />
+<TOUCH event=up pointerId=0 x=355.50626 y=149.63165 eventTimestamp=240922920 totalPointers=1 systemTimestamp=1346610718059 />
+<KEY keyCode=103 printKey='g' x=355 y=147 systemTimestamp=1346610718061 />
+<TOUCH event=down pointerId=0 x=593.17615 y=28.369263 eventTimestamp=240922963 totalPointers=1 systemTimestamp=1346610718108 />
+<TOUCH event=up pointerId=0 x=593.17615 y=28.369263 eventTimestamp=240923009 totalPointers=1 systemTimestamp=1346610718152 />
+<KEY keyCode=111 printKey='o' x=593 y=28 systemTimestamp=1346610718154 />
+<TOUCH event=down pointerId=0 x=611.1512 y=37.362244 eventTimestamp=240923121 totalPointers=1 systemTimestamp=1346610718262 />
+<TOUCH event=up pointerId=0 x=611.1512 y=37.362244 eventTimestamp=240923189 totalPointers=1 systemTimestamp=1346610718334 />
+<KEY keyCode=111 printKey='o' x=611 y=37 systemTimestamp=1346610718335 />
+<TOUCH event=down pointerId=0 x=200.72122 y=159.26697 eventTimestamp=240923312 totalPointers=1 systemTimestamp=1346610718470 />
+<TOUCH event=up pointerId=0 x=200.72122 y=159.26697 eventTimestamp=240923358 totalPointers=1 systemTimestamp=1346610718507 />
+<KEY keyCode=100 printKey='d' x=200 y=159 systemTimestamp=1346610718508 />
+<TOUCH event=down pointerId=0 x=420.4161 y=334.13037 eventTimestamp=240923425 totalPointers=1 systemTimestamp=1346610718567 />
+<TOUCH event=up pointerId=0 x=420.4161 y=334.13037 eventTimestamp=240923515 totalPointers=1 systemTimestamp=1346610718667 />
+<KEY keyCode=32 printKey=' ' x=420 y=334 systemTimestamp=1346610718668 />
+<TOUCH event=down pointerId=0 x=6.9902916 y=344.12256 eventTimestamp=240923661 totalPointers=1 systemTimestamp=1346610718800 />
+<TOUCH event=up pointerId=0 x=6.9902916 y=344.12256 eventTimestamp=240923775 totalPointers=1 systemTimestamp=1346610718913 />
+<KEY keyCode=-2 printKey=symbol x=6 y=344 systemTimestamp=1346610718915 />
+<TOUCH event=down pointerId=0 x=16.976421 y=159.26697 eventTimestamp=240924473 totalPointers=1 systemTimestamp=1346610719612 />
+<TOUCH event=up pointerId=0 x=16.976421 y=159.26697 eventTimestamp=240924541 totalPointers=1 systemTimestamp=1346610719681 />
+<KEY keyCode=64 printKey='@' x=16 y=159 systemTimestamp=1346610719683 />
+<TOUCH event=down pointerId=0 x=397.448 y=322.13977 eventTimestamp=240924608 totalPointers=1 systemTimestamp=1346610719746 />
+<TOUCH event=up pointerId=0 x=397.448 y=323.13892 eventTimestamp=240924698 totalPointers=1 systemTimestamp=1346610719837 />
+<KEY keyCode=32 printKey=' ' x=397 y=322 systemTimestamp=1346610719838 />
+<TOUCH event=down pointerId=0 x=19.972261 y=168.25995 eventTimestamp=240925340 totalPointers=1 systemTimestamp=1346610720485 />
+<TOUCH event=up pointerId=0 x=19.972261 y=168.25995 eventTimestamp=240925431 totalPointers=1 systemTimestamp=1346610720569 />
+<KEY keyCode=97 printKey='a' x=19 y=168 systemTimestamp=1346610720571 />
+<TOUCH event=down pointerId=0 x=244.6602 y=144.27869 eventTimestamp=240925633 totalPointers=1 systemTimestamp=1346610720772 />
+<TOUCH event=up pointerId=0 x=244.6602 y=144.27869 eventTimestamp=240925690 totalPointers=1 systemTimestamp=1346610720828 />
+<KEY keyCode=100 printKey='d' x=244 y=144 systemTimestamp=1346610720830 />
+<TOUCH event=down pointerId=0 x=227.68378 y=149.27478 eventTimestamp=240925803 totalPointers=1 systemTimestamp=1346610720941 />
+<TOUCH event=up pointerId=0 x=227.68378 y=149.27478 eventTimestamp=240925870 totalPointers=1 systemTimestamp=1346610721010 />
+<KEY keyCode=100 printKey='d' x=227 y=149 systemTimestamp=1346610721012 />
+<TOUCH event=down pointerId=0 x=531.26215 y=63.34192 eventTimestamp=240925949 totalPointers=1 systemTimestamp=1346610721100 />
+<TOUCH event=up pointerId=0 x=531.26215 y=63.34192 eventTimestamp=240926016 totalPointers=1 systemTimestamp=1346610721155 />
+<KEY keyCode=105 printKey='i' x=531 y=63 systemTimestamp=1346610721156 />
+<TOUCH event=down pointerId=0 x=344.5215 y=34.364563 eventTimestamp=240926162 totalPointers=1 systemTimestamp=1346610721307 />
+<TOUCH event=up pointerId=0 x=344.5215 y=34.364563 eventTimestamp=240926197 totalPointers=1 systemTimestamp=1346610721343 />
+<KEY keyCode=116 printKey='t' x=344 y=34 systemTimestamp=1346610721344 />
+<TOUCH event=down pointerId=0 x=539.25104 y=68.33801 eventTimestamp=240926264 totalPointers=1 systemTimestamp=1346610721402 />
+<TOUCH event=up pointerId=0 x=539.25104 y=68.33801 eventTimestamp=240926320 totalPointers=1 systemTimestamp=1346610721467 />
+<KEY keyCode=105 printKey='i' x=539 y=68 systemTimestamp=1346610721469 />
+<TOUCH event=down pointerId=0 x=594.17474 y=36.362976 eventTimestamp=240926422 totalPointers=1 systemTimestamp=1346610721561 />
+<TOUCH event=up pointerId=0 x=594.17474 y=36.362976 eventTimestamp=240926489 totalPointers=1 systemTimestamp=1346610721653 />
+<KEY keyCode=111 printKey='o' x=594 y=36 systemTimestamp=1346610721654 />
+<TOUCH event=down pointerId=0 x=488.32178 y=267.18262 eventTimestamp=240926624 totalPointers=1 systemTimestamp=1346610721774 />
+<TOUCH event=up pointerId=0 x=488.32178 y=267.18262 eventTimestamp=240926658 totalPointers=1 systemTimestamp=1346610721804 />
+<KEY keyCode=110 printKey='n' x=488 y=267 systemTimestamp=1346610721805 />
+<TOUCH event=down pointerId=0 x=429.40363 y=358.11157 eventTimestamp=240926816 totalPointers=1 systemTimestamp=1346610721968 />
+<TOUCH event=up pointerId=0 x=429.40363 y=358.11157 eventTimestamp=240926895 totalPointers=1 systemTimestamp=1346610722033 />
+<KEY keyCode=32 printKey=' ' x=429 y=358 systemTimestamp=1346610722035 />
+<TOUCH event=down pointerId=0 x=44.937588 y=335.12964 eventTimestamp=240927166 totalPointers=1 systemTimestamp=1346610722305 />
+<TOUCH event=up pointerId=0 x=44.937588 y=335.12964 eventTimestamp=240927278 totalPointers=1 systemTimestamp=1346610722416 />
+<KEY keyCode=-2 printKey=symbol x=44 y=335 systemTimestamp=1346610722418 />
+<TOUCH event=down pointerId=0 x=320.55478 y=144.27869 eventTimestamp=240928743 totalPointers=1 systemTimestamp=1346610723882 />
+<TOUCH event=up pointerId=0 x=320.55478 y=146.2771 eventTimestamp=240928811 totalPointers=1 systemTimestamp=1346610723950 />
+<KEY keyCode=38 printKey='&' x=320 y=144 systemTimestamp=1346610723967 />
+<TOUCH event=down pointerId=0 x=428.405 y=355.114 eventTimestamp=240929070 totalPointers=1 systemTimestamp=1346610724209 />
+<TOUCH event=up pointerId=0 x=428.405 y=355.114 eventTimestamp=240929149 totalPointers=1 systemTimestamp=1346610724287 />
+<KEY keyCode=32 printKey=' ' x=428 y=355 systemTimestamp=1346610724289 />
+<TOUCH event=down pointerId=0 x=129.8197 y=142.28027 eventTimestamp=240929464 totalPointers=1 systemTimestamp=1346610724605 />
+<TOUCH event=up pointerId=0 x=129.8197 y=142.28027 eventTimestamp=240929532 totalPointers=1 systemTimestamp=1346610724673 />
+<KEY keyCode=115 printKey='s' x=129 y=142 systemTimestamp=1346610724675 />
+<TOUCH event=down pointerId=0 x=469.34814 y=68.33801 eventTimestamp=240929666 totalPointers=1 systemTimestamp=1346610724821 />
+<TOUCH event=up pointerId=0 x=469.34814 y=68.33801 eventTimestamp=240929723 totalPointers=1 systemTimestamp=1346610724861 />
+<KEY keyCode=117 printKey='u' x=469 y=68 systemTimestamp=1346610724862 />
+<TOUCH event=down pointerId=0 x=405.4369 y=248.19751 eventTimestamp=240929869 totalPointers=1 systemTimestamp=1346610725014 />
+<TOUCH event=up pointerId=0 x=405.4369 y=248.19751 eventTimestamp=240929914 totalPointers=1 systemTimestamp=1346610725054 />
+<KEY keyCode=98 printKey='b' x=405 y=248 systemTimestamp=1346610725056 />
+<TOUCH event=down pointerId=0 x=322.55203 y=35.36377 eventTimestamp=240930072 totalPointers=1 systemTimestamp=1346610725212 />
+<TOUCH event=up pointerId=0 x=322.55203 y=35.36377 eventTimestamp=240930106 totalPointers=1 systemTimestamp=1346610725248 />
+<KEY keyCode=116 printKey='t' x=322 y=35 systemTimestamp=1346610725249 />
+<TOUCH event=down pointerId=0 x=244.6602 y=16.378601 eventTimestamp=240930241 totalPointers=1 systemTimestamp=1346610725405 />
+<TOUCH event=up pointerId=0 x=244.6602 y=16.378601 eventTimestamp=240930286 totalPointers=1 systemTimestamp=1346610725443 />
+<KEY keyCode=114 printKey='r' x=244 y=16 systemTimestamp=1346610725444 />
+<TOUCH event=down pointerId=0 x=68.904305 y=129.2904 eventTimestamp=240930455 totalPointers=1 systemTimestamp=1346610725596 />
+<TOUCH event=up pointerId=0 x=68.904305 y=129.2904 eventTimestamp=240930523 totalPointers=1 systemTimestamp=1346610725662 />
+<KEY keyCode=97 printKey='a' x=68 y=129 systemTimestamp=1346610725663 />
+<TOUCH event=down pointerId=0 x=263.63385 y=225.21545 eventTimestamp=240930714 totalPointers=1 systemTimestamp=1346610725858 />
+<TOUCH event=up pointerId=0 x=263.63385 y=225.21545 eventTimestamp=240930760 totalPointers=1 systemTimestamp=1346610725898 />
+<KEY keyCode=99 printKey='c' x=263 y=225 systemTimestamp=1346610725900 />
+<TOUCH event=down pointerId=0 x=344.5215 y=20.375488 eventTimestamp=240930951 totalPointers=1 systemTimestamp=1346610726095 />
+<TOUCH event=up pointerId=0 x=344.5215 y=20.375488 eventTimestamp=240931019 totalPointers=1 systemTimestamp=1346610726163 />
+<KEY keyCode=116 printKey='t' x=344 y=20 systemTimestamp=1346610726164 />
+<TOUCH event=down pointerId=0 x=553.2316 y=77.33099 eventTimestamp=240931086 totalPointers=1 systemTimestamp=1346610726231 />
+<TOUCH event=up pointerId=0 x=553.2316 y=77.33099 eventTimestamp=240931142 totalPointers=1 systemTimestamp=1346610726284 />
+<KEY keyCode=105 printKey='i' x=553 y=77 systemTimestamp=1346610726285 />
+<TOUCH event=down pointerId=0 x=590.1803 y=53.34973 eventTimestamp=240931221 totalPointers=1 systemTimestamp=1346610726372 />
+<TOUCH event=up pointerId=0 x=592.17755 y=52.350525 eventTimestamp=240931289 totalPointers=1 systemTimestamp=1346610726434 />
+<KEY keyCode=111 printKey='o' x=590 y=53 systemTimestamp=1346610726435 />
+<TOUCH event=down pointerId=0 x=518.28015 y=225.21545 eventTimestamp=240931469 totalPointers=1 systemTimestamp=1346610726613 />
+<TOUCH event=up pointerId=0 x=518.28015 y=225.21545 eventTimestamp=240931526 totalPointers=1 systemTimestamp=1346610726671 />
+<KEY keyCode=110 printKey='n' x=518 y=225 systemTimestamp=1346610726673 />
+<TOUCH event=down pointerId=0 x=687.0458 y=362.10852 eventTimestamp=240932777 totalPointers=1 systemTimestamp=1346610727916 />
+<TOUCH event=up pointerId=0 x=687.0458 y=362.10852 eventTimestamp=240932878 totalPointers=1 systemTimestamp=1346610728016 />
+<KEY keyCode=10 printKey=enter x=687 y=362 systemTimestamp=1346610728019 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610728025 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610728030 />
+<SYSTEM event=LogEnteredText text=good @ addition & subtraction systemTimestamp=1346610728031 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:x-dv@ systemTimestamp=1346610728033 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610728068 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610728070 />
+<TOUCH event=down pointerId=0 x=201.71983 y=232.20996 eventTimestamp=240934173 totalPointers=1 systemTimestamp=1346610729318 />
+<TOUCH event=up pointerId=0 x=203.77214 y=234.26355 eventTimestamp=240934253 totalPointers=1 systemTimestamp=1346610729392 />
+<KEY keyCode=120 printKey='x' x=201 y=232 systemTimestamp=1346610729394 />
+<TOUCH event=down pointerId=0 x=34.951458 y=339.12646 eventTimestamp=240934365 totalPointers=1 systemTimestamp=1346610729504 />
+<TOUCH event=up pointerId=0 x=41.94175 y=338.1272 eventTimestamp=240934523 totalPointers=1 systemTimestamp=1346610729662 />
+<KEY keyCode=-2 printKey=symbol x=34 y=339 systemTimestamp=1346610729664 />
+<TOUCH event=down pointerId=0 x=465.3537 y=167.26074 eventTimestamp=240934907 totalPointers=1 systemTimestamp=1346610730046 />
+<TOUCH event=up pointerId=0 x=465.3537 y=167.26074 eventTimestamp=240935007 totalPointers=1 systemTimestamp=1346610730147 />
+<KEY keyCode=45 printKey='-' x=465 y=167 systemTimestamp=1346610730148 />
+<TOUCH event=down pointerId=0 x=12.98197 y=334.13037 eventTimestamp=240935176 totalPointers=1 systemTimestamp=1346610730314 />
+<TOUCH event=up pointerId=0 x=19.33325 y=341.84448 eventTimestamp=240935312 totalPointers=1 systemTimestamp=1346610730453 />
+<KEY keyCode=-2 printKey=symbol x=12 y=334 systemTimestamp=1346610730466 />
+<TOUCH event=down pointerId=0 x=210.70735 y=146.2771 eventTimestamp=240935920 totalPointers=1 systemTimestamp=1346610731064 />
+<TOUCH event=up pointerId=0 x=210.70735 y=146.2771 eventTimestamp=240935988 totalPointers=1 systemTimestamp=1346610731131 />
+<KEY keyCode=100 printKey='d' x=210 y=146 systemTimestamp=1346610731133 />
+<TOUCH event=down pointerId=0 x=348.51596 y=259.18896 eventTimestamp=240936156 totalPointers=1 systemTimestamp=1346610731300 />
+<TOUCH event=up pointerId=0 x=348.51596 y=259.18896 eventTimestamp=240936213 totalPointers=1 systemTimestamp=1346610731353 />
+<KEY keyCode=118 printKey='v' x=348 y=259 systemTimestamp=1346610731354 />
+<TOUCH event=down pointerId=0 x=31.955618 y=350.11792 eventTimestamp=240936415 totalPointers=1 systemTimestamp=1346610731555 />
+<TOUCH event=up pointerId=0 x=31.955618 y=350.11792 eventTimestamp=240936540 totalPointers=1 systemTimestamp=1346610731678 />
+<KEY keyCode=-2 printKey=symbol x=31 y=350 systemTimestamp=1346610731679 />
+<TOUCH event=down pointerId=0 x=25.96394 y=126.292725 eventTimestamp=240937025 totalPointers=1 systemTimestamp=1346610732163 />
+<TOUCH event=up pointerId=0 x=25.96394 y=126.292725 eventTimestamp=240937081 totalPointers=1 systemTimestamp=1346610732219 />
+<KEY keyCode=64 printKey='@' x=25 y=126 systemTimestamp=1346610732221 />
+<TOUCH event=down pointerId=0 x=693.0375 y=340.12573 eventTimestamp=240937295 totalPointers=1 systemTimestamp=1346610732434 />
+<TOUCH event=up pointerId=0 x=693.0375 y=340.12573 eventTimestamp=240937351 totalPointers=1 systemTimestamp=1346610732489 />
+<KEY keyCode=10 printKey=enter x=693 y=340 systemTimestamp=1346610732491 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610732492 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610732521 />
+<SYSTEM event=LogEnteredText text=x-dv@ systemTimestamp=1346610732523 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:"#kx? systemTimestamp=1346610732525 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610732532 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610732533 />
+<TOUCH event=down pointerId=0 x=32.95423 y=349.11865 eventTimestamp=240938218 totalPointers=1 systemTimestamp=1346610733356 />
+<TOUCH event=up pointerId=0 x=32.95423 y=349.11865 eventTimestamp=240938298 totalPointers=1 systemTimestamp=1346610733436 />
+<KEY keyCode=-2 printKey=symbol x=32 y=349 systemTimestamp=1346610733438 />
+<TOUCH event=down pointerId=0 x=224.68794 y=253.1936 eventTimestamp=240938985 totalPointers=1 systemTimestamp=1346610734125 />
+<TOUCH event=up pointerId=0 x=224.68794 y=253.1936 eventTimestamp=240939042 totalPointers=1 systemTimestamp=1346610734180 />
+<KEY keyCode=34 printKey='"' x=224 y=253 systemTimestamp=1346610734182 />
+<TOUCH event=down pointerId=0 x=1.9972261 y=364.10693 eventTimestamp=240939187 totalPointers=1 systemTimestamp=1346610734326 />
+<TOUCH event=up pointerId=0 x=1.9972261 y=364.10693 eventTimestamp=240939255 totalPointers=1 systemTimestamp=1346610734406 />
+<KEY keyCode=-2 printKey=symbol x=1 y=364 systemTimestamp=1346610734408 />
+<TOUCH event=down pointerId=0 x=12.98197 y=355.114 eventTimestamp=240939886 totalPointers=1 systemTimestamp=1346610735033 />
+<TOUCH event=up pointerId=0 x=10.984744 y=355.114 eventTimestamp=240939977 totalPointers=1 systemTimestamp=1346610735136 />
+<KEY keyCode=-2 printKey=symbol x=12 y=355 systemTimestamp=1346610735137 />
+<TOUCH event=down pointerId=0 x=118.83495 y=138.28339 eventTimestamp=240940304 totalPointers=1 systemTimestamp=1346610735443 />
+<TOUCH event=up pointerId=0 x=118.83495 y=140.43433 eventTimestamp=240940393 totalPointers=1 systemTimestamp=1346610735532 />
+<KEY keyCode=35 printKey='#' x=118 y=138 systemTimestamp=1346610735546 />
+<TOUCH event=down pointerId=0 x=16.976421 y=345.12183 eventTimestamp=240940630 totalPointers=1 systemTimestamp=1346610735769 />
+<TOUCH event=up pointerId=0 x=14.979196 y=346.12097 eventTimestamp=240940731 totalPointers=1 systemTimestamp=1346610735871 />
+<KEY keyCode=-2 printKey=symbol x=16 y=345 systemTimestamp=1346610735873 />
+<TOUCH event=down pointerId=0 x=549.2372 y=145.2779 eventTimestamp=240941362 totalPointers=1 systemTimestamp=1346610736508 />
+<TOUCH event=up pointerId=0 x=549.2372 y=145.2779 eventTimestamp=240941487 totalPointers=1 systemTimestamp=1346610736626 />
+<KEY keyCode=107 printKey='k' x=549 y=145 systemTimestamp=1346610736628 />
+<TOUCH event=down pointerId=0 x=210.70735 y=225.21545 eventTimestamp=240941565 totalPointers=1 systemTimestamp=1346610736715 />
+<TOUCH event=up pointerId=0 x=210.70735 y=225.21545 eventTimestamp=240941633 totalPointers=1 systemTimestamp=1346610736777 />
+<KEY keyCode=120 printKey='x' x=210 y=225 systemTimestamp=1346610736778 />
+<TOUCH event=down pointerId=0 x=36.948685 y=346.12097 eventTimestamp=240941869 totalPointers=1 systemTimestamp=1346610737017 />
+<TOUCH event=up pointerId=0 x=36.948685 y=346.12097 eventTimestamp=240941937 totalPointers=1 systemTimestamp=1346610737093 />
+<KEY keyCode=-2 printKey=symbol x=36 y=346 systemTimestamp=1346610737094 />
+<TOUCH event=down pointerId=0 x=566.2136 y=273.17798 eventTimestamp=240942783 totalPointers=1 systemTimestamp=1346610737922 />
+<TOUCH event=up pointerId=0 x=566.2136 y=273.17798 eventTimestamp=240942862 totalPointers=1 systemTimestamp=1346610738000 />
+<KEY keyCode=63 printKey='?' x=566 y=273 systemTimestamp=1346610738001 />
+<TOUCH event=down pointerId=0 x=701.02637 y=351.11707 eventTimestamp=240943200 totalPointers=1 systemTimestamp=1346610738338 />
+<TOUCH event=up pointerId=0 x=702.02496 y=353.11548 eventTimestamp=240943267 totalPointers=1 systemTimestamp=1346610738406 />
+<KEY keyCode=10 printKey=enter x=701 y=351 systemTimestamp=1346610738407 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610738409 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610738438 />
+<SYSTEM event=LogEnteredText text="#kx? systemTimestamp=1346610738439 />
+<SYSTEM event=NORMAL_PHRASE_LOADED:j$wf% systemTimestamp=1346610738441 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610738448 />
+<SYSTEM event=LogEnteredText text= systemTimestamp=1346610738450 />
+<TOUCH event=down pointerId=0 x=473.3426 y=145.2779 eventTimestamp=240944484 totalPointers=1 systemTimestamp=1346610739628 />
+<TOUCH event=up pointerId=0 x=473.3426 y=145.2779 eventTimestamp=240944552 totalPointers=1 systemTimestamp=1346610739694 />
+<KEY keyCode=106 printKey='j' x=473 y=145 systemTimestamp=1346610739695 />
+<TOUCH event=down pointerId=0 x=14.979196 y=356.11316 eventTimestamp=240944709 totalPointers=1 systemTimestamp=1346610739850 />
+<TOUCH event=up pointerId=0 x=14.979196 y=356.11316 eventTimestamp=240944754 totalPointers=1 systemTimestamp=1346610739905 />
+<KEY keyCode=-2 printKey=symbol x=14 y=356 systemTimestamp=1346610739907 />
+<TOUCH event=down pointerId=0 x=158.77948 y=148.27557 eventTimestamp=240945701 totalPointers=1 systemTimestamp=1346610740840 />
+<TOUCH event=up pointerId=0 x=158.77948 y=148.27557 eventTimestamp=240945746 totalPointers=1 systemTimestamp=1346610740885 />
+<KEY keyCode=36 printKey='$' x=158 y=148 systemTimestamp=1346610740889 />
+<TOUCH event=down pointerId=0 x=40.943134 y=316.1444 eventTimestamp=240946828 totalPointers=1 systemTimestamp=1346610741967 />
+<TOUCH event=up pointerId=0 x=40.943134 y=316.1444 eventTimestamp=240946896 totalPointers=1 systemTimestamp=1346610742048 />
+<KEY keyCode=-2 printKey=symbol x=40 y=316 systemTimestamp=1346610742050 />
+<TOUCH event=down pointerId=0 x=107.85021 y=38.36145 eventTimestamp=240947211 totalPointers=1 systemTimestamp=1346610742358 />
+<TOUCH event=up pointerId=0 x=107.85021 y=38.36145 eventTimestamp=240947279 totalPointers=1 systemTimestamp=1346610742425 />
+<KEY keyCode=119 printKey='w' x=107 y=38 systemTimestamp=1346610742427 />
+<TOUCH event=down pointerId=0 x=299.58392 y=143.27948 eventTimestamp=240947707 totalPointers=1 systemTimestamp=1346610742849 />
+<TOUCH event=up pointerId=0 x=299.58392 y=143.27948 eventTimestamp=240947763 totalPointers=1 systemTimestamp=1346610742902 />
+<KEY keyCode=102 printKey='f' x=299 y=143 systemTimestamp=1346610742903 />
+<TOUCH event=down pointerId=0 x=47.933426 y=341.12488 eventTimestamp=240948101 totalPointers=1 systemTimestamp=1346610743240 />
+<TOUCH event=up pointerId=0 x=47.933426 y=341.12488 eventTimestamp=240948180 totalPointers=1 systemTimestamp=1346610743318 />
+<KEY keyCode=-2 printKey=symbol x=47 y=341 systemTimestamp=1346610743320 />
+<TOUCH event=down pointerId=0 x=259.6394 y=135.2857 eventTimestamp=240948925 totalPointers=1 systemTimestamp=1346610744064 />
+<TOUCH event=up pointerId=0 x=259.6394 y=135.2857 eventTimestamp=240948970 totalPointers=1 systemTimestamp=1346610744108 />
+<KEY keyCode=37 printKey='%' x=259 y=135 systemTimestamp=1346610744111 />
+<TOUCH event=down pointerId=0 x=689.043 y=337.12805 eventTimestamp=240949127 totalPointers=1 systemTimestamp=1346610744265 />
+<TOUCH event=up pointerId=0 x=689.043 y=337.12805 eventTimestamp=240949173 totalPointers=1 systemTimestamp=1346610744310 />
+<KEY keyCode=10 printKey=enter x=689 y=337 systemTimestamp=1346610744312 />
+<KEY keyCode=66 printKey='B' systemTimestamp=1346610744317 />
+<SYSTEM event=ENTER_DONE_CLICK systemTimestamp=1346610744380 />
+<SYSTEM event=LogEnteredText text=j$wf% systemTimestamp=1346610744381 />
+<SYSTEM event=Session_End systemTimestamp=1346610744386 />
+</SESSION>
+<SYSTEM event=END_CLICK systemTimestamp=1346610754387 />

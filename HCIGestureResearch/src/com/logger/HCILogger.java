@@ -213,6 +213,10 @@ public class HCILogger {
     }
 
     public void setLogFolderName(String participantID) {
+        setLogFolderName(participantID,"","");
+    }
+
+    public void setLogFolderName(String participantID, String testType, String inputSet) {
         HCILogger.getInstance();
 
         if(participantID == null)
@@ -222,12 +226,12 @@ public class HCILogger {
             return;
         }
 
-        createFileStructure(participantID);
+        createFileStructure(participantID, testType, inputSet);
 
         if(!appenderSet)setAppender();
     }
 
-    private static void createFileStructure(String participantID){
+    private static void createFileStructure(String participantID, String testType, String inputSet){
 
         String rootFolderString = "HCILogs"+File.separator+participantID;
         File rootFolder = new File(Environment.getExternalStorageDirectory()+ File.separator+rootFolderString);
@@ -237,7 +241,7 @@ public class HCILogger {
         rootFolder.setWritable(true);
 
         int items = rootFolder.listFiles().length;
-        String fileName =  participantID+(items+1)+".txt";
+        String fileName =  participantID+"-"+testType+"-"+inputSet+(items+1)+".txt";
         logFileName =  Environment.getExternalStorageDirectory()+ File.separator+rootFolderString+File.separator+fileName;
         File logFile = new File(logFileName);
         if(!logFile.exists())
