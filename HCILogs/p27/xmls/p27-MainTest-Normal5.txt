@@ -1,3 +1,1824 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <TextTest version="2.0.2" time="2147483.647" date="Sun Sep 02 14:56:43 EDT 2012">
+<entry value="115" char="s" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="113" char="q" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>salesmen</transcribed>
+<transcribed></transcribed>
+<entry value="111" char="o" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="119" char="w" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="119" char="w" time="2147483.647" />
+<transcribed>oeek</transcribed>
+<transcribed></transcribed>
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="118" char="v" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="119" char="w" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="118" char="v" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>a</transcribed>
+<transcribed></transcribed>
+<entry value="99" char="c" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="118" char="v" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>vote</transcribed>
+<transcribed></transcribed>
+<entry value="115" char="s" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="119" char="w" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="119" char="w" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="102" char="f" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>soon</transcribed>
+<transcribed></transcribed>
+<entry value="99" char="c" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="120" char="x" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>correct</transcribed>
+<transcribed></transcribed>
+<entry value="119" char="w" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="102" char="f" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="-1" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="122" char="z" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="120" char="x" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="120" char="x" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="120" char="x" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="120" char="x" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>win</transcribed>
+<transcribed></transcribed>
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="102" char="f" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<transcribed>the</transcribed>
+<transcribed></transcribed>
+<entry value="100" char="d" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="119" char="w" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<transcribed>dormitory</transcribed>
+<transcribed></transcribed>
+<entry value="97" char="a" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="118" char="v" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="98" char="b" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<transcribed>an</transcribed>
+<transcribed></transcribed>
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="102" char="f" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="120" char="x" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="118" char="v" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<transcribed>a</transcribed>
+<transcribed></transcribed>
+<entry value="103" char="g" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="98" char="b" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="118" char="v" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>gamblers</transcribed>
+<transcribed></transcribed>
+<entry value="97" char="a" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="119" char="w" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<transcribed>all</transcribed>
+<transcribed></transcribed>
+<entry value="120" char="x" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="119" char="w" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="102" char="f" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>xome!</transcribed>
+<transcribed></transcribed>
+<entry value="103" char="g" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="102" char="f" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="122" char="z" time="2147483.647" />
+<entry value="122" char="z" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="98" char="b" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<transcribed>go</transcribed>
+<transcribed></transcribed>
+<entry value="-1" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="118" char="v" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>a</transcribed>
+<transcribed></transcribed>
+<entry value="119" char="w" time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="98" char="b" time="2147483.647" />
+<entry value="119" char="w" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>what</transcribed>
+<transcribed></transcribed>
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="98" char="b" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-1" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="98" char="b" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<transcribed>the</transcribed>
+<transcribed></transcribed>
+<entry value="115" char="s" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="98" char="b" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<transcribed>sing</transcribed>
+<transcribed></transcribed>
+<entry value="98" char="b" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="98" char="b" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="102" char="f" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="-6" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="-6" time="2147483.647" />
+<transcribed>bee</transcribed>
+<entry value="109" char="m" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="120" char="x" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="98" char="b" time="2147483.647" />
+<entry value="106" char="j" time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<transcribed>microscopes</transcribed>
+<transcribed></transcribed>
+<entry value="119" char="w" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="118" char="v" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="106" char="j" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>what?</transcribed>
+<transcribed></transcribed>
+<entry value="97" char="a" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="118" char="v" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="98" char="b" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<transcribed>an</transcribed>
+<transcribed></transcribed>
+<entry value="107" char="k" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="119" char="w" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="119" char="w" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="106" char="j" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<transcribed>what?</transcribed>
+<transcribed></transcribed>
+<entry value="119" char="w" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="118" char="v" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="106" char="j" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>what?</transcribed>
+<transcribed></transcribed>
+<entry value="116" char="t" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="118" char="v" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="120" char="x" time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="118" char="v" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<transcribed>tickets</transcribed>
+<transcribed></transcribed>
+<entry value="100" char="d" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="102" char="f" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="102" char="f" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>destruction</transcribed>
+<transcribed></transcribed>
+<entry value="121" char="y" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="118" char="v" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<transcribed>yes!</transcribed>
+<transcribed></transcribed>
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="102" char="f" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="122" char="z" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>this</transcribed>
+<transcribed></transcribed>
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="106" char="j" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<transcribed>the</transcribed>
+<transcribed></transcribed>
+<entry value="119" char="w" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="113" char="q" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>quick!</transcribed>
+<transcribed></transcribed>
+<entry value="99" char="c" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="119" char="w" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="120" char="x" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>come!</transcribed>
+<transcribed></transcribed>
+<entry value="105" char="i" time="2147483.647" />
+<entry value="102" char="f" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="102" char="f" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<transcribed>if</transcribed>
+<transcribed></transcribed>
+<entry value="107" char="k" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="119" char="w" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="119" char="w" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="102" char="f" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<transcribed>luckily</transcribed>
+<transcribed></transcribed>
+<entry value="107" char="k" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="102" char="f" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="98" char="b" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<transcribed>life</transcribed>
+<transcribed></transcribed>
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="106" char="j" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="119" char="w" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="98" char="b" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<transcribed>a</transcribed>
+<transcribed></transcribed>
+<entry value="115" char="s" time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="-1" time="2147483.647" />
+<entry value="99" char="c" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="103" char="g" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="112" char="p" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>space</transcribed>
+<transcribed></transcribed>
+<entry value="119" char="w" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="98" char="b" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="-4" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="102" char="f" time="2147483.647" />
+<entry value="102" char="f" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<transcribed>we</transcribed>
+<transcribed></transcribed>
+<entry value="119" char="w" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="109" char="m" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="107" char="k" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="119" char="w" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<transcribed>what</transcribed>
+<transcribed></transcribed>
+<entry value="119" char="w" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="97" char="a" time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="116" char="t" time="2147483.647" />
+<entry value="104" char="h" time="2147483.647" />
+<entry value="101" char="e" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="111" char="o" time="2147483.647" />
+<entry value="105" char="i" time="2147483.647" />
+<entry value="108" char="l" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="117" char="u" time="2147483.647" />
+<entry value="110" char="n" time="2147483.647" />
+<entry value="115" char="s" time="2147483.647" />
+<entry value="32" char=" " time="2147483.647" />
+<entry value="100" char="d" time="2147483.647" />
+<entry value="114" char="r" time="2147483.647" />
+<entry value="121" char="y" time="2147483.647" />
+<transcribed>what?</transcribed>
 </TextTest>

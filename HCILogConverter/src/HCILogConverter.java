@@ -71,7 +71,20 @@ public class HCILogConverter {
     private String handleKeyTag(String line){
         StringBuilder sb = new StringBuilder("");
         sb.append("<entry ");
-//        String ch=line.substring(line.indexOf("printKey='")+10,1);
+        if(line.contains("keyCode")){
+            String value=line.substring(line.indexOf("keyCode=")+8);
+            value = value.substring(0,value.indexOf(" "));
+            //enter key
+            if(value.equalsIgnoreCase("10")) return "";
+            //enter key double send
+            if(value.equalsIgnoreCase("66") && !line.contains("x=")) return "";
+            sb.append("value=\""+value+"\" ");
+        }
+        if(line.contains("printKey='")){
+            String ch=line.substring(line.indexOf("printKey='")+10);
+            ch = ch.substring(0,ch.indexOf("'"));
+            sb.append("char=\""+ch+"\" ");
+        }
 
         String timeStamp = line.substring(line.indexOf("systemTimestamp=")+16);
         timeStamp = timeStamp.substring(0,timeStamp.indexOf(" "));
@@ -79,26 +92,33 @@ public class HCILogConverter {
         double timeD = Math.round(time)/1000.0;
         sb.append("time=\""+timeD+"\" />");
 
-        return "";
+        return sb.toString();
     }
 
     private String handleSystemTag(String line){
         StringBuilder sb = new StringBuilder("");
         String eventStr = line.substring(line.indexOf("event=")+6);
-        eventStr = eventStr.substring(0,eventStr.indexOf(" "));
-        if(!eventStr.contains(":"))
-            return "";
 
-        String event=eventStr.substring(0,eventStr.indexOf(":"));
 
-        if(event.contains("MIXED_PHRASE_LOADED")){
+        if(eventStr.contains("MIXED_PHRASE_LOADED")){
             sb.append("<presented>");
             String phrase=eventStr.substring(eventStr.indexOf(":"));
+            phrase = phrase.substring(0,phrase.indexOf(" "));
             sb.append(phrase);
             sb.append("</presented>");
         }
-        //if(event.contains("LogEnteredText"))
+        if(eventStr.contains("LogEnteredText")){
+               // text=$xx"o
+            sb.append("<transcribed>");
+            String phrase=eventStr.substring(eventStr.indexOf("text=")+5);
+            phrase=phrase.substring(0,phrase.indexOf(" "));
+            sb.append(phrase);
+            sb.append("</transcribed>");
+        }
+        //<SYSTEM event=Session_End systemTimestamp=1346611653707 />
+        if(eventStr.contains("Session_End")){
 
+        }
 
         return sb.toString();
     }
@@ -125,6 +145,8 @@ public class HCILogConverter {
         BufferedReader br = new BufferedReader(new FileReader(xmlFile));
         String line, text="";
         while((line = br.readLine())!= null){
+            if(line.startsWith("<TOUCH"))
+                continue;
             if(line.startsWith("<SESSION")){
                 text = handleSessionStartTag(line);
             }else if(line.startsWith("<KEY")){

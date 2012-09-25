@@ -2579,8 +2579,10 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
     private void addPredictedChar(char ch){
         //sendKeyChar(ch);
         //sendDownUpKeyEvents(Keyboard.getSymbolsCode(ch));
-        onCodeInput(Keyboard.getSymbolsCode(ch),-1,-1);
+        int keyCode = Keyboard.getSymbolsCode(ch);
+        onCodeInput(keyCode,-1,-1);
         //sendUpDownEnterOrBackspace();
+        hapticAndAudioFeedback(keyCode);
     }
 
     private void addPredictedChar(String str){
