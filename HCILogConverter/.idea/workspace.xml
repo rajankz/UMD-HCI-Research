@@ -70,7 +70,7 @@
       <file leaf-file-name="HCILogConverter.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HCILogConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="95" selection-start="3637" selection-end="3637" vertical-scroll-proportion="0.9136364">
+            <state line="110" column="114" selection-start="3666" selection-end="3666" vertical-scroll-proportion="0.675">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#preProcess#0;class#HCILogConverter#0" expanded="false" />
@@ -379,7 +379,7 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3513889" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3513889" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -470,7 +470,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HCILogConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="95" selection-start="3637" selection-end="3637" vertical-scroll-proportion="0.9136364">
+        <state line="110" column="114" selection-start="3666" selection-end="3666" vertical-scroll-proportion="0.675">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#preProcess#0;class#HCILogConverter#0" expanded="false" />

@@ -112,12 +112,21 @@ public class HCILogConverter {
             sb.append("<transcribed>");
             String phrase=eventStr.substring(eventStr.indexOf("text=")+5);
             phrase=phrase.substring(0,phrase.indexOf(" "));
+            if(phrase.equalsIgnoreCase("")) return "";
             sb.append(phrase);
             sb.append("</transcribed>");
         }
         //<SYSTEM event=Session_End systemTimestamp=1346611653707 />
         if(eventStr.contains("Session_End")){
-
+            //<close error="0" time="167046.304" date="Friday, April 16, 2004 06:32:09"/>
+            sb.append("<close error=\"0\" ");
+            String timeStamp = line.substring(line.indexOf("systemTimestamp=")+16);
+            timeStamp = timeStamp.substring(0,timeStamp.indexOf(" "));
+            long time=Long.parseLong(timeStamp);
+            double timeD = Math.round(time)/1000.0;
+            sb.append("time=\""+timeD+"\" ");
+            Date date = new Date(time);
+            sb.append("date=\""+date.toString()+"\"/>");
         }
 
         return sb.toString();

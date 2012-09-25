@@ -12,7 +12,6 @@
 <entry value="111" char="o" time="2147483.647" />
 <transcribed>$xx"o</transcribed>
 <presented>:qu"ni</presented>
-<transcribed></transcribed>
 <entry value="113" char="q" time="2147483.647" />
 <entry value="117" char="u" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
@@ -22,7 +21,6 @@
 <entry value="105" char="i" time="2147483.647" />
 <transcribed>qu"no</transcribed>
 <presented>:r'"-r</presented>
-<transcribed></transcribed>
 <entry value="114" char="r" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
 <entry value="34" char=""" time="2147483.647" />
@@ -36,7 +34,6 @@
 <entry value="114" char="r" time="2147483.647" />
 <transcribed>r'"-r</transcribed>
 <presented>:#xaih</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="35" char="#" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
@@ -46,7 +43,6 @@
 <entry value="104" char="h" time="2147483.647" />
 <transcribed>#xaih</transcribed>
 <presented>:t"pf%</presented>
-<transcribed></transcribed>
 <entry value="114" char="r" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
 <entry value="-4" time="2147483.647" />
@@ -61,7 +57,6 @@
 <entry value="37" char="%" time="2147483.647" />
 <transcribed>t"pf%</transcribed>
 <presented>:dph-n</presented>
-<transcribed></transcribed>
 <entry value="100" char="d" time="2147483.647" />
 <entry value="112" char="p" time="2147483.647" />
 <entry value="104" char="h" time="2147483.647" />
@@ -71,7 +66,6 @@
 <entry value="110" char="n" time="2147483.647" />
 <transcribed>dph-n</transcribed>
 <presented>:&h-b@</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="38" char="&" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
@@ -84,7 +78,6 @@
 <entry value="64" char="@" time="2147483.647" />
 <transcribed>&h-b@</transcribed>
 <presented>:sb!xl</presented>
-<transcribed></transcribed>
 <entry value="115" char="s" time="2147483.647" />
 <entry value="98" char="b" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
@@ -95,7 +88,6 @@
 <entry value="108" char="l" time="2147483.647" />
 <transcribed>sb!xl</transcribed>
 <presented>:l'%zl</presented>
-<transcribed></transcribed>
 <entry value="108" char="l" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
 <entry value="34" char=""" time="2147483.647" />
@@ -109,7 +101,6 @@
 <entry value="108" char="l" time="2147483.647" />
 <transcribed>l"%zl</transcribed>
 <presented>:mur"u</presented>
-<transcribed></transcribed>
 <entry value="109" char="m" time="2147483.647" />
 <entry value="117" char="u" time="2147483.647" />
 <entry value="114" char="r" time="2147483.647" />
@@ -127,7 +118,6 @@
 <entry value="117" char="u" time="2147483.647" />
 <transcribed>mur"u</transcribed>
 <presented>:'"#?k</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="39" char="" time="2147483.647" />
 <entry value="34" char=""" time="2147483.647" />
@@ -137,7 +127,6 @@
 <entry value="107" char="k" time="2147483.647" />
 <transcribed>'"#?k</transcribed>
 <presented>:'%'#i</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="39" char="" time="2147483.647" />
 <entry value="37" char="%" time="2147483.647" />
@@ -147,7 +136,6 @@
 <entry value="105" char="i" time="2147483.647" />
 <transcribed>'%'#i</transcribed>
 <presented>:##!s"</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="35" char="#" time="2147483.647" />
 <entry value="35" char="#" time="2147483.647" />
@@ -158,7 +146,6 @@
 <entry value="34" char=""" time="2147483.647" />
 <transcribed>##!s"</transcribed>
 <presented>:-fa!$</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="45" char="-" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
@@ -169,7 +156,6 @@
 <entry value="36" char="$" time="2147483.647" />
 <transcribed>-fa!$</transcribed>
 <presented>:m%bc!</presented>
-<transcribed></transcribed>
 <entry value="109" char="m" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
 <entry value="37" char="%" time="2147483.647" />
@@ -180,7 +166,6 @@
 <entry value="33" char="!" time="2147483.647" />
 <transcribed>m%bc!</transcribed>
 <presented>:#ll-#</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="35" char="#" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
@@ -191,7 +176,6 @@
 <entry value="35" char="#" time="2147483.647" />
 <transcribed>#ll-#</transcribed>
 <presented>:n&htb</presented>
-<transcribed></transcribed>
 <entry value="110" char="n" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
 <entry value="38" char="&" time="2147483.647" />
@@ -201,7 +185,6 @@
 <entry value="98" char="b" time="2147483.647" />
 <transcribed>n&htb</transcribed>
 <presented>:zxbi"</presented>
-<transcribed></transcribed>
 <entry value="122" char="z" time="2147483.647" />
 <entry value="120" char="x" time="2147483.647" />
 <entry value="110" char="n" time="2147483.647" />
@@ -212,7 +195,6 @@
 <entry value="34" char=""" time="2147483.647" />
 <transcribed>zxbi"</transcribed>
 <presented>:n#@ys</presented>
-<transcribed></transcribed>
 <entry value="110" char="n" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
 <entry value="35" char="#" time="2147483.647" />
@@ -222,7 +204,6 @@
 <entry value="115" char="s" time="2147483.647" />
 <transcribed>n#@yes</transcribed>
 <presented>:#@@sw</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="36" char="$" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
@@ -243,7 +224,6 @@
 <entry value="108" char="l" time="2147483.647" />
 <transcribed>$ovyl</transcribed>
 <presented>:hbv@u</presented>
-<transcribed></transcribed>
 <entry value="104" char="h" time="2147483.647" />
 <entry value="98" char="b" time="2147483.647" />
 <entry value="118" char="v" time="2147483.647" />
@@ -253,7 +233,6 @@
 <entry value="117" char="u" time="2147483.647" />
 <transcribed>hbv@u</transcribed>
 <presented>:#-ler</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="35" char="#" time="2147483.647" />
 <entry value="45" char="-" time="2147483.647" />
@@ -263,7 +242,6 @@
 <entry value="114" char="r" time="2147483.647" />
 <transcribed>#-let</transcribed>
 <presented>:!rh#m</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="33" char="!" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
@@ -275,7 +253,6 @@
 <entry value="109" char="m" time="2147483.647" />
 <transcribed>!rh#m</transcribed>
 <presented>:tbu"'</presented>
-<transcribed></transcribed>
 <entry value="116" char="t" time="2147483.647" />
 <entry value="98" char="b" time="2147483.647" />
 <entry value="117" char="u" time="2147483.647" />
@@ -284,7 +261,6 @@
 <entry value="39" char="" time="2147483.647" />
 <transcribed>tbu"'</transcribed>
 <presented>:"%j'%</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="34" char=""" time="2147483.647" />
 <entry value="37" char="%" time="2147483.647" />
@@ -295,7 +271,6 @@
 <entry value="37" char="%" time="2147483.647" />
 <transcribed>"%j'%</transcribed>
 <presented>:te&re</presented>
-<transcribed></transcribed>
 <entry value="116" char="t" time="2147483.647" />
 <entry value="101" char="e" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
@@ -308,7 +283,6 @@
 <entry value="101" char="e" time="2147483.647" />
 <transcribed>te&re</transcribed>
 <presented>:vg@nj</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
 <entry value="118" char="v" time="2147483.647" />
@@ -321,7 +295,6 @@
 <entry value="106" char="j" time="2147483.647" />
 <transcribed>vg@nj</transcribed>
 <presented>:?!k#&</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="63" char="?" time="2147483.647" />
 <entry value="33" char="!" time="2147483.647" />
@@ -334,7 +307,6 @@
 <entry value="38" char="&" time="2147483.647" />
 <transcribed>?!k#&</transcribed>
 <presented>:s?-t"</presented>
-<transcribed></transcribed>
 <entry value="115" char="s" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
 <entry value="63" char="?" time="2147483.647" />
@@ -345,7 +317,6 @@
 <entry value="34" char=""" time="2147483.647" />
 <transcribed>s?-t"</transcribed>
 <presented>:c$@og</presented>
-<transcribed></transcribed>
 <entry value="99" char="c" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
 <entry value="36" char="$" time="2147483.647" />
@@ -357,7 +328,6 @@
 <entry value="103" char="g" time="2147483.647" />
 <transcribed>c$@of</transcribed>
 <presented>:!zqgk</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="33" char="!" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
@@ -367,7 +337,6 @@
 <entry value="107" char="k" time="2147483.647" />
 <transcribed>!zqgk</transcribed>
 <presented>:lw@'u</presented>
-<transcribed></transcribed>
 <entry value="108" char="l" time="2147483.647" />
 <entry value="119" char="w" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
@@ -377,7 +346,6 @@
 <entry value="117" char="u" time="2147483.647" />
 <transcribed>LW@'u</transcribed>
 <presented>:k!iu&</presented>
-<transcribed></transcribed>
 <entry value="107" char="k" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
 <entry value="33" char="!" time="2147483.647" />
@@ -388,7 +356,6 @@
 <entry value="38" char="&" time="2147483.647" />
 <transcribed>k!ITU&</transcribed>
 <presented>:-b?&d</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="45" char="-" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
@@ -402,7 +369,6 @@
 <entry value="100" char="d" time="2147483.647" />
 <transcribed>-b?&d</transcribed>
 <presented>:""?iw</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="34" char=""" time="2147483.647" />
 <entry value="34" char=""" time="2147483.647" />
@@ -414,7 +380,6 @@
 <entry value="119" char="w" time="2147483.647" />
 <transcribed>""?is</transcribed>
 <presented>:$t%"v</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="36" char="$" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
@@ -426,7 +391,6 @@
 <entry value="118" char="v" time="2147483.647" />
 <transcribed>$t%"v</transcribed>
 <presented>:ly@&-</presented>
-<transcribed></transcribed>
 <entry value="108" char="l" time="2147483.647" />
 <entry value="121" char="y" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
@@ -438,7 +402,6 @@
 <entry value="45" char="-" time="2147483.647" />
 <transcribed>ly@&-</transcribed>
 <presented>:v'qha</presented>
-<transcribed></transcribed>
 <entry value="118" char="v" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
 <entry value="39" char="" time="2147483.647" />
@@ -448,7 +411,6 @@
 <entry value="97" char="a" time="2147483.647" />
 <transcribed>v'qha</transcribed>
 <presented>:i%$'g</presented>
-<transcribed></transcribed>
 <entry value="-2" time="2147483.647" />
 <entry value="-2" time="2147483.647" />
 <entry value="105" char="i" time="2147483.647" />
@@ -459,4 +421,5 @@
 <entry value="-2" time="2147483.647" />
 <entry value="103" char="g" time="2147483.647" />
 <transcribed>i%$'g</transcribed>
+<close error="0" time="2147483.647" date="Sun Sep 02 14:47:33 EDT 2012"/>
 </TextTest>
