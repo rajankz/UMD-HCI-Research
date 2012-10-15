@@ -796,7 +796,8 @@ public class AndroidSpellCheckerService extends SpellCheckerService
                 }
 
                 final SuggestionsGatherer.Result result = suggestionsGatherer.getResults(
-                        capitalizeType, mLocale);
+                        //capitalizeType, mLocale);
+                        0, mLocale);
 
                 if (DBG) {
                     Log.i(TAG, "Spell checking results for " + text + " with suggestion limit "

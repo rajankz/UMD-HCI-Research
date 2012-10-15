@@ -33,6 +33,7 @@
         android:background="#eeeeee"
         android:paddingTop="10dp"
         android:paddingBottom="10dp"
+        android:singleLine="true"
             />
 
 </LinearLayout>

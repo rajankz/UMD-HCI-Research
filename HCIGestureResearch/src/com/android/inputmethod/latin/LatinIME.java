@@ -32,6 +32,7 @@ import android.content.res.Configuration;
 import android.content.res.Resources;
 import android.gesture.*;
 import android.graphics.Rect;
+import android.graphics.RectF;
 import android.inputmethodservice.InputMethodService;
 import android.media.AudioManager;
 import android.net.ConnectivityManager;
@@ -453,6 +454,8 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
         if (!mLibrary.load()) {
             stopSelf();
         }
+        mLibrary1.setSequenceType(2);
+        mLibrary1.setOrientationStyle(2);
         if (!mLibrary1.load()) {
             stopSelf();
         }
@@ -2557,14 +2560,22 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
         }
         if (predictions.size() > 0) {
             prediction = predictions.get(0);
-
+            char predictedChar;
             // We want at least some confidence in the result
             if (prediction.score > 1.0) {
+                predictedChar = prediction.name.toCharArray()[0];
+                if(prediction.name.equalsIgnoreCase("'")){
+                    RectF rect = gesture.getBoundingBox();
+                    if(rect.height() < rect.width()) {
+                        predictedChar = '-';
+                    }
+
+                }
                 //HCILogger.getInstance().info(Calendar.getInstance().getTimeInMillis() + ": Predicted Char: " + prediction.name);
                 //addPredictedChar(prediction.name);
-                addPredictedChar(prediction.name.toCharArray()[0]);
+                addPredictedChar(predictedChar);
                 Log.i(TAG,prediction.name.charAt(0)+" "+prediction.score);
-                HCILogger.getInstance().logSymbol(prediction.name.charAt(0),prediction.score, Calendar.getInstance().getTimeInMillis());
+                HCILogger.getInstance().logSymbol(predictedChar,prediction.score, Calendar.getInstance().getTimeInMillis());
             }
         }
         if(predictions.size()>1){

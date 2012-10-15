@@ -50,10 +50,14 @@
                 android:layout_height="wrap_content"
                 android:checkedButton="@+id/radio_mainTest"
                 android:orientation="horizontal">
-            <RadioButton android:id="@+id/radio_practice"
+            <RadioButton android:id="@+id/radio_init"
                          android:layout_width="wrap_content"
                          android:layout_height="wrap_content"
-                         android:text="Practice" />
+                         android:text="Initial" />
+            <RadioButton android:id="@+id/radio_training"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="Training" />
             <RadioButton android:id="@+id/radio_mainTest"
                          android:layout_width="wrap_content"
                          android:layout_height="wrap_content"

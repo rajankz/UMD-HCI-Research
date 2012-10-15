@@ -52,8 +52,8 @@ public class StartActivity extends Activity implements OnClickListener, RadioGro
     int numOfSets;
     int numOfPhrases;
 
-    int numPracticeBlock = 1;
-    int numPracticeTrials = 20;
+    int numTrainingBlock = 1;
+    int numTrainingTrails = 20;
     int numMainTestBlock = 2;
     int numMainTestTrials = 20;
 
@@ -65,7 +65,7 @@ public class StartActivity extends Activity implements OnClickListener, RadioGro
 
 
 
-    enum TestType{Practice, MainTest};
+    enum TestType{Initial, Training, MainTest};
     enum InputSet{Normal, Mixed};
 
     boolean enableGestures;
@@ -82,7 +82,7 @@ public class StartActivity extends Activity implements OnClickListener, RadioGro
     private ArrayList<String> phraseList = new ArrayList<String>();
 
     EditText etNumSets, etNumPhrases;
-    RadioButton rbPractice, rbMainTest, rbNormal, rbMixed;
+    RadioButton rbTraining, rbMainTest, rbNormal, rbMixed;
     RadioGroup rgTestType, rgInputSet;
 
 
@@ -135,7 +135,7 @@ public class StartActivity extends Activity implements OnClickListener, RadioGro
     private void setListeners(){
         etNumSets = (EditText)findViewById(R.id.numSets);
         etNumPhrases = (EditText)findViewById(R.id.numPhrases);
-        rbPractice = (RadioButton)findViewById(R.id.radio_practice);
+        rbTraining = (RadioButton)findViewById(R.id.radio_training);
         rbMainTest = (RadioButton)findViewById(R.id.radio_mainTest);
         rbNormal = (RadioButton)findViewById(R.id.radio_normal);
         rbMixed = (RadioButton)findViewById(R.id.radio_mixed);
@@ -150,9 +150,18 @@ public class StartActivity extends Activity implements OnClickListener, RadioGro
     public void onCheckedChanged(RadioGroup radioGroup, int checkedId) {
         Log.i(TAG,"radio changed"+checkedId);
         switch(checkedId){
-            case R.id.radio_practice:
-                etNumSets.setText(""+numPracticeBlock);
-                etNumPhrases.setText(""+numPracticeTrials);
+            case R.id.radio_init:
+                etNumSets.setText("1");
+                etNumPhrases.setText("20");
+                etNumSets.setEnabled(false);
+                etNumPhrases.setEnabled(false);
+                rgInputSet.check(rbNormal.getId());
+                rbNormal.setEnabled(false);
+                rbMixed.setEnabled(false);
+                break;
+            case R.id.radio_training:
+                etNumSets.setText(""+ numTrainingBlock);
+                etNumPhrases.setText(""+ numTrainingTrails);
                 etNumSets.setEnabled(false);
                 etNumPhrases.setEnabled(false);
                 rgInputSet.check(rbNormal.getId());
@@ -189,8 +198,12 @@ public class StartActivity extends Activity implements OnClickListener, RadioGro
         numOfPhrases = Integer.valueOf(((EditText)findViewById(R.id.numPhrases)).getText().toString());
 
         rGroup = (RadioGroup)findViewById(R.id.radgrpTestType);
-        if(rGroup.getCheckedRadioButtonId() == R.id.radio_practice)  {
-            mTestType = TestType.Practice.toString();
+        if(rGroup.getCheckedRadioButtonId() == R.id.radio_init)  {
+            mTestType = TestType.Initial.toString();
+            iStream = getResources().openRawResource(R.raw.init);
+        }
+        else if(rGroup.getCheckedRadioButtonId() == R.id.radio_training)  {
+            mTestType = TestType.Training.toString();
             iStream = getResources().openRawResource(R.raw.practice);
         }
         else if(rGroup.getCheckedRadioButtonId() == R.id.radio_mainTest)  {
@@ -230,9 +243,10 @@ public class StartActivity extends Activity implements OnClickListener, RadioGro
     public void onClick(View view) {
         if(view.getId() == R.id.startButton){
             getAllValues();
-            String testType = rgTestType.getCheckedRadioButtonId()==R.id.radio_practice?TestType.Practice.toString():TestType.MainTest.toString();
+            String testType = rgTestType.getCheckedRadioButtonId()==R.id.radio_training ?TestType.Training.toString():
+                    (rgTestType.getCheckedRadioButtonId()==R.id.radio_init?TestType.Initial.toString():TestType.MainTest.toString());
             String inputSet = rgInputSet.getCheckedRadioButtonId()==R.id.radio_normal?InputSet.Normal.toString():InputSet.Mixed.toString();
-            if(testType.equalsIgnoreCase(TestType.Practice.toString()))
+            if(testType.equalsIgnoreCase(TestType.Training.toString())||testType.equalsIgnoreCase(TestType.Initial.toString()))
                 inputSet = "";
             HCILogger.getInstance().setLogFolderName(participantID, testType, inputSet);
             HCILogger.getInstance().logSessionStart(participantID, enableGestures, enableAlternateKeyboard, mTestType, mInputSet,numOfSets,numOfPhrases,Calendar.getInstance().getTimeInMillis());
@@ -256,7 +270,8 @@ public class StartActivity extends Activity implements OnClickListener, RadioGro
             HCILogger.getInstance().error("Cannot Read from Phrases File");
             phraseText.setText("ERROR::Please contact the coordinator.");
         }
-        Collections.shuffle(phraseList, new Random());
+        if(!mTestType.equalsIgnoreCase("Training"))
+            Collections.shuffle(phraseList, new Random());
     }
 
     private void showPhraseScreen(){
