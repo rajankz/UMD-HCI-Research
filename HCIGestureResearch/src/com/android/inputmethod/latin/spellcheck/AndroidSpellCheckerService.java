@@ -475,8 +475,10 @@ public class AndroidSpellCheckerService extends SpellCheckerService
         // else is lower case, or if everything else is upper case. If the string is
         // exactly one char long, then we will arrive here with capsCount 1, and this is
         // correct, too.
+
         if (1 == capsCount) return CAPITALIZE_FIRST;
         return (len == capsCount ? CAPITALIZE_ALL : CAPITALIZE_NONE);
+        //return CAPITALIZE_NONE;
     }
 
     private static class AndroidSpellCheckerSession extends Session {

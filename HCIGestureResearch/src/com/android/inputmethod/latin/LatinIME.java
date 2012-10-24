@@ -2570,7 +2570,14 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
                         predictedChar = '-';
                     }
 
+                }else if(prediction.name.equalsIgnoreCase("-")){
+                    RectF rect = gesture.getBoundingBox();
+                    if(rect.height() > rect.width()) {
+                        predictedChar = '\'';
+                    }
+
                 }
+
                 //HCILogger.getInstance().info(Calendar.getInstance().getTimeInMillis() + ": Predicted Char: " + prediction.name);
                 //addPredictedChar(prediction.name);
                 addPredictedChar(predictedChar);

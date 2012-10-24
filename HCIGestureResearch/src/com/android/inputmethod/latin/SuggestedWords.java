@@ -165,9 +165,15 @@ public class SuggestedWords {
             if (candidates.size() <= 1) {
                 return;
             }
-            int i = 1;
+            int i = 1;  String lowerCase;
             while(i < candidates.size()) {
                 final SuggestedWordInfo cur = candidates.get(i);
+                //rajankz
+                lowerCase = cur.mWord.toString().toLowerCase();
+                if(!cur.mWord.toString().equals(lowerCase) && cur.mWord.toString().equalsIgnoreCase(lowerCase)){
+                    candidates.remove(i);
+                    continue;
+                }
                 for (int j = 0; j < i; ++j) {
                     final SuggestedWordInfo previous = candidates.get(j);
                     if (TextUtils.equals(cur.mWord, previous.mWord)) {

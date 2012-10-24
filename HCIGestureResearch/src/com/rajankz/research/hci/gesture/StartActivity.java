@@ -152,7 +152,7 @@ public class StartActivity extends Activity implements OnClickListener, RadioGro
         switch(checkedId){
             case R.id.radio_init:
                 etNumSets.setText("1");
-                etNumPhrases.setText("20");
+                etNumPhrases.setText("10");
                 etNumSets.setEnabled(false);
                 etNumPhrases.setEnabled(false);
                 rgInputSet.check(rbNormal.getId());
@@ -243,11 +243,19 @@ public class StartActivity extends Activity implements OnClickListener, RadioGro
     public void onClick(View view) {
         if(view.getId() == R.id.startButton){
             getAllValues();
-            String testType = rgTestType.getCheckedRadioButtonId()==R.id.radio_training ?TestType.Training.toString():
-                    (rgTestType.getCheckedRadioButtonId()==R.id.radio_init?TestType.Initial.toString():TestType.MainTest.toString());
+            String testType="";
+            if(rgTestType.getCheckedRadioButtonId()==R.id.radio_training)
+                testType = TestType.Training.toString();
+            else if(rgTestType.getCheckedRadioButtonId()==R.id.radio_init)
+                testType = TestType.Initial.toString();
+            else if(rgTestType.getCheckedRadioButtonId()==R.id.radio_mainTest)
+                testType = TestType.MainTest.toString();
+
+
+
             String inputSet = rgInputSet.getCheckedRadioButtonId()==R.id.radio_normal?InputSet.Normal.toString():InputSet.Mixed.toString();
             if(testType.equalsIgnoreCase(TestType.Training.toString())||testType.equalsIgnoreCase(TestType.Initial.toString()))
-                inputSet = "";
+                inputSet = InputSet.Normal.toString();
             HCILogger.getInstance().setLogFolderName(participantID, testType, inputSet);
             HCILogger.getInstance().logSessionStart(participantID, enableGestures, enableAlternateKeyboard, mTestType, mInputSet,numOfSets,numOfPhrases,Calendar.getInstance().getTimeInMillis());
 
@@ -280,6 +288,7 @@ public class StartActivity extends Activity implements OnClickListener, RadioGro
         txtNum = (TextView)findViewById(R.id.txtNum);
 
         phraseInput = (EditText)findViewById(R.id.editText);
+        phraseInput.setAllCaps(false);
         //phraseInput.setInputType(InputType.);
         //if mixed words then do not show suggestions
         if(mInputSet.equals(InputSet.Mixed.toString())){
@@ -391,13 +400,14 @@ public class StartActivity extends Activity implements OnClickListener, RadioGro
 
     @Override
     protected void onPause(){
-        HCILogger.getInstance().setLogFolderName("");
+        //HCILogger.getInstance().setLogFolderName("");
         super.onPause();
+        finish();
     }
 
     @Override
     protected  void onResume(){
-        HCILogger.getInstance().setLogFolderName(participantID);
+        //HCILogger.getInstance().setLogFolderName(participantID);
         super.onResume();
     }
 
